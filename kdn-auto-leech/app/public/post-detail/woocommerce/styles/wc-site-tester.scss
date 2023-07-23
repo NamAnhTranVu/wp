@@ -1,0 +1,29 @@
+$colorGreen: #7CB342;
+$colorRed: #f44336;
+
+#woocommerce-details {
+
+  .gallery-image {
+    display: inline-block;
+
+    img {
+      max-height: 100px !important;
+    }
+
+  } // .gallery-image
+
+  .thumbnail-image {
+    a {
+      display: inline-block;
+    }
+  } // .thumbnail-image
+
+  .thumbnail-image, .gallery-image {
+
+    .title {
+      display: block;
+    }
+
+  } // .thumbnail-image, .gallery-image
+
+} // #woocommerce-details

@@ -1,0 +1,287 @@
+@import "variables";
+@import "mixins";
+@import "colors";
+@import "tooltip";
+@import "details";
+@import "colors";
+
+.details {
+  > h2 {
+    button {
+      position: absolute;
+      right: 4px;
+      top: 3px;
+      font-size: 11px;
+      font-weight: normal;
+
+      span {
+        margin-top: -2px;
+      }
+    } // button
+
+  } // > h2
+
+} // .details
+
+.test-results {
+  .content {
+    margin: 12px 0;
+  }
+
+  &.loading {
+
+    .content {
+      margin: 0;
+    }
+
+  } // &.loading
+
+} // .test-results
+
+.tab {
+  margin-top: 20px;
+}
+
+.button-container {
+
+  .button:not(:first-child) {
+    margin-left: 12px;
+  }
+
+} // .button-container
+
+td.image {
+
+  > a > img {
+    width: 30px;
+    height: 30px;
+  }
+
+} // td.image
+
+.dashicons-update {
+  -webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+} // @-webkit-keyframes rotation {
+
+#container-url-queue-manual-crawl {
+
+  .table-container {
+    overflow: scroll;
+  }
+
+  .table-controls {
+    margin: 8px 0;
+  }
+
+  #table-url-queue-manual-crawl {
+    width: 100%;
+    border-spacing: 0;
+
+    $border: 1px solid rgba(204, 204, 204, 0.2);
+
+    th {
+      font-weight: 600;
+    }
+
+    td, th {
+      padding: 6px;
+
+    } // td, th
+
+    thead {
+
+      th {
+
+        &.controls {
+          text-align: right;
+
+        } // &.controls
+
+      } // th
+
+      tr {
+        text-align: left;
+      }
+
+    } // thead
+
+    tbody {
+
+      td {
+
+        &.image {
+
+          .tooltip {
+
+            img {
+              display: block;
+              max-width: 100%;
+              max-height: 100%;
+              width: auto;
+              height: auto;
+            }
+
+          } // .tooltip
+
+        } // &.image
+
+        &.controls {
+          text-align: right;
+
+          .button {
+            margin-bottom: 2px;
+          }
+
+        } // &.controls
+
+        &.status {
+          font-weight: 600;
+
+          .dashicons-yes {
+            color: #66BB6A;
+          }
+
+          .dashicons-controls-pause {
+            color: #ccc;
+          }
+
+        } // &.status
+
+      } // tr
+
+      tr.url:not(.loading):hover {
+        background-color: rgba(204, 204, 204, 0.11);
+
+      } // tr:hover
+
+      tr {
+
+        &.loading {
+          background: #bfea92;
+
+          .controls {
+            button {
+              display: none;
+            }
+
+          } // .controls
+
+        } // &.loading
+
+        &.has-response {
+          &.done {
+            background: #eeffec;
+
+            &:hover {
+              background: #ddffd9
+            }
+
+          } // &.done
+
+          &.open {
+            $shadow: 0 3px 5px 0px rgba(0,0,0,0.3);
+
+            -webkit-box-shadow: $shadow;
+            -moz-box-shadow: $shadow;
+            box-shadow: $shadow;
+          } // &.open
+
+          td {
+            background: transparent;
+          }
+
+          &:hover {
+            cursor: pointer;
+          }
+        } // &.has-response
+
+        &:not(.has-response) {
+
+          button.repeat {
+            display: none;
+          }
+
+        } // &:not(.has-response)
+
+        &:not(.open) {
+
+          td {
+            border-bottom: $border;
+          }
+
+        } // &:not(.open)
+
+        &.response {
+          background: rgba(204, 204, 204, 0.15);
+
+          td {
+            background: transparent;
+            border-bottom: $border;
+          }
+        } // &.response
+
+      } // tr
+
+    } // tbody
+
+  } // #table-url-queue-manual-crawl
+
+  .info, #status {
+    padding: 6px;
+  }
+
+  .counts {
+    font-weight: 600;
+  }
+
+  #status {
+    border: 1px solid #ccc;
+    border-left: 0;
+    border-right: 0;
+
+    a {
+      padding: 4px;
+
+      &.category-url {
+        color: #F44336;
+      }
+
+    } // a
+
+  } // #status
+
+  a[role=button] {
+    font-weight: normal;
+    text-decoration: underline;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+  } // a[role=button]
+
+} // #container-url-queue-manual-crawl
+
+.todo {
+  border: 1px solid #ff4400;
+  color: #ff4400 !important;
+}
+
+button {
+
+  .dashicons {
+    vertical-align: middle;
+    margin-top: -6px;
+    pointer-events: none;
+  }
+
+} // button

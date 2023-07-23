@@ -1,0 +1,41 @@
+@import "variables";
+
+.info-list-container {
+
+  .title {
+    font-weight: 600;
+  }
+
+  ul {
+    margin-left: 24px;
+    list-style-type: decimal;
+
+    @media #{$mediaSm} {
+      margin-left: 12px;
+    }
+
+    li {
+
+      div {
+        display: block;
+        border: 0;
+        margin: 0;
+        padding: 0;
+        background: transparent;
+
+        .name {
+          font-weight: 600;
+        }
+
+        .description {
+          margin-left: 4px;
+          font-style: italic;
+        }
+
+      } // div
+
+    } // li
+
+  } // ul
+
+} // .info-list-container

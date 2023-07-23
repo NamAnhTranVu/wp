@@ -1,0 +1,57 @@
+@import "variables";
+@import "colors";
+
+.details {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  position: relative;
+  margin-bottom: 8px;
+
+  h2 {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+    border-bottom: 1px solid #eee;
+    font-weight: 600;
+
+    @media #{$mediaXs} {
+      font-size: 16px;
+    }
+
+    &.loading {
+      background-color: $colorGreen;
+    }
+
+    .small {
+      margin-left: 4px;
+      font-size: 11px;
+      font-weight: normal;
+    }
+
+    .button {
+      position: absolute;
+      right: 4px;
+      top: 3px;
+      font-size: 11px;
+      font-weight: normal;
+
+      @media #{$mediaXs} {
+        font-size: 13px;
+      }
+    }
+  } // h2
+
+  .inside {
+    margin: 6px 0 0;
+    position: relative;
+    padding: 0 12px 12px;
+    line-height: 1.4em;
+    font-size: 13px;
+
+    @media #{$mediaXs} {
+      font-size: 16px;
+    }
+  }
+
+} // .details

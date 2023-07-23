@@ -1,0 +1,30 @@
+.quick-save-container {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 0 10px 10px 0;
+  z-index: 1;
+
+  .quick-save {
+    padding: 6px;
+    background: #4CAF50;
+    font-size: 16px;
+    display: table;
+    border: 6px solid #66BB6A;
+
+    &:hover {
+      background: #66BB6A;
+      cursor: pointer;
+    }
+
+    .dashicons {
+      font-size: 36px;
+      font-weight: bold;
+      color: #fff;
+      display: table-cell;
+      vertical-align: middle;
+    }
+
+  } // .quick-save
+
+} // .quick-save-container

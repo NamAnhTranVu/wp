@@ -1,0 +1,16 @@
+@import "information";
+
+body {
+  background: #eaeaea;
+  padding: 32px;
+  font-family: Courier, sans-serif;
+  font-size: 14px;
+
+  @media #{$mediaSm} {
+    padding: 12px;
+  }
+}
+
+.title {
+  font-size: 20px;
+}

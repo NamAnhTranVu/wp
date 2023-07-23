@@ -1,0 +1,5222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KDN Auto Leech 2.3.4\n"
+"POT-Creation-Date: 2018-12-30 19:19+0300\n"
+"PO-Revision-Date: 2019-08-02 03:21+0000\n"
+"Last-Translator: admin <kdnautoleech@gmail.com>\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _kdn;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: public\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+msgid "Settings are updated, but password could not be changed."
+msgstr "Cài đặt đã được cập nhật, nhưng không thể thay đổi mật khẩu."
+
+msgid "Tester"
+msgstr "Thử nghiệm"
+
+msgid "Post Page"
+msgstr "Trang bài viết"
+
+msgid "Category Page"
+msgstr "Trang chuyên mục"
+
+msgid "Tools"
+msgstr "Công cụ"
+
+msgid "No URLs have been inserted."
+msgstr "Không có URL nào được thêm."
+
+msgid "1 URL has been inserted"
+msgstr "1 URL đã được thêm"
+
+msgid "%1$s URLs have been inserted"
+msgstr "%1$s URL đã được thêm"
+
+msgid "The post has been recrawled."
+msgstr "Bài viết đã được thu thập lại."
+
+msgid "The post has been saved."
+msgstr "Bài viết đã được lưu."
+
+msgid "You can check it here"
+msgstr "Bạn có thể kiểm tra ở đây"
+
+msgid "The post could not be saved."
+msgstr "Không thể lưu bài viết."
+
+msgid "No Title"
+msgstr "Không có tiêu đề"
+
+msgid "You should delete the duplicate post first"
+msgstr "Bạn nên xóa bài viết trùng lặp trước"
+
+msgid "The post is recrawled. You can check it here"
+msgstr "Bài viết được thu thập lại. Bạn có thể kiểm tra ở đây"
+
+msgid ""
+"The post could not be found or it might not have been saved by KDN Auto "
+"Leech."
+msgstr "Không tìm thấy bài viết hoặc nó không được lưu bởi KDN Auto Leech."
+
+msgid "You did not check the safety checkbox."
+msgstr "Bạn chưa đánh dấu xác nhận \"Tôi chắc chắn\"."
+
+msgid "Deleted successfully."
+msgstr "Xóa thành công."
+
+msgid "%s URLs have been unlocked."
+msgstr "%s URL đã được mở khóa."
+
+msgid "1 URL has been unlocked."
+msgstr "1 URL đã được mở khóa."
+
+msgid "There are no locked URLs currently."
+msgstr "Hiện tại không có URL nào bị khóa."
+
+msgid "Post ID"
+msgstr "ID bài viết"
+
+msgid "In Queue"
+msgstr "Đang chờ"
+
+msgid "Already Saved"
+msgstr "Đã lưu"
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid "An error occurred."
+msgstr "Có lỗi xảy ra."
+
+msgid "Press {0} to copy"
+msgstr "Nhấp {0} để sao chép"
+
+msgid "Copied!"
+msgstr "Đã sao chép!"
+
+msgid "No result."
+msgstr "Không có kết quả."
+
+msgid "Found"
+msgstr "Tìm thấy"
+
+msgid "This is required to perform the test."
+msgstr "Vui lòng nhập để thử nghiệm."
+
+msgid "This is required."
+msgstr "Điều này là bắt buộc."
+
+msgid "CSS selector found"
+msgstr "Bộ lọc CSS tìm thấy"
+
+msgid "Do you want to delete all test history?"
+msgstr "Bạn có muốn xóa hết lịch sử thử nghiệm?"
+
+msgid "URL data cannot be found."
+msgstr "Dữ liệu URL không thể tìm thấy."
+
+msgid "Currently crawling"
+msgstr "Hiện đang thu thập"
+
+msgid "Retrieving URLs from {0}"
+msgstr "Đang truy xuất URL từ {0}"
+
+msgid "Pause"
+msgstr "Tạm dừng"
+
+msgid "Continue"
+msgstr "Tiếp tục"
+
+msgid "Test data could not be retrieved."
+msgstr "Không thể truy xuất dữ liệu thử nghiệm ."
+
+msgid "Response of content retrieval process is not valid."
+msgstr "Phản hồi của quá trình truy xuất nội dung là không hợp lệ."
+
+msgid "Test data retrieval failed."
+msgstr "Lấy dữ liệu thử nghiệm thất bại."
+
+msgid "No URLs found."
+msgstr "Không có URL nào được tìm thấy."
+
+msgid "This is not valid."
+msgstr "Điều này không hợp lệ."
+
+msgid "URL data does not exist for this."
+msgstr "Dữ liệu URL không tồn tại cho điều này."
+
+msgid "This URL has not been crawled yet."
+msgstr "URL này chưa được thu thập dữ liệu."
+
+msgid "The URL cannot be retrieved."
+msgstr "Không thể truy xuất URL."
+
+msgid "The cache has been invalidated."
+msgstr "Bộ nhớ đệm đã bị vô hiệu hóa."
+
+msgid "The cache could not be invalidated."
+msgstr "Không thể vô hiệu hóa bộ nhớ đệm."
+
+msgid "All caches have been invalidated."
+msgstr "Tất cả bộ nhớ đệm đã bị vô hiệu hóa."
+
+msgid "All caches could not be invalidated."
+msgstr "Không thể vô hiệu hóa tất cả bộ nhớ đệm."
+
+msgid "Custom short code"
+msgstr "Shortcode tùy chỉnh"
+
+msgid "Post ID could not be found."
+msgstr "Không tìm thấy ID bài viết."
+
+msgid "Settings could not be retrieved."
+msgstr "Không thể truy xuất các cài đặt."
+
+msgid "The settings have been saved."
+msgstr "Đã lưu các cài đặt."
+
+msgid "The state could not be parsed."
+msgstr "Không thể phân tích cú pháp."
+
+msgid "Top"
+msgstr "Đầu"
+
+msgid "Last tried proxy: %1$s"
+msgstr "Proxy thử lần cuối: %1$s"
+
+msgid "URL: %1$s, Message: %2$s"
+msgstr "URL: %1$s, Thông điệp: %2$s"
+
+msgid "Empty CSS selectors found"
+msgstr "Bộ lọc CSS không có giá trị được tìm thấy"
+
+msgid "KDN Auto Leech"
+msgstr "KDN Auto Leech"
+
+msgid "Encoding %1$s does not exist in available encodings."
+msgstr "Mã hóa %1$s không tồn tại trong các bảng mã có sẵn."
+
+msgid "URL could not be resolved"
+msgstr "Không thể xử lý URL"
+
+msgid "Date %1$s could not be parsed."
+msgstr "Không thể phân tích thời gian %1$s."
+
+msgid "Taxonomy: %1$s"
+msgstr "Taxonomy: %1$s"
+
+msgid "URL could not be resolved."
+msgstr "Không thể xử lý URL."
+
+msgid "A duplicate post has been found."
+msgstr "Một bài viết trùng lặp đã được tìm thấy."
+
+msgid ""
+"Current URL: %1$s, Duplicate post ID: %2$s, Duplicate post title: %3$s, Site "
+"ID: %4$s."
+msgstr ""
+"URL hiện tại: %1$s, ID bài viết trùng lặp: %2$s, Tiêu đề bài viết trùng lặp: "
+"%3$s, ID chiến dịch: %4$s."
+
+msgid ""
+"The URL is not saved and it is marked as saved so that it will not be tried "
+"again."
+msgstr ""
+"URL không được lưu và nó được đánh dấu là đã lưu để nó sẽ không được thử lại."
+
+msgid "A duplicate post is found."
+msgstr "Một bài viết trùng lặp được tìm thấy."
+
+msgid "Category IDs could not be assigned to the post."
+msgstr "Không thể gán ID chuyên mục cho bài viết."
+
+msgid "Media file does not have a local path."
+msgstr "Tệp tin đa phương tiện không có đường dẫn cục bộ."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Content"
+msgstr "Nội dung"
+
+msgid "URL does not exist in the database."
+msgstr "URL không tồn tại trong cơ sở dữ liệu."
+
+msgid "Current URL is locked. It means it is being used by another process."
+msgstr ""
+"URL hiện tại đã bị khóa. Có nghĩa là nó đang được sử dụng bởi một tiến trình "
+"khác."
+
+msgid "Data could not be retrieved from the URL."
+msgstr "Không thể truy xuất dữ liệu từ URL."
+
+msgid "Duplicate post."
+msgstr "Bài viết trùng lặp."
+
+msgid "Translation error."
+msgstr "Lỗi dịch."
+
+msgid "Information"
+msgstr "Thông tin"
+
+msgid "Error"
+msgstr "Lỗi"
+
+msgid "Fail"
+msgstr "Thất bại"
+
+msgid "Value is not numeric."
+msgstr "Giá trị không phải là số."
+
+msgid "URL is not found"
+msgstr "URL không tìm thấy"
+
+msgid "File could not be saved"
+msgstr "Không thể lưu tệp tin"
+
+msgid "Request error"
+msgstr "Lỗi truy vấn"
+
+msgid "HTML could not be retrieved"
+msgstr "Không thể truy xuất HTML"
+
+msgid "Connection error"
+msgstr "Lỗi kết nối"
+
+msgid "CSS selector syntax error"
+msgstr "Lỗi cú pháp bộ lọc CSS"
+
+msgid "WooCommerce error"
+msgstr "Lỗi WooCommerce"
+
+msgid "Taxonomy does not exist"
+msgstr "Taxonomy không tồn tại"
+
+msgid "File does not exist"
+msgstr "Tệp tin không tồn tại"
+
+msgid ""
+"%1$s directory is not in %2$s directory. The file can only be moved to a "
+"directory that \n"
+"                    is under the uploads directory of WordPress."
+msgstr ""
+"Thư mục %1$s không nằm trong thư mục %2$s. Tệp tin chỉ có thể di chuyển tới "
+"thư mục là thư mục con nằm trong thư mục uploads mặc định của WordPress."
+
+msgid "Upload directory could not be retrieved: "
+msgstr "Không thể truy xuất thư mục tải lên:"
+
+msgid "Original URL: %1$s, Prepared URL: %2$s"
+msgstr "URL gốc: %1$s, URL đã xử lý: %2$s"
+
+msgid "File %1$s could not be moved to %2$s"
+msgstr "Không thể di chuyển tệp tin %1$s tới %2$s"
+
+msgid "File %1$s could not be deleted."
+msgstr "Không thể xóa tệp tin %1$s."
+
+msgid "%1$s directory could not be created"
+msgstr "Không thể tạo thư mục %1$s"
+
+msgid "%1$s, File URL: %2$s"
+msgstr "%1$s, URL tệp tin: %2$s"
+
+msgid "Details"
+msgstr "Chi tiết"
+
+msgid "File"
+msgstr "Tệp tin"
+
+msgid "Exception"
+msgstr "Ngoại lệ"
+
+msgid "JSON could not be parsed. JSON string: %1$s"
+msgstr "Không thể phân tích JSON. Chuỗi JSON: %1$s"
+
+msgid "Original file name (without extension)"
+msgstr "Tên gốc của tệp tin (không có phần mở rộng)"
+
+msgid "Original title of the file"
+msgstr "Tiêu đề gốc của tệp tin"
+
+msgid "Original alt text of the file"
+msgstr "Văn bản thay thế gốc của tệp tin"
+
+msgid "File name prepared by find-replace options (without extension)"
+msgstr ""
+"Tên của tệp tin sau khi áp dụng Tìm và thay thế (không có phần mở rộng)"
+
+msgid "File extension without a dot"
+msgstr "Phần mở rộng của tệp tin không có dấu chấm"
+
+msgid "Mime type"
+msgstr "Loại giao thức của tệp tin"
+
+msgid "File size in bytes"
+msgstr "Kích thước của tệp tin (byte)"
+
+msgid "File size in kilobytes"
+msgstr "Kích thước của tệp tin (kilobyte)"
+
+msgid "File size in megabytes"
+msgstr "Kích thước của tệp tin (megabyte)"
+
+msgid "Prepared file name with its extension"
+msgstr "Tên của tệp tin đã xử lý kèm theo phần mở rộng"
+
+msgid "MD5 hash of the file"
+msgstr "Mã MD5 của tệp tin"
+
+msgid "Random SHA1 hash created by using the name of the file"
+msgstr "Mã SHA1 được tạo ngẫu nhiên từ tên của tệp tin"
+
+msgid "Local URL of the file"
+msgstr "URL cục bộ của tệp tin"
+
+msgid "Data does not exist in your request. The request should include 'data'"
+msgstr ""
+"Dữ liệu không tồn tại trong truy vấn của bạn. Truy vấn nên bao gồm 'data'"
+
+msgid "Publish"
+msgstr "Xuất bản"
+
+msgid "Draft"
+msgstr "Nháp"
+
+msgid "Value"
+msgstr "Giá trị"
+
+msgid ""
+"You can try clearing thousands separators and setting decimal separator as "
+"\"%1$s\""
+msgstr ""
+"Bạn có thể xóa dấu phân cách hàng nghìn và đặt dấu phân cách thập phân là "
+"\"%1$s\""
+
+msgid "An error occurred while replacing with the regular expression."
+msgstr "Có lỗi xảy ra khi thay thế với biểu thức chính quy."
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "Find"
+msgstr "Tìm kiếm"
+
+msgid "Replace"
+msgstr "Thay thế"
+
+msgid "Translation could not be retrieved."
+msgstr "Không thể truy xuất bản dịch."
+
+msgid "Translations could not be retrieved."
+msgstr "Không thể truy xuất bản dịch."
+
+msgid "Response could not be retrieved from %1$s with %2$s"
+msgstr "Không thể truy xuất phản hồi từ %1$s với %2$s"
+
+msgid "Microsoft Translator Text API"
+msgstr "Microsoft Translator Text API"
+
+msgid "Google Cloud Translation API"
+msgstr "Google Cloud Translation API"
+
+msgid "Detect language"
+msgstr "Phát hiện ngôn ngữ"
+
+msgid "Selected translation service %1$s is not valid"
+msgstr "Công cụ dịch đã chọn %1$s không hợp lệ"
+
+msgid "The post has been found to be a duplicate by %1$s."
+msgstr "Bài viết được tìm thấy trùng lặp bởi %1$s."
+
+msgid "Translation error for %1$s. Message: %2$s"
+msgstr "Lỗi dịch cho %1$s. Thông điệp: %2$s"
+
+msgid "An adapter for product class %1$s does not exist."
+msgstr "Một bộ chuyển đổi cho lớp sản phẩm %1$s không tồn tại."
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid ""
+"%1$s function does not exist. You can try to install one of the previous "
+"versions of WooCommerce."
+msgstr ""
+"Phương thức %1$s không tồn tại. Bạn có thể thử cài đặt một phiên bản cũ hơn "
+"của WooCommerce."
+
+msgid ""
+"A suitable adapter factory could not be found for current WooCommerce "
+"version."
+msgstr ""
+"Không thể tìm thấy bộ chuyển đổi phù hợp cho phiên bản WooCommerce hiện tại."
+
+msgid "Product could not be saved."
+msgstr "Không thể lưu sản phẩm."
+
+msgid "Product type %1$s cannot be saved."
+msgstr "Loại sản phẩm %1$s không thể lưu."
+
+msgid ""
+"%1$s class does not exist. You must activate WooCommerce to save products. "
+"If WooCommerce is active, please update it to the latest version."
+msgstr ""
+"Class %1$s không tồn tại. Bạn phải kích hoạt WooCommerce để lưu sản phẩm. "
+"Nếu WooCommerce được kích hoạt, hãy cập nhật lên phiên bản mới nhất."
+
+msgid "SKU could not be saved. Message: %1$s"
+msgstr "Không thể lưu SKU. Thông điệp: %1$s"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "Do not allow"
+msgstr "Không cho phép"
+
+msgid "Allow, but notify customer"
+msgstr "Cho phép, nhưng phải thông báo cho khách hàng"
+
+msgid "Allow"
+msgstr "Cho phép"
+
+msgid "In stock"
+msgstr "Còn hàng"
+
+msgid "Out of stock"
+msgstr "Hết hàng"
+
+msgid "On backorder"
+msgstr "Chờ hàng"
+
+msgid "Simple Product"
+msgstr "Sản phẩm đơn giản"
+
+msgid "External/Affiliate Product"
+msgstr "Sản phẩm bên ngoài/liên kết"
+
+msgid "Main"
+msgstr "Chung"
+
+msgid "Product URL"
+msgstr "URL sản phẩm"
+
+msgid "Button Text"
+msgstr "Nội dung nút bấm"
+
+msgid "Sale Price"
+msgstr "Giá khuyến mãi"
+
+msgid "Regular Price"
+msgstr "Giá bán thường"
+
+msgid "Product Type"
+msgstr "Loại sản phẩm"
+
+msgid "Virtual?"
+msgstr "Sản phẩm ảo?"
+
+msgid "Downloadable?"
+msgstr "Có thể tải xuống?"
+
+msgid "Downloads"
+msgstr "Tải xuống"
+
+msgid "Downloadable File URLs"
+msgstr "URL tệp tin có thể tải xuống"
+
+msgid "Download Limit"
+msgstr "Giới hạn số lần tải xuống"
+
+msgid "Download Expiry"
+msgstr "Giới hạn số ngày tải xuống"
+
+msgid "Inventory"
+msgstr "Kiểm kê kho hàng"
+
+msgid "Manage stock?"
+msgstr "Quản lý kho hàng?"
+
+msgid "Stock Quantity"
+msgstr "Số lượng trong kho hàng"
+
+msgid "Backorders"
+msgstr "Đặt trước"
+
+msgid "Low Stock Amount"
+msgstr "Ngưỡng sắp hết hàng"
+
+msgid "Stock Status"
+msgstr "Trạng thái kho hàng"
+
+msgid "Sold individually?"
+msgstr "Bán riêng?"
+
+msgid "Shipping"
+msgstr "Giao nhận"
+
+msgid "Weight"
+msgstr "Trọng lượng"
+
+msgid "Length"
+msgstr "Chiều dài"
+
+msgid "Width"
+msgstr "Chiều rộng"
+
+msgid "Height"
+msgstr "Chiều cao"
+
+msgid "Shipping Class"
+msgstr "Lớp giao hàng"
+
+msgid "Attributes"
+msgstr "Thuộc tính"
+
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgid "Purchase Note"
+msgstr "Ghi chú thanh toán"
+
+msgid "Enable reviews?"
+msgstr "Cho phép đánh giá"
+
+msgid "Menu Order"
+msgstr "Menu đơn hàng"
+
+msgid "No shipping class"
+msgstr "Không có lớp giao hàng"
+
+msgid ""
+"Post ID does not exist in your request. The request should have 'post_id'."
+msgstr ""
+"ID bài viết không tồn tại trong truy vấn của bạn. Truy vấn nên có 'post_id'."
+
+msgid "Settings do not exist in the data."
+msgstr "Các cài đặt không tồn tại trong dữ liệu."
+
+msgid "Post ID does not exist."
+msgstr "ID bài viết không tồn tại."
+
+msgid "Sites"
+msgstr "Chiến dịch"
+
+msgid "Site"
+msgstr "Chiến dịch"
+
+msgid "KDN Auto Leech Site"
+msgstr "Chiến dịch"
+
+msgid "Add New"
+msgstr "Thêm mới"
+
+msgid "Add New Site"
+msgstr "Thêm chiến dịch mới"
+
+msgid "New Site"
+msgstr "Chiến dịch mới"
+
+msgid "Edit Site"
+msgstr "Sửa chiến dịch"
+
+msgid "View Site"
+msgstr "Xem chiến dịch"
+
+msgid "All Sites"
+msgstr "Tất cả chiến dịch"
+
+msgid "Search Sites"
+msgstr "Tìm chiến dịch"
+
+msgid "Parent Sites:"
+msgstr "Chiến dịch cha:"
+
+msgid "No sites found."
+msgstr "Không có chiến dịch nào."
+
+msgid "No sites found in Trash."
+msgstr "Không có chiến dịch nào trong thùng rác."
+
+msgid "A custom post type which stores sites to be crawled"
+msgstr "Một loại bài viết nơi lưu các chiến dịch thu thập."
+
+msgid "Author"
+msgstr "Tác giả"
+
+msgid "Active for scheduling"
+msgstr "Thu thập"
+
+msgid "Active for recrawling"
+msgstr "Thu thập lại"
+
+msgid "Active for deleting"
+msgstr "Xóa"
+
+msgid "Counts"
+msgstr "Thống kê"
+
+msgid "Last URL Collection"
+msgstr "URL cuối"
+
+msgid "Last Post Crawl"
+msgstr "Thu thập cuối"
+
+msgid "Last Post Recrawl"
+msgstr "Thu thập lại cuối"
+
+msgid "Last Post Delete"
+msgstr "Xóa cuối"
+
+msgid "Date"
+msgstr "Thời gian"
+
+msgid "Queue"
+msgstr "Đang chờ"
+
+msgid "Saved"
+msgstr "Đã lưu"
+
+msgid "Updated"
+msgstr "Thu thập lại"
+
+msgid "Deleted"
+msgstr "Đã xóa"
+
+msgid "Other"
+msgstr "Khác"
+
+msgid "Total"
+msgstr "Tổng số"
+
+msgid "Site updated."
+msgstr "Đã cập nhật."
+
+msgid "Custom field updated."
+msgstr "Trường tùy chỉnh đã cập nhật."
+
+msgid "Custom field deleted."
+msgstr "Trường tùy chỉnh đã xóa."
+
+msgid "Site restored to revision from %s"
+msgstr "Chiến dịch được khôi phục từ %s"
+
+msgid "Site published."
+msgstr "Đã xuất bản."
+
+msgid "Site saved."
+msgstr "Đã lưu."
+
+msgid "Site submitted."
+msgstr "Đã đăng."
+
+msgid "Site scheduled for: <strong>%1$s</strong>."
+msgstr "Chiến dịch thu thập cho: <strong>%1$s</strong>."
+
+msgid "Site draft updated."
+msgstr "Đã cập nhật bản nháp."
+
+msgid "Enter site name here"
+msgstr "Nhập tên chiến dịch"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Simple Notes"
+msgstr "Ghi chú"
+
+msgid "Prepared post title"
+msgstr "Tiêu đề bài viết đã xử lý"
+
+msgid "Prepared post excerpt"
+msgstr "Mô tả ngắn bài viết"
+
+msgid "Main post content"
+msgstr "Nội dung bài viết"
+
+msgid "List items"
+msgstr "Danh sách"
+
+msgid "Gallery items"
+msgstr "Bộ sưu tập ảnh"
+
+msgid ""
+"Full URL of the target page. You can use this to reference the source page. "
+"E.g. <a href=\"%1$s\">Source</a>"
+msgstr ""
+"URL đầy đủ của trang mục tiêu. Bạn có thể sử dụng giá trị này để tạo liên "
+"kết nguồn tham khảo. Ví dụ: <a href=\"%1$s\">Nguồn tham khảo</a>"
+
+msgid "Original post title"
+msgstr "Tiêu đề gốc của bài viết"
+
+msgid "Original post excerpt"
+msgstr "Mô tả ngắn gốc của bài viết"
+
+msgid "List item title"
+msgstr "Tiêu đề của mỗi mục"
+
+msgid "List item content"
+msgstr "Nội dung của mỗi mục"
+
+msgid "The position of the item."
+msgstr "Vị trí của mỗi mục."
+
+msgid "Gallery item URL"
+msgstr "URL ảnh trong bộ sưu tập"
+
+msgid "Found item"
+msgstr "Giá trị được tìm thấy"
+
+msgid "Every minute"
+msgstr "Mỗi 1 phút"
+
+msgid "Every 2 minutes"
+msgstr "Mỗi 2 phút"
+
+msgid "Every 3 minutes"
+msgstr "Mỗi 3 phút"
+
+msgid "Every 5 minutes"
+msgstr "Mỗi 5 phút"
+
+msgid "Every 10 minutes"
+msgstr "Mỗi 10 phút"
+
+msgid "Every 15 minutes"
+msgstr "Mỗi 15 phút"
+
+msgid "Every 20 minutes"
+msgstr "Mỗi 20 phút"
+
+msgid "Every 30 minutes"
+msgstr "Mỗi 30 phút"
+
+msgid "Every 45 minutes"
+msgstr "Mỗi 45 phút"
+
+msgid "Every hour"
+msgstr "Mỗi 1 giờ"
+
+msgid "Every 2 hours"
+msgstr "Mỗi 2 giờ"
+
+msgid "Every 3 hours"
+msgstr "Mỗi 3 giờ"
+
+msgid "Every 4 hours"
+msgstr "Mỗi 4 giờ"
+
+msgid "Every 6 hours"
+msgstr "Mỗi 6 giờ"
+
+msgid "Twice a day"
+msgstr "Mỗi 1 ngày 2 lần"
+
+msgid "Once a day"
+msgstr "Mỗi 1 ngày 1 lần"
+
+msgid "Every 2 days"
+msgstr "Mỗi 2 ngày 1 lần"
+
+msgid "Once a week"
+msgstr "Mỗi 1 tuần 1 lần"
+
+msgid "Every 2 weeks"
+msgstr "Mỗi 2 tuần 1 lần"
+
+msgid "Once a month"
+msgstr "Mỗi 1 tháng 1 lần"
+
+msgid "Performance"
+msgstr "Hiệu suất"
+
+msgid "Next Page URL"
+msgstr "URL trang tiếp theo"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Memory Used"
+msgstr "Bộ nhớ đã sử dụng"
+
+msgid "Test results for %1$s with %2$s"
+msgstr "Kết quả cho %1$s với %2$s"
+
+msgid "and"
+msgstr "và"
+
+msgid "test code"
+msgstr "mã thử nghiệm"
+
+msgid "URL and/or content must exist to conduct the test."
+msgstr "URL và/hoặc nội dung phải tồn tại để tiến hành thử nghiệm."
+
+msgid "You must provide a valid CSS selector."
+msgstr "Bạn phải khai báo một bộ lọc CSS hợp lệ."
+
+msgid "JSON encoding error (%1$s)"
+msgstr "Lỗi mã hóa JSON (%1$s)"
+
+msgid "Errors"
+msgstr "Lỗi"
+
+msgid "Styling can be different on front page depending on your theme."
+msgstr ""
+"Giao diện ở đây có thể sẽ khác so với khi hiển thị ngoài website, bởi vì nó "
+"đang chịu ảnh hưởng từ các CSS tại đây."
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Categories"
+msgstr "Chuyên mục"
+
+msgid "Meta Keywords"
+msgstr "Meta keywords"
+
+msgid "Meta Keywords As Tags"
+msgstr "Meta keywords là thẻ"
+
+msgid "Meta Description"
+msgstr "Meta description"
+
+msgid "Excerpt"
+msgstr "Mô tả ngắn"
+
+msgid "Tags"
+msgstr "Thẻ"
+
+msgid "Prepared Post Tags"
+msgstr "Các thẻ của bài viết đã xử lý"
+
+msgid "Custom Post Meta"
+msgstr "Meta bài viết"
+
+msgid "Custom Post Taxonomies"
+msgstr "Taxonomies tùy chỉnh"
+
+msgid "Featured Image"
+msgstr "Ảnh đại diện"
+
+msgid "Attachments"
+msgstr "Tệp đính kèm"
+
+msgid "Next Page URLs"
+msgstr "Các URL trang tiếp theo"
+
+msgid "Test results for %1$s:"
+msgstr "Kết quả cho %1$s:"
+
+msgid "Test result for copying files to %1$s directory"
+msgstr "Kết quả sao chép tệp tin đến thư mục %1$s"
+
+msgid "Test result for find %1$s and replace with %2$s"
+msgstr "Kết quả cho tìm %1$s và thay thế với %2$s"
+
+msgid "(as regex)"
+msgstr "(Regex)"
+
+msgid "Test result for moving files to %1$s directory"
+msgstr "Kết quả di chuyển tệp tin đến thư mục %1$s"
+
+msgid "%2$s Test results for %1$s:"
+msgstr "%2$s Kết quả cho %1$s:"
+
+msgid ""
+"Only %1$s and file short codes are replaced for testing purposes. Values of "
+"some short codes\n"
+"                    might not be available when testing here. Use Tester "
+"page for a complete test."
+msgstr ""
+"Chỉ %1$s và shortcode của tệp tin được thay thế cho mục đích thử nghiệm. Giá "
+"trị của một số shortcode có thể không hiển thị khi thử nghiệm ở đây. Sử dụng "
+"trang Thử nghiệm để thử nghiệm đầy đủ."
+
+msgid "Test results for %1$s %2$s %3$s %4$s %5$s %6$s %7$s"
+msgstr "Kết quả cho %1$s %2$s %3$s %4$s %5$s %6$s %7$s"
+
+msgid "Crawler HTML with <span>current</span> find-replace applied"
+msgstr "HTML với tìm và thay thế <span>hiện tại</span> được áp dụng"
+
+msgid "<span>Raw</span> content"
+msgstr "Nội dung <span>nguyên bản</span>"
+
+msgid "Crawler HTML with <span>no</span> find-replace applied"
+msgstr "HTML <span>không</span> áp dụng tìm và thay thế"
+
+msgid "Crawler HTML with <span>all</span> raw HTML find-replaces applied"
+msgstr ""
+"HTML với <span>tất cả</span> tìm và thay thế trong HTML nguyên bản được áp "
+"dụng"
+
+msgid "For the URL"
+msgstr "Đối với URL"
+
+msgid "For the test code"
+msgstr "Đối với mã thử nghiệm"
+
+msgid "Success"
+msgstr "Thành công"
+
+msgid "Test results for %1$s%2$s on %3$s:"
+msgstr "Kết quả cho %1$s%2$s trên %3$s:"
+
+msgid "Only %1$s short code is replaced for testing purposes."
+msgstr "Chỉ shortcode %1$s được thay thế cho mục đích thử nghiệm."
+
+msgid "API Key"
+msgstr "API Key"
+
+msgid "Project ID"
+msgstr "Project ID"
+
+msgid "Client Secret"
+msgstr "Client secret"
+
+msgid "From"
+msgstr "Từ"
+
+msgid "Detect"
+msgstr "Phát hiện"
+
+msgid "To"
+msgstr "Đến"
+
+msgid "Translation test results with"
+msgstr "Kết quả thử nghiệm dịch với"
+
+msgid "Passwords do not match."
+msgstr "Mật khẩu không khớp."
+
+msgid ""
+"Term \"%1$s\" could not be added to taxonomy \"%2$s\" (Args: %3$s). Message: "
+"%4$s"
+msgstr ""
+"Không thể thêm giá trị \"%1$s\" vào taxonomy \"%2$s\" (Tham số: %3$s). Thông "
+"điệp: %4$s"
+
+msgid "%1$s could not be separated using these separators: %2$s"
+msgstr "Không thể tách %1$s bằng các dấu phân cách này: %2$s"
+
+msgid "KDN Auto Leech requires at least PHP 7.2. Your current PHP version is "
+msgstr ""
+"KDN Auto Leech yêu cầu phiên bản PHP tối thiểu là 7.2. Phiên bản PHP hiện "
+"tại của bạn là "
+
+msgid ""
+"KDN Auto Leech requires %s extensions enabled. Please enable these "
+"extensions. "
+msgstr ""
+"KDN Auto Leech yêu cầu kích hoạt các phần mở rộng: %s. Vui lòng kích hoạt "
+"các phần mở rộng này. "
+
+msgid ""
+"KDN Auto Leech requires zip extension enabled. Please enable zip extension. "
+msgstr ""
+"KDN Auto Leech yêu cầu kích hoạt zip. Vui lòng kích hoạt zip trong PHP "
+"Extensions. "
+
+msgid "Message"
+msgstr "Thông điệp"
+
+msgid "Complete the setup now."
+msgstr "Hoàn thành thiết lập ngay bây giờ."
+
+msgid ""
+"You can write plain text or regular expressions. If you want to use "
+"delimiters, you can use \"/\".\n"
+"        If the expression does not start with \"/\", it is considered as it "
+"does not have delimiters. In that case, forward \n"
+"        slashes will be automatically added. You can test your regex <a "
+"href=\"https://regex101.com/\" target=\"_blank\">here</a>."
+msgstr ""
+"Bạn có thể viết văn bản thuần hoặc các biểu thức chính quy (Regex). Nếu bạn "
+"muốn thêm cờ (flags) để định nghĩa biểu thức, hãy sử dụng dấu gạch chéo "
+"\"/\". Nếu biểu thức chính quy không bắt đầu bằng dấu gạch chéo \"/\", nó sẽ "
+"được coi là không định nghĩa với cờ (flags) và dấu gạch chéo sẽ được thêm "
+"vào tự động. Bạn có thể thử nghiệm biểu thức <a href=\"https://regex101."
+"com/\" target=\"_blank\">tại đây</a>."
+
+msgid "If you give more than one selector, the first match will be used."
+msgstr "Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ được sử dụng."
+
+msgid "If you give more than one selector, all matches will be used."
+msgstr "Nếu bạn khai báo nhiều bộ lọc, tất cả phát hiện sẽ được sử dụng."
+
+msgid ""
+"<b>Note that</b> saving images will increase the time  to save the posts, "
+"and hence memory usage."
+msgstr ""
+"<b>Lưu ý:</b> việc lưu hình ảnh sẽ làm tăng thời gian lưu bài viết và sử "
+"dụng nhiều bộ nhớ hơn."
+
+msgid "How to get it?"
+msgstr "Làm thế nào?"
+
+msgid "If you define more than one, a random one will be used."
+msgstr ""
+"Nếu bạn khai báo nhiều giao diện, một giao diện ngẫu nhiên sẽ được sử dụng."
+
+msgid ""
+"You can use <b>[%1$s]</b> short code with a dot key when the item is treated "
+"as JSON. A dot key\n"
+"            shows the value's path in the JSON. For example, in <i>%2$s</i>, "
+"the dot key for <b>%3$s</b> is\n"
+"            <b>%4$s</b>. To get <b>%3$s</b> using <i>[%1$s]</i>, you can "
+"write <b>[%1$s %4$s]</b>. After this, the short code\n"
+"            will be replaced by <b>%3$s</b>. In case of array values, you "
+"can use the target value's index as well. For example,\n"
+"            in <i>%5$s</i>, you can get <b>%6$s</b> with <b>[%1$s %7$s]</b>."
+msgstr ""
+"Bạn có thể sử dụng shortcode <b>[%1$s]</b> với các dấu chấm khi bộ lọc được "
+"phân tích thành JSON. Dấu chấm chính là đường dẫn của giá trị trong JSON. Ví "
+"dụ: trong <i>%2$s</i>, dấu chấm cho <b>%3$s</b> sẽ là <b>%4$s</b>. Để lấy <b>"
+"%3$s</b> sử dụng <i>[%1$s]</i>, bạn có thể viết <b>[%1$s %4$s]</b>. Sau đó, "
+"shortcode sẽ được thay thế bằng <b>%3$s</b>. Trong trường hợp dữ liệu mảng, "
+"bạn có thể sử dụng chỉ mục của giá trị. Ví dụ: trong <i>%5$s</i>, bạn có thể "
+"lấy <b>%6$s</b> với <b>[%1$s %7$s]</b>."
+
+msgid ""
+"The tests are conducted by creating a 1-byte temporary file that has the "
+"same name and extension\n"
+"        with the found item. After the tests have been done, while the "
+"temporary files will be deleted, created folders \n"
+"        will <b>not</b> be deleted."
+msgstr ""
+"Các thử nghiệm được tiến hành bằng cách tạo một tệp tin tạm thời có kích "
+"thước 1 byte, cùng tên và phần mở rộng với kết quả tìm thấy. Sau khi thử "
+"nghiệm, các tệp tin tạm thời sẽ bị xóa, những thư mục được tạo thêm sẽ <b>"
+"không</b> bị xóa."
+
+msgid ""
+"You can write 'text', 'html', or the name of another HTML attribute for the "
+"attribute input. \n"
+"    'text' will get the text content of the element, while 'html' will get "
+"the HTML of the element."
+msgstr ""
+"Bạn có thể viết <b>'text'</b>, <b>'html'</b> hoặc bất cứ thuộc tính nào khác "
+"vào trường <b>Thuộc tính</b>. <b>'text'</b> sẽ lấy văn bản thuần, trong khi "
+"<b>'html'</b> sẽ lấy HTML của phần tử được chọn."
+
+msgid ""
+"You can use wildcard character, which is %1$s, to indicate variable parts. "
+"For example,\n"
+"            when you enter %2$s as domain, it will not allow %3$s. However, "
+"if you write it as %4$s or %5$s, it will \n"
+"            be allowed. You can use the wildcard character anywhere in the "
+"domain name."
+msgstr ""
+"Bạn có thể sử dụng ký tự đại diện là %1$s để thay cho các phần giá trị. Ví "
+"dụ: khi bạn nhập tên miền là %2$s thì %3$s cũng không được cho phép. Tuy "
+"nhiên, nếu bạn viết %4$s hoặc %5$s thì nó sẽ được cho phép. Bạn có thể sử "
+"dụng ký tự đại diện ở bất cứ đâu trong tên miền."
+
+msgid "Notifications"
+msgstr "Thông báo"
+
+msgid "Set notification email addresses..."
+msgstr "Cài đặt địa chỉ email để nhận thông báo..."
+
+msgid "Notifications are active?"
+msgstr "Kích hoạt thông báo?"
+
+msgid "If you want to activate notification emails, check this."
+msgstr "Nếu bạn muốn kích hoạt thông báo qua email, hãy đánh dấu."
+
+msgid "Email interval"
+msgstr "Khoảng thời gian gửi email"
+
+msgid ""
+"Set how many minutes should pass before sending another similar notification "
+"about\n"
+"                        the same site. Default: 30"
+msgstr ""
+"Cài đặt số phút cần đạt ngưỡng trước khi gửi một thông báo tương tự về cùng "
+"một chiến dịch. Mặc định: 30."
+
+msgid "Email addresses"
+msgstr "Địa chỉ email"
+
+msgid "Write email addresses to which notifications can be sent."
+msgstr "Điền các địa chỉ email để nhận thông báo."
+
+msgid ""
+"No HTML. If you expect HTML, make sure the HTML is valid or there is network "
+"connection."
+msgstr ""
+"Không có HTML. Nếu bạn mong đợi HTML, hãy đảm bảo HTML hợp lệ hoặc có kết "
+"nối mạng."
+
+msgid "No result"
+msgstr "Không có kết quả"
+
+msgid "Response retrieved from cache."
+msgstr "Phản hồi được truy xuất từ bộ nhớ đệm."
+
+msgid "Invalidate cache for this URL"
+msgstr "Vô hiệu hóa bộ nhớ đệm cho URL này"
+
+msgid "Invalidate"
+msgstr "Vô hiệu hóa"
+
+msgid "Invalidate all test URL caches"
+msgstr "Vô hiệu hóa tất cả bộ nhớ đệm của URL thử nghiệm"
+
+msgid "Invalidate all"
+msgstr "Vô hiệu hóa tất cả"
+
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+msgid "Append"
+msgstr "Nối tiếp"
+
+msgid "Regex?"
+msgstr "Regex?"
+
+msgid "Selector"
+msgstr "Phần tử"
+
+msgid "Refresh languages"
+msgstr "Làm mới ngôn ngữ"
+
+msgid ""
+"Refresh languages by retrieving them from the API. By this way, if there are "
+"new languages, you can get them."
+msgstr ""
+"Làm mới ngôn ngữ bằng cách truy xuất chúng từ API. Bằng cách này, nếu có "
+"ngôn ngữ mới, bạn có thể lấy chúng."
+
+msgid "Translation"
+msgstr "Dịch"
+
+msgid "Set content translation options"
+msgstr "Cài đặt và tùy chọn dịch nội dung bài viết."
+
+msgid "Translation is active?"
+msgstr "Kích hoạt dịch?"
+
+msgid ""
+"If you want to activate automated content translation, check this. Note "
+"that\n"
+"                            translating will increase the time required to "
+"crawl a post."
+msgstr ""
+"Nếu bạn muốn kích hoạt dịch nội dung tự động, hãy đánh dấu. <b>Lưu ý:</b> "
+"dịch sẽ làm tăng thời gian thu thập dữ liệu cho một bài viết."
+
+msgid "Translate with"
+msgstr "Dịch với"
+
+msgid ""
+"Select the translation service you want to use to translate contents. You "
+"also need\n"
+"                    to properly configure the settings of the selected API "
+"below."
+msgstr ""
+"Lựa chọn công cụ dịch bạn muốn sử dụng để dịch nội dung. Bạn cũng cần phải "
+"cấu hình đúng các cài đặt API đã chọn bên dưới."
+
+msgid "Google Cloud Translation Options"
+msgstr "Google Cloud Translation"
+
+msgid "Translate from"
+msgstr "Dịch từ"
+
+msgid "Select the language of the content of crawled posts."
+msgstr "Lựa chọn ngôn ngữ của nội dung bài viết đang được thu thập."
+
+msgid "Translate to"
+msgstr "Dịch sang"
+
+msgid "Select the language to which the content should be translated."
+msgstr "Lựa chọn ngôn ngữ cần dịch sang cho nội dung."
+
+msgid "Project ID retrieved from Google Cloud Console."
+msgstr "Project ID được lấy từ Google Cloud Console."
+
+msgid "API key retrieved from Google Cloud Console."
+msgstr "API key được lấy từ Google Cloud Console."
+
+msgid "Test Google Translate Options"
+msgstr "Thử nghiệm Google Translate"
+
+msgid "You can write any text to test Google Translate options you configured."
+msgstr ""
+"Bạn có thể viết bất cứ văn bản nào để thử nghiệm các tùy chọn Google "
+"Translate mà bạn đã cấu hình."
+
+msgid "Test text to translate..."
+msgstr "Văn bản cần dịch..."
+
+msgid "Microsoft Translator Text Options"
+msgstr "Microsoft Translator Text"
+
+msgid "Client secret retrieved from Microsoft Azure Portal."
+msgstr "Client secret được lấy từ Microsoft Azure Portal."
+
+msgid "Test Microsoft Translator Text Options"
+msgstr "Thử nghiệm Microsoft Translator"
+
+msgid ""
+"You can write any text to test Microsoft Translator Text options you "
+"configured."
+msgstr ""
+"Bạn có thể viết bất cứ văn bản nào để thử nghiệm các tùy chọn Microsoft "
+"Translator mà bạn đã cấu hình."
+
+msgid "Scheduling"
+msgstr "Thu thập"
+
+msgid "Set time intervals to crawl the sites"
+msgstr "Cài đặt khoảng thời gian để thu thập cho các chiến dịch."
+
+msgid "Scheduling is active?"
+msgstr "Kích hoạt thu thập?"
+
+msgid ""
+"If you want to activate automated checking and crawling for the\n"
+"                        active sites, check this."
+msgstr ""
+"Nếu bạn muốn kích hoạt thu thập tự động cho các chiến dịch đang hoạt động, "
+"hãy đánh dấu."
+
+msgid "Post URL Collection Interval"
+msgstr "Khoảng thời gian thu thập URL bài viết"
+
+msgid "Set interval for post URL collection."
+msgstr "Cài đặt khoảng thời gian thu thập URL bài viết."
+
+msgid "Post Crawl Interval"
+msgstr "Khoảng thời gian thu thập dữ liệu bài viết"
+
+msgid ""
+"Set interval for post crawling, i.e. saving posts by visiting collected\n"
+"                        URLs."
+msgstr ""
+"Cài đặt khoảng thời gian thu thập dữ liệu các bài viết, nghĩa là lưu bài "
+"viết bằng cách truy cập vào các URL đã được thu thập."
+
+msgid "Maximum number of pages to crawl per category"
+msgstr "Số trang tối đa muốn thu thập cho mỗi chuyên mục"
+
+msgid ""
+"How many pages at maximum can be crawled for each category of each\n"
+"                    site? Set this <b>0</b> to get all available pages for "
+"each category."
+msgstr ""
+"Tối đa bao nhiêu trang có thể được thu thập cho mỗi chuyên mục của mỗi chiến "
+"dịch? Đặt là <b>0</b> để thu thập tất cả trang hợp lệ cho mỗi chuyên mục."
+
+msgid "Maximum number of pages to check to find new post URLs"
+msgstr "Số trang tối đa để tìm URL bài viết mới"
+
+msgid ""
+"How many pages should be checked before going back checking the first\n"
+"                    page of the category, if there is no new URLs found? "
+"Default is <b>0</b>,\n"
+"                    meaning that all of the pages will be checked until the "
+"last page.\n"
+"                    <br /><br />\n"
+"                    For example, if you say 3 pages and there is no new "
+"posts found in 3 different\n"
+"                    pages of a category in a row, e.g. 4th, 5th, and 6th "
+"pages, then the crawler\n"
+"                    goes to the first page to check for new URLs, without "
+"trying 7th and pages\n"
+"                    coming after 7th page."
+msgstr ""
+"Tối đa bao nhiêu trang được kiểm tra trước khi quay lại trang đầu tiên của "
+"chuyên mục, nếu không tìm thấy URL bài viết mới?. Mặc định là <b>0</b>, "
+"nghĩa là tất cả các trang sẽ được kiểm tra cho đến trang cuối cùng.<br /><br "
+"/>Ví dụ, nếu bạn điền vào là 3 và không có bài viết mới nào được tìm thấy "
+"trong 3 trang liên tiếp của một chuyên mục (ví dụ: trang 4, 5 và 6), sau đó "
+"trình thu thập sẽ quay lại trang đầu tiên để tìm bài viết mới mà không thử "
+"kiểm tra trang 7 hoặc các trang sau trang 7."
+
+msgid "Run count for URL collection event"
+msgstr "Số lần chạy thu thập URL bài viết"
+
+msgid ""
+"For example, when you set this to 2, and interval for URL collection to 1 "
+"minute,\n"
+"                        URL collection event will be run 2 times every "
+"minute. Default value is 1."
+msgstr ""
+"Ví dụ: khi bạn đặt là 2 và khoảng thời gian thu thập URL bài viết là 1 phút, "
+"thì thu thập URL bài viết sẽ được chạy 2 lần mỗi phút. Mặc định là 1."
+
+msgid "Run count for post-crawling event"
+msgstr "Số lần chạy thu thập dữ liệu bài viết"
+
+msgid ""
+"For example, when you set this to 3, and interval for post crawl to 2 "
+"minutes,\n"
+"                        post-crawling event will be run 3 times every 2 "
+"minutes. Default value is 1."
+msgstr ""
+"Ví dụ: khi bạn đặt là 3 và khoảng thời gian thu thập dữ liệu bài viết là 2 "
+"phút, thì thu thập dữ liệu bài viết sẽ được chạy 3 lần mỗi 2 phút. Mặc định "
+"là 1."
+
+msgid "Recrawling"
+msgstr "Thu thập lại"
+
+msgid "Recrawling is active?"
+msgstr "Thu thập lại?"
+
+msgid ""
+"If you want to activate post recrawling for active sites, check this. By "
+"this way,\n"
+"                    the posts will be recrawled (updated)."
+msgstr ""
+"Nếu bạn muốn kích hoạt thu thập lại bài viết cho các chiến dịch đang hoạt "
+"động, hãy đánh dấu. Bằng cách này, bài viết sẽ được thu thập lại dữ liệu "
+"(cập nhật)."
+
+msgid "Post Recrawl Interval"
+msgstr "Khoảng thời gian thu thập lại dữ liệu bài viết"
+
+msgid "Run count for post-recrawling event"
+msgstr "Số lần chạy thu thập lại dữ liệu bài viết"
+
+msgid ""
+"For example, when you set this to 3, and interval for post recrawl to 2 "
+"minutes,\n"
+"                        post-recrawling event will be run 3 times every 2 "
+"minutes. Default value is 1."
+msgstr ""
+"Ví dụ: khi bạn đặt là 3 và khoảng thời gian thu thập lại bài viết là 2 phút, "
+"thì thu thập lại bài viết sẽ được chạy 3 lần mỗi 2 phút. Mặc định là 1."
+
+msgid "Maximum recrawl count per post"
+msgstr "Số lần thu thập lại tối đa cho mỗi bài viết"
+
+msgid ""
+"How many times at maximum a post can be recrawled (updated). Set this to 0 "
+"if\n"
+"                    you do not want to limit. Default: 0"
+msgstr ""
+"Tối đa bao nhiêu lần thu thập lại (cập nhật) dữ liệu cho một bài viết? Đặt "
+"là 0 nếu bạn không muốn giới hạn. Mặc định: 0."
+
+msgid "Minimum time between two recrawls for a post (in minutes)"
+msgstr ""
+"Thời gian tối thiểu giữa hai lần thu thập lại dữ liệu cho một bài viết (tính "
+"bằng phút)"
+
+msgid ""
+"At least how many minutes should pass after the last recrawl so that a post "
+"can be\n"
+"                    suitable for recrawling again? E.g. if you set this to "
+"60 minutes, for a post to become suitable for\n"
+"                    recrawling again, there should have passed at least 60 "
+"minutes. Set 0 to set no limit.\n"
+"                    Default: 1440 (1 day)"
+msgstr ""
+"Tối thiểu bao nhiêu phút cần đạt ngưỡng sau lần thu thập lại dữ liệu cuối để "
+"bài viết trở nên hợp lệ cho lần thu thập lại dữ liệu tiếp theo? Ví dụ: nếu "
+"bạn đặt là 60 thì 60 phút sau bài viết sẽ trở nên hợp lệ để được thu thập "
+"lại lần nữa. Đặt là 0 để không giới hạn. Mặc định: 1440 (1 ngày)."
+
+msgid "Recrawl posts newer than (in minutes)"
+msgstr ""
+"Thu thập lại dữ liệu bài viết mới hơn khoảng thời gian chỉ định (tính bằng "
+"phút)"
+
+msgid ""
+"E.g. if you set this to 1440 minutes, the posts older than 1 day will not "
+"be\n"
+"                    recrawled. Set 0 to set no limit. Default: 43200 (1 "
+"month)"
+msgstr ""
+"Ví dụ: nếu bạn đặt là 1440 phút, các bài viết cũ hơn 1 ngày sẽ không được "
+"thu thập lại dữ liệu. Đặt là 0 để không giới hạn. Mặc định: 43200 (1 tháng)."
+
+msgid "Deleting"
+msgstr "Xóa bài viết"
+
+msgid "Deleting is active?"
+msgstr "Kích hoạt xóa bài viết?"
+
+msgid ""
+"If you want to activate post deleting, check this. By this way, the old "
+"posts\n"
+"                        that were crawled previously will be deleted. The "
+"posts will be <b>deleted permanently</b>.\n"
+"                        <b>They will not be sent to the trash.</b> You "
+"cannot access or retrieve the posts after they\n"
+"                        are deleted."
+msgstr ""
+"Nếu bạn muốn kích hoạt xóa bài viết, hãy đánh dấu. Bằng cách này, các bài "
+"viết được thu thập trước đây sẽ được xóa. Các bài viết sẽ được <b>xoá vĩnh "
+"viễn</b> mà không đưa đến thùng rác và bạn không thể truy cập hay lấy lại "
+"các bài viết sau khi chúng bị xóa."
+
+msgid "Post Delete Interval"
+msgstr "Khoảng thời gian xóa bài viết"
+
+msgid "Set interval for post deleting event."
+msgstr "Cài đặt khoảng thời gian xóa bài viết."
+
+msgid "Maximum number of posts to delete for each run"
+msgstr "Số bài viết tối đa muốn xóa cho mỗi lần chạy"
+
+msgid ""
+"Maximum number of posts that can be deleted for each run of post delete\n"
+"                        event. The posts will be deleted WordPress-way to "
+"allow other plugins to interrupt or listen to\n"
+"                        the process. So, a lot of work will be done each "
+"time a post is being deleted. Please keep this\n"
+"                        in mind. <b>Setting this option to a low value is "
+"highly recommended.</b> Default: %s, Min: %s"
+msgstr ""
+"Tối đa bao nhiêu bài viết có thể sẽ được xóa trong mỗi lần chạy? Các bài "
+"viết sẽ được xóa theo cách mặc định của WordPress để cho phép các plugin "
+"khác làm gián đoạn hoặc can thiệp vào quá trình. Vì vậy, rất nhiều công việc "
+"sẽ được thực hiện mỗi khi một bài viết đang bị xóa. Hãy ghi nhớ điều này. <b>"
+"Cài đặt tùy chọn này với giá trị thấp là điều rất được khuyến khích</b>. Mặc "
+"định: %s, Tối thiểu: %s."
+
+msgid "Delete posts older than (in minutes)"
+msgstr "Xóa bài viết cũ hơn khoảng thời gian chỉ định (tính bằng phút)"
+
+msgid ""
+"E.g. if you set this to 1440 minutes, the posts older than 1 day will be\n"
+"                    deleted. Default: 43200 (1 month), Min: %1$s"
+msgstr ""
+"Ví dụ: nếu bạn đặt là 1440 phút, các bài viết cũ hơn 1 ngày sẽ được xóa. Mặc "
+"định: 43200 (1 tháng), Tối thiểu: %1$s."
+
+msgid "Delete post attachments?"
+msgstr "Xóa các tệp đính kèm?"
+
+msgid ""
+"If you want the attachments of the posts to be deleted along with the post, "
+"check this."
+msgstr ""
+"Nếu bạn muốn các tệp đính kèm của bài viết bị xóa cùng với bài viết, hãy "
+"đánh dấu."
+
+msgid "Template..."
+msgstr "Giao diện..."
+
+msgid ""
+"You can create templates for the current file. You can use the short codes "
+"below. In addition, you can\n"
+"        use custom short codes you defined in the settings. When there are "
+"more than one template, a random one\n"
+"        will be selected for each found item. Before applying the options in "
+"this tab, find-replace and file operations\n"
+"        options will be applied, respectively."
+msgstr ""
+"Bạn có thể tạo giao diện cho tệp tin hiện tại. Bạn có thể sử dụng các "
+"shortcode bên dưới. Ngoài ra, bạn cũng có thể sử dụng các shortcode tùy "
+"chỉnh mà bạn đã cấu hình. Nếu bạn tạo nhiều giao diện, một giao diện ngẫu "
+"nhiên sẽ được sử dụng cho mỗi giá trị được tìm thấy. Trước khi áp dụng các "
+"tùy chọn trong TAB này, Tìm và thay thế và Thao tác tệp tin sẽ được áp dụng "
+"trước."
+
+msgid ""
+"Values of the short codes about the files might change when they are applied "
+"to saved files."
+msgstr ""
+"Giá trị của các shortcode về tệp tin có thể thay đổi khi chúng được áp dụng "
+"cho các tệp tin đã lưu."
+
+msgid "File name templates"
+msgstr "Giao diện cho tên của tệp tin"
+
+msgid ""
+"Define templates for the name of the file. File extension will be added to "
+"the name automatically.\n"
+"                    Short codes in file names will be treated differently. "
+"Opening and closing brackets for the short codes\n"
+"                    will be replaced with <b>%1$s</b> and <b>%2$s</b>, "
+"respectively. You can write short codes regularly.\n"
+"                    This is just to inform you so that you do not get "
+"surprised when you see opening and closing brackets\n"
+"                    of the short codes are changed in the test results."
+msgstr ""
+"Xác định giao diện cho tên của tệp tin. Phần mở rộng của tệp tin sẽ được "
+"thêm vào tự động. Các shortcode trong tên của tệp tin sẽ được xử lý khác "
+"nhau. Dấu ngoặc mở và đóng của các shortcode sẽ được thay thế bằng <b>"
+"%1$s</b> và <b>%2$s</b> tương ứng. Bạn có thể viết các shortcode như bình "
+"thường. Chú thích này chỉ thông báo để bạn không bị bất ngờ khi thấy dấu "
+"ngoặc mở và đóng của các shortcode bị thay đổi trong kết quả kiểm tra."
+
+msgid "Media title templates"
+msgstr "Giao diện cho tiêu đề của tệp tin"
+
+msgid ""
+"Define templates for the title of the media that will be created for the "
+"file."
+msgstr "Xác định giao diện cho tiêu đề của tệp tin."
+
+msgid "Media description templates"
+msgstr "Giao diện cho mô tả của tệp tin"
+
+msgid ""
+"Define templates for the description of the media that will be created for "
+"the file."
+msgstr "Xác định giao diện cho mô tả của tệp tin."
+
+msgid "Media caption templates"
+msgstr "Giao diện cho chú thích của tệp tin"
+
+msgid ""
+"Define templates for the caption of the media that will be created for the "
+"file."
+msgstr "Xác định giao diện cho chú thích của tệp tin."
+
+msgid "Media alternate text templates"
+msgstr "Giao diện cho văn bản thay thế của tệp tin"
+
+msgid ""
+"Define templates for the alt text of the media that will be created for the "
+"file."
+msgstr "Xác định giao diện cho văn bản thay thế của tệp tin."
+
+msgid "Post Page Settings"
+msgstr "Cài đặt bài viết"
+
+msgid "Selectors and options to be used when crawling post pages"
+msgstr ""
+"Bộ lọc CSS và những tùy chọn được sử dụng khi thu thập các trang bài viết."
+
+msgid "Test Post URL"
+msgstr "URL bài viết thử nghiệm"
+
+msgid ""
+"A full post URL to be used to perform the tests for post page CSS selectors."
+msgstr ""
+"URL đầy đủ của bài viết được sử dụng để thử nghiệm các bộ lọc CSS cho trang "
+"bài viết."
+
+msgid "Post Title Selectors"
+msgstr "Phần tử HTML của tiêu đề bài viết"
+
+msgid ""
+"CSS selectors for post title. E.g. <span class=\"highlight selector\">"
+"h1</span>. This\n"
+"                    gets text of the specified element. If you give more "
+"than one selector, the first match will\n"
+"                    be used."
+msgstr ""
+"Xác định phần tử HTML của tiêu đề bài viết. Ví dụ: <span class=\"highlight "
+"selector\">h1</span>. Mặc định sẽ lấy văn bản thuần của phần tử được chọn. "
+"Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ được sử dụng."
+
+msgid "Post Excerpt Selectors"
+msgstr "Phần tử HTML của mô tả ngắn bài viết"
+
+msgid ""
+"CSS selectors for the post excerpt, if exists. E.g. <span class=\"highlight "
+"selector\">p.excerpt</span>.\n"
+"                    This gets html of the specified element. If you give "
+"more than one selector, the first match will\n"
+"                    be used."
+msgstr ""
+"Xác định phần tử HTML của mô tả ngắn bài viết, nếu tồn tại. Ví dụ: <span "
+"class=\"highlight selector\">p.excerpt</span>. Mặc định sẽ lấy <b>html</b> "
+"của phần tử được chọn. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ "
+"được sử dụng."
+
+msgid "Post Content Selectors"
+msgstr "Phần tử HTML của nội dung bài viết"
+
+msgid ""
+"CSS selectors for the post content. This gets HTML of specified element. E.g."
+"\n"
+"                    <span class=\"highlight selector\">.post-content > "
+"p</span>. If you give more than one selector,\n"
+"                    each match will be crawled and the results will be "
+"merged."
+msgstr ""
+"Xác định phần tử HTML của nội dung bài viết. Mặc định sẽ lấy <b>html</b> của "
+"phần tử được chọn. Ví dụ: <span class=\"highlight selector\">.post-content > "
+"p</span>. Nếu bạn khai báo nhiều bộ lọc, mỗi phát hiện sẽ được thu thập và "
+"các kết quả sẽ được hợp nhất."
+
+msgid "Post Tag Selectors"
+msgstr "Phần tử HTML của mỗi thẻ bài viết"
+
+msgid ""
+"CSS selectors for post tags. By default, this gets \"text\" of the "
+"specified\n"
+"                    elements. You can also use any attribute of the elements."
+" If you give more than one selector,\n"
+"                    the results will be combined to create post tags."
+msgstr ""
+"Xác định phần tử HTML của mỗi thẻ bài viết. Mặc định sẽ lấy văn bản thuần <b>"
+"(text)</b> của phần tử được chọn. Bạn có thể sử dụng bất cứ thuộc tính nào "
+"khác của phần tử. Nếu bạn khai báo nhiều bộ lọc, các kết quả sẽ được kết hợp "
+"để tạo thẻ bài viết."
+
+msgid "Post Slug (Permalink) Selectors"
+msgstr "Phần tử HTML chứa slug của bài viết"
+
+msgid ""
+"CSS selectors for post slug. The slug is the post name in the URL of the "
+"saved post.\n"
+"                            If the slug is not unique, a unique slug will be "
+"generated from the found slug. If a slug\n"
+"                            is not found, the slug will automatically be "
+"generated from the post title."
+msgstr ""
+"Xác định phần tử HTML chứa slug của bài viết. Slug chính là <b>post_name</b> "
+"trong URL của bài viết sau khi lưu. Nếu slug không phải là duy nhất, một "
+"slug duy nhất sẽ được tạo ra từ slug được tìm thấy. Nếu không tìm thấy bất "
+"cứ slug nào thì slug sẽ được tạo ra từ tiêu đề của bài viết."
+
+msgid "Category"
+msgstr "Chuyên mục"
+
+msgid "Category Name Selectors"
+msgstr "Phần tử HTML của tên chuyên mục"
+
+msgid ""
+"CSS selectors for category names. Found names will be used to assign the "
+"post's\n"
+"            categories. If a category with a found name does not exist, it "
+"will be created. This gets text of the found\n"
+"            element by default."
+msgstr ""
+"Xác định phần tử HTML của tên chuyên mục. Những tên được tìm thấy sẽ được sử "
+"dụng để gán vào chuyên mục của bài viết. Nếu chuyên mục với tên được tìm "
+"thấy không tồn tại, nó sẽ được tạo ra. Mặc định sẽ lấy văn bản thuần <b>"
+"(text)</b> của phần tử được chọn."
+
+msgid "Add all found category names?"
+msgstr "Thêm tất cả tên chuyên mục được tìm thấy?"
+
+msgid ""
+"Check this if you want to add all categories found by category name "
+"selectors. Otherwise,\n"
+"            when there are multiple selectors, only the results of the first "
+"match will be used."
+msgstr ""
+"Đánh dấu nếu bạn muốn thêm tất cả chuyên mục được tìm thấy bởi bộ lọc tên "
+"chuyên mục. Nếu không, khi bạn khai báo nhiều bộ lọc, chỉ có kết quả của "
+"phát hiện đầu tiên được sử dụng."
+
+msgid "Category Name Separators"
+msgstr "Dấu phân cách tên chuyên mục"
+
+msgid ""
+"Set separators for category names. For example, if a category name selector "
+"finds\n"
+"            'shoes, women, casual', when you add ',' as separator, there "
+"will be three categories as\n"
+"            'shoes', 'women', and 'casual'. Otherwise, the category name "
+"will be 'shoes, women, casual'. If you add\n"
+"            more than one separator, all will be applied."
+msgstr ""
+"Xác định dấu phân cách cho các tên chuyên mục. Ví dụ, nếu bộ lọc tên chuyên "
+"mục tìm thấy <b>'shoes, women, casual'</b>, và bạn điền dấy phẩy <b>','</b> "
+"là dấu phân cách, như vậy sẽ có ba chuyên mục là <b>'shoes'</b>, <b>"
+"'women'</b>, và <b>'casual'</b>. Nếu không, tên chuyên mục sẽ là <b>'shoes, "
+"women, casual'</b>. Nếu bạn khai báo nhiều dấu phân cách, tất cả chúng sẽ "
+"được áp dụng."
+
+msgid "Separator..."
+msgstr "Dấu phân cách..."
+
+msgid "Add as subcategories?"
+msgstr "Thêm dưới dạng kế thừa chuyên mục con?"
+
+msgid ""
+"When you check this, if there are more than one category name found by a "
+"single selector input,\n"
+"            each category name that comes after a category name in the found "
+"category names will be considered as the\n"
+"            previous category name's child category. This option applies to "
+"a single selector input. When there are\n"
+"            multiple selector inputs, their results will <b>not</b> be "
+"combined to create a subcategory hierarchy. As an\n"
+"            example, let's say a selector found three category names as "
+"'shoes', 'women', and 'casual'. When you check\n"
+"            this option, the post will be in 'shoes > women > casual' "
+"category. However, if these three categories\n"
+"            are found by three different selectors, the post will have "
+"'shoes', 'women', and 'casual' categories\n"
+"            separately, not hierarchically. If you do not want to create a "
+"subcategory hierarchy, do not check this.\n"
+"            When you check this, all categories will be added under the "
+"category defined in the category map."
+msgstr ""
+"Khi bạn đánh dấu, nếu có nhiều tên chuyên mục được tìm thấy bởi một bộ lọc, "
+"mỗi tên chuyên mục xuất hiện sau một tên chuyên mục trong các tên chuyên mục "
+"tìm thấy sẽ được coi là chuyên mục con của chuyên mục trước đó. Tùy chọn này "
+"sẽ áp dụng cho mỗi bộ lọc. Khi bạn khai báo nhiều bộ lọc, các kết quả sẽ <b>"
+"không</b> được hợp nhất để tạo chuyên mục phân cấp. Ví dụ, nếu một bộ lọc "
+"tìm thấy ba tên chuyên mục là <b>'shoes'</b>, <b>'women'</b>, and <b>"
+"'casual'</b>. Khi bạn đánh dấu tùy chọn này, bài viết sẽ có chuyên mục <b>"
+"'shoes > women > casual'</b>. Tuy nhiên, nếu ba chuyên mục này được tìm thấy "
+"bởi ba bộ lọc khác nhau, bài viết sẽ có ba chuyên mục <b>'shoes'</b>, <b>"
+"'women'</b>, and <b>'casual'</b> riêng biệt, không phân cấp. Nếu bạn không "
+"muốn tạo chuyên mục phân cấp, hãy bỏ đánh dấu tùy chọn này. Khi bạn đánh dấu,"
+" tất cả chuyên mục tìm thấy sẽ là chuyên mục con của chuyên mục đã được xác "
+"định trong Bản đồ chuyên mục."
+
+msgid "Do not add the category defined in the category map?"
+msgstr "Thêm dưới dạng chuyên mục độc lập?"
+
+msgid ""
+"Check this if you do not want the post to have the category defined in the "
+"category map.\n"
+"            This option will be applied only if at least one category is "
+"found by category name selectors."
+msgstr ""
+"Đánh dấu nếu bạn không muốn các chuyên mục tìm thấy bởi bộ lọc được thêm "
+"dưới dạng chuyên mục con của chuyên mục đã xác định trong Bản đồ chuyên mục "
+"vào bài viết. Tùy chọn này chỉ được áp dụng nếu có tối thiểu một chuyện mục "
+"được tìm thấy bởi các bộ lọc tên chuyên mục."
+
+msgid "Post Date Selectors"
+msgstr "Phần tử HTML của thời gian bài viết"
+
+msgid ""
+"CSS selectors for post date.\n"
+"                    E.g. <span class=\"highlight selector\">"
+"[itemprop=\"datePublished\"]</span>. If you give more than one\n"
+"                    selector, then the first match will be used. Found date "
+"will be parsed by %1$s function. So, if\n"
+"                    the date found by the selectors cannot be parsed "
+"properly, you need to use find-and-replace options\n"
+"                    to change the date into a suitable format. Generally, "
+"sites show the date via meta tags in a format\n"
+"                    like %2$s. This format will be parsed without any issues."
+msgstr ""
+"Xác định phần tử HTML của thời gian bài viết. Ví dụ: <span class=\"highlight "
+"selector\">[itemprop=\"datePublished\"]</span>. Nếu bạn khai báo nhiều bộ "
+"lọc, phát hiện đầu tiên sẽ được sử dụng. Thời gian sẽ được phân tích bởi hàm "
+"%1$s. Vậy nên, nếu không thể phân tích chính xác thời gian mà bộ lọc tìm "
+"thấy, bạn cần sử dụng Tìm và thay thế trong thời gian để thay đổi thời gian "
+"sang định dạng chuẩn. Nói chung, hầu hết các trang web sẽ hiển thị thời gian "
+"thông qua thẻ meta theo định dạng %2$s. Định dạng này sẽ được phân tích "
+"chính xác mà không có bất cứ vấn đề nào xảy ra."
+
+msgid "Test Date"
+msgstr "Thời gian thử nghiệm"
+
+msgid ""
+"A date to be used to perform tests for the find-replace settings for dates."
+msgstr ""
+"Thời gian được sử dụng để thử nghiệm các cài đặt Tìm và thay thế trong thời "
+"gian."
+
+msgid "Find and replace in dates"
+msgstr "Tìm và thay thế trong thời gian"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>found "
+"post dates</b>,\n"
+"                    this is the place. The replacement will be done before "
+"parsing the date."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>thời gian bài viết được tìm "
+"thấy</b>, đây là nơi. Việc thay thế sẽ được áp dụng trước khi phân tích thời "
+"gian."
+
+msgid "Minutes that should be added to the final date"
+msgstr "Số phút cần thêm vào thời gian"
+
+msgid ""
+"How many minutes should be added to the final date of the post. If the final "
+"date\n"
+"                    becomes greater than now, the post will be scheduled. If "
+"you write a negative number, it will be\n"
+"                    subtracted from the date. Write comma-separated numbers "
+"to randomize. You can write the same number\n"
+"                    multiple times to increase its chance to be selected. <b>"
+"This setting will be applied even if you do\n"
+"                    not supply any date selectors.</b> Example values: <b>"
+"%1$s</b> or <b>%2$s</b>"
+msgstr ""
+"Thêm bao nhiêu phút vào thời gian của bài viết. Nếu thời gian của bài viết "
+"lớn hơn bây giờ, bài viết sẽ được lên lịch đăng. Nếu bạn viết một số âm, nó "
+"sẽ được trừ vào thời gian. Phân cách các số bằng dấu phẩy để ngẫu nhiên hóa. "
+"Bạn có thể viết cùng một số nhiều lần để tăng cơ hội được chọn ngẫu nhiên. "
+"<b>Cài đặt này sẽ được áp dụng ngay cả khi bạn không khai báo bất cứ bộ lọc "
+"thời gian nào.</b> Ví dụ: <b>%1$s</b> hoặc <b>%2$s</b>."
+
+msgid "Meta"
+msgstr "Meta"
+
+msgid "Save meta keywords?"
+msgstr "Lưu meta keywords?"
+
+msgid "Check this if you want to save meta keywords of the target post."
+msgstr ""
+"Đánh dấu nếu bạn muốn lưu meta keywords của bài viết đang thu thập. Tùy chọn "
+"này sẽ lưu meta keywords vào meta của bài viết và bạn cần khai báo Meta "
+"keywords trong Cài đặt chung > TAB SEO."
+
+msgid "Add meta keywords as tags?"
+msgstr "Lưu meta keywords thành các thẻ của bài viết?"
+
+msgid ""
+"Check this if you want each meta keyword should be added as tag to the "
+"crawled post."
+msgstr ""
+"Đánh dấu nếu bạn muốn mỗi meta keywords được lưu thành mỗi thẻ của bài viết."
+
+msgid "Save meta description?"
+msgstr "Lưu meta description?"
+
+msgid "Check this if you want to save meta description of the target post."
+msgstr ""
+"Đánh dấu nếu bạn muốn lưu meta description của bài viết đang thu thập. Tùy "
+"chọn này sẽ lưu meta description vào meta của bài viết và bạn cần khai báo "
+"Meta description trong Cài đặt chung > TAB SEO."
+
+msgid "Save featured image, if it is not found in category page?"
+msgstr "Lưu ảnh đại diện, nếu nó không được tìm thấy trong trang chuyên mục?"
+
+msgid ""
+"If you want to save an image from post page as featured image, when there is "
+"no\n"
+"                    featured image found in category page, check this."
+msgstr ""
+"Nếu bạn muốn lưu một ảnh từ trang bài viết làm ảnh đại diện khi không tìm "
+"thấy bất cứ ảnh đại diện nào ngay tại trang chuyên mục, hãy đánh dấu."
+
+msgid "Featured Image Selectors"
+msgstr "Phần tử HTML của URL ảnh đại diện"
+
+msgid ""
+"CSS selectors for featured image <b>in HTML of the post page</b>. This gets "
+"the \"src\"\n"
+"                    attribute of <b>the first found element</b>. If you give "
+"more than one selector, the first match will\n"
+"                    be used. E.g. <span class=\"highlight selector\">img."
+"featured</span>"
+msgstr ""
+"Xác định phần tử HTML của URL ảnh đại diện <b>trong HTML của trang bài "
+"viết</b>. Mặc định sẽ lấy thuộc tính <b>\"src\"</b> của <b>phần tử đầu tiên "
+"được tìm thấy</b>. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ được "
+"sử dụng. Ví dụ: <span class=\"highlight selector\">img.featured</span>."
+
+msgid "Test Featured Image URL"
+msgstr "URL ảnh đại diện thử nghiệm"
+
+msgid ""
+"A full image URL to be used to perform tests for the find-replace settings\n"
+"                    for featured image URL."
+msgstr ""
+"URL ảnh được sử dụng để thử nghiệm các cài đặt Tìm và thay thế trong URL ảnh "
+"đại diện."
+
+msgid "Find and replace in featured image URL"
+msgstr "Tìm và thay thế trong URL ảnh đại diện"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>URL of "
+"the\n"
+"                    featured image</b>, this is the place. The replacement "
+"will be done before saving the image."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>URL ảnh đại diện</b>, đây là nơi. "
+"Việc thay thế sẽ được thực hiện trước khi lưu hình ảnh."
+
+msgid "Images"
+msgstr "Hình ảnh"
+
+msgid "Save all images in the post content?"
+msgstr "Lưu tất cả hình ảnh trong nội dung bài viết?"
+
+msgid ""
+"If you want all the images in the post content to be saved as media and "
+"included in\n"
+"                    the post from your server, check this. <b>This is the "
+"same as checking \"save images as media\" and\n"
+"                    writing %1$s to the image selectors. </b>"
+msgstr ""
+"Nếu bạn muốn tất cả hình ảnh trong nội dung bài viết được lưu về và đính kèm "
+"trong bài viết từ máy chủ của bạn, hãy đánh dấu. <b>Tùy chọn này giống như "
+"tính năng Lưu hình ảnh tùy chỉnh bên dưới với %1$s được viết trong Phần tử "
+"HTML của các hình ảnh</b>."
+
+msgid "Save images as media?"
+msgstr "Lưu hình ảnh tùy chỉnh?"
+
+msgid ""
+"If you want the images in the post content to be saved as media and included "
+"in\n"
+"                    the post from your server, check this."
+msgstr ""
+"Nếu bạn muốn các hình ảnh trong nội dung bài viết được lưu về và đính kèm "
+"trong bài viết từ máy chủ của bạn, hãy đánh dấu."
+
+msgid "Save images as gallery?"
+msgstr "Lưu hình ảnh thành bộ sưu tập?"
+
+msgid "If you want to save specific images as a gallery, check this."
+msgstr "Nếu bạn muốn lưu các hình ảnh cụ thể thành bộ sưu tập, hãy đánh dấu."
+
+msgid "Gallery Image URL Selectors"
+msgstr "Phần tử HTML của URL hình ảnh trong bộ sưu tập"
+
+msgid ""
+"CSS selectors for <b>image URLs in the HTML of the page</b>. This gets the\n"
+"                                \"src\" attribute of specified element by "
+"default. If you give more than one selector, each\n"
+"                                match will be used when saving images and "
+"creating the gallery."
+msgstr ""
+"Xác định phần tử HTML của <b>URL hình ảnh trong HTML của trang bài viết</b>. "
+"Mặc định sẽ lấy thuộc tính <b>\"src\"</b> của phần tử được chọn. Nếu bạn "
+"khai báo nhiều bộ lọc, mỗi phát hiện sẽ được sử dụng để lưu hình ảnh và tạo "
+"bộ sưu tập."
+
+msgid "Save images as WooCommerce product gallery?"
+msgstr "Lưu hình ảnh thành bộ sưu tập cho sản phẩm WooCommerce?"
+
+msgid ""
+"If you set post type as WooCommerce product and you want to save\n"
+"                                    the gallery as the product's gallery, "
+"check this."
+msgstr ""
+"Nếu bạn cài đặt Loại bài viết là sản phẩm WooCommerce <b>(product)</b> và "
+"bạn muốn lưu bộ sưu tập thành bộ sưu tập hình ảnh cho sản phẩm, hãy đánh dấu."
+
+msgid "Image URL Selectors"
+msgstr "Phần tử HTML của URL hình ảnh"
+
+msgid ""
+"CSS selectors for images <b>in the post content</b>. This gets the \"src\" "
+"attribute of\n"
+"                    specified element. If you give more than one selector, "
+"each match will be used when saving\n"
+"                    images. E.g. <b><span class=\"highlight selector\">"
+"img</span> will save all images in the post content.</b>"
+msgstr ""
+"Xác định phần tử HTML của các hình ảnh <b>trong nội dung của bài viết</b>. "
+"Mặc định sẽ lấy thuộc tính <b>\"src\"</b> của phần tử được chọn. Nếu bạn "
+"khai báo nhiều bộ lọc, mỗi phát hiện sẽ được sử dụng để lưu hình ảnh. Ví dụ: "
+"<b><span class=\"highlight selector\">img</span> sẽ lưu tất cả hình ảnh "
+"trong nội dung bài viết.</b>"
+
+msgid "Test Image URL"
+msgstr "URL hình ảnh thử nghiệm"
+
+msgid ""
+"A full image URL to be used to perform tests for the find-replace settings "
+"for image URLs."
+msgstr ""
+"URL đầy đủ của hình ảnh được sử dụng để thử nghiệm các cài đặt Tìm và thay "
+"thế cho URL hình ảnh."
+
+msgid "Find and replace in image URLs"
+msgstr "Tìm và thay thế trong URL hình ảnh"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>URLs of "
+"the\n"
+"                    found images</b>, this is the place. The replacement "
+"will be done before saving the image."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>URL của hình ảnh được tìm thấy</b>,"
+" đây là nơi. Việc thay thế sẽ được áp dụng trước khi lưu hình ảnh."
+
+msgid "Custom Short Codes"
+msgstr "Shortcode tùy chỉnh"
+
+msgid "Custom Content Selectors for Shortcodes"
+msgstr "Phần tử HTML cho nội dung của shortcode"
+
+msgid ""
+"CSS selectors for HTML elements whose contents can be used in post template\n"
+"                    by defined shortcode. If more than one element is found, "
+"their content will be merged. If\n"
+"                    you do not want them merged, check the \"single\" "
+"checkbox to get the first found result.\n"
+"                    By default, this gets HTML of the found element. If you "
+"want the text of the target element,\n"
+"                    write \"text\" for attribute. You can also use any other "
+"attribute of the found element, such\n"
+"                    as \"src\", \"href\"... Write your shortcodes without "
+"brackets, e.g. <b>\"item-price\"</b>. Next, you\n"
+"                    can use it <b>in the main post template by writing [item-"
+"price]</b>"
+msgstr ""
+"Xác định phần tử HTML cho nội dung của shortcode có thể được sử dụng trong "
+"các giao diện. Nếu có nhiều phần tử được tìm thấy, chúng sẽ được hợp nhất. "
+"Nếu bạn không muốn hợp nhất, hãy đánh dấu vào <b>\"Đơn\"</b> để lấy kết quả "
+"đầu tiên. Mặc định sẽ lấy HTML của phần tử được chọn. Nếu bạn muốn lấy văn "
+"bản thuần của phần tử, hãy viết <b>\"text\"</b> vào <b>Thuộc tính</b>. Bạn "
+"cũng có thể lấy bất cứ thuộc tính nào của phần tử được chọn, như: <b>"
+"\"src\"</b>, <b>\"href\"</b>... Viết các shortcode không chứa dấu ngoặc "
+"vuông. Ví dụ: <b>\"item-price\"</b>. Sau đó, bạn có thể sử dụng nó trong các "
+"giao diện bằng cách viết <b>[item-price]</b>."
+
+msgid "Find and replace in custom short codes"
+msgstr "Tìm và thay thế trong shortcode tùy chỉnh"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>custom "
+"short code\n"
+"                    contents</b>, this is the place. <b>The replacements "
+"will be applied after custom short code\n"
+"                    contents are retrieved</b>."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>nội dung của shortcode tùy "
+"chỉnh</b>, đây là nơi. <b>Việc thay thế sẽ được áp dụng sau khi nội dung của "
+"shortcode được lấy về</b>."
+
+msgid "List Type Posts"
+msgstr "Danh sách"
+
+msgid "Posts are list type?"
+msgstr "Bài viết thuộc dạng danh sách?"
+
+msgid ""
+"If the target post is list type, and you want to import it as a list, check "
+"this."
+msgstr ""
+"Nếu bài viết mục tiêu là loại danh sách và bạn muốn lưu chúng như là một "
+"danh sách, hãy đánh dấu."
+
+msgid "List Items Start After Selectors"
+msgstr "Phần tử HTML bắt đầu của danh sách"
+
+msgid ""
+"CSS selectors for the elements come just before the first list item. This "
+"will be used\n"
+"                    to detect list item contents accurately. The position of "
+"the first match of any given selector\n"
+"                    will be compared to others and the greatest position "
+"will be used. You can give a selector\n"
+"                    for the first item. It'll do the job. E.g. <span "
+"class='highlight selector'>.entry > .list-item</span>"
+msgstr ""
+"Xác định phần tử HTML ngay trước mục đầu tiên của danh sách (phần tử cha bao "
+"quanh tất cả các mục của danh sách). Việc này được sử dụng để phát hiện "
+"chính xác các mục trong danh sách. Vị trí phát hiện đầu tiên của bất kỳ bộ "
+"chọn nào sẽ được so sánh với vị trí khác và vị trí tốt nhất sẽ được sử dụng. "
+"Bạn có thể điền vào phần tử HTML của mục đầu tiên. Ví dụ: <span "
+"class='highlight selector'>.entry > .list-item</span>."
+
+msgid "List Item Number Selectors"
+msgstr "Phần tử HTML của số thứ tự mỗi mục trong danh sách"
+
+msgid ""
+"CSS selectors for each list item's number, if the target post is list type. "
+"This gets\n"
+"                    the text of specified element. If you give more than one "
+"selector, the first match will\n"
+"                    be used."
+msgstr ""
+"Xác định phần tử HTML của số thứ tự mỗi mục trong danh sách. Mặc định sẽ lấy "
+"văn bản thuần của phần tử được chọn. Nếu bạn khai báo nhiều bộ lọc, phát "
+"hiện đầu tiên sẽ được sử dụng."
+
+msgid "Insert list item numbers automatically?"
+msgstr "Tự động chèn số thứ tự cho các mục?"
+
+msgid ""
+"If you want to insert list item numbers automatically when there is no item "
+"number,\n"
+"                    then check this. The items will be numbered starting "
+"from 1."
+msgstr ""
+"Nếu bạn muốn tự động chèn số cho các mục trong danh sách khi không có số thứ "
+"tự cho các mục được tìm thấy tại <b>Phần tử HTML của số thứ tự mỗi mục trong "
+"danh sách</b>, hãy đánh dấu. Các mục trong danh sách sẽ được đánh số bắt đầu "
+"từ 1."
+
+msgid "List Item Title Selectors"
+msgstr "Phần tử HTML của tiêu đề mỗi mục trong danh sách"
+
+msgid ""
+"CSS selectors for each list item's title, if the target post is list type. "
+"This gets\n"
+"                    the text of specified element. If you give more than one "
+"selector, the first match will\n"
+"                    be used."
+msgstr ""
+"Xác định phần tử HTML của tiêu đề mỗi mục trong danh sách. Mặc định sẽ lấy "
+"văn bản thuần của phần tử được chọn. Nếu bạn khai báo nhiều bộ lọc, phát "
+"hiện đầu tiên sẽ được sử dụng."
+
+msgid "List Item Content Selectors"
+msgstr "Phần tử HTML của nội dung mỗi mục trong danh sách"
+
+msgid ""
+"CSS selector for each list item's content, if the target post is list type. "
+"This gets\n"
+"                    the HTML of specified element. If you give more than one "
+"selector, the results will be\n"
+"                    combined when creating each list item's content."
+msgstr ""
+"Xác định phần tử HTML của nội dung mỗi mục trong danh sách. Mặc định sẽ lấy "
+"HTML của phần tử được chọn. Nếu bạn khai báo nhiều bộ lọc, các kết quả sẽ "
+"được kết hợp khi tạo nội dung của mỗi mục trong danh sách."
+
+msgid "Insert list in reverse order?"
+msgstr "Sắp xếp danh sách theo thứ tự ngược lại?"
+
+msgid ""
+"If you want to insert the list into the post in reverse order, then check "
+"this."
+msgstr ""
+"Nếu bạn muốn danh sách được sắp xếp theo thứ tự ngược lại, hãy đánh dấu.\t"
+
+msgid "Pagination"
+msgstr "Phân trang"
+
+msgid "Paginate posts?"
+msgstr "Bài viết phân trang?"
+
+msgid ""
+"If the target post is paginated, and you want it imported as paginated, "
+"check this."
+msgstr ""
+"Nếu bài viết đang thu thập được phân trang và bạn muốn thu thập nó theo cách "
+"phân trang, hãy đánh dấu."
+
+msgid "Post Next Page URL Selectors"
+msgstr "Phần tử HTML của URL trang tiếp theo"
+
+msgid ""
+"CSS selector for next page URL, used to get \"href\" attribute of \"a\" tag. "
+"E.g.\n"
+"                    <span class=\"highlight selector\">.pagination > a."
+"next</span>. If you give more than one selector,\n"
+"                    the first match will be used."
+msgstr ""
+"Xác định phần tử HTML của URL trang tiếp theo, Mặc định sẽ lấy thuộc tính <b>"
+"\"href\"</b> của thẻ <b>\"a\"</b>. Ví dụ: <span class=\"highlight selector\">"
+".pagination > a.next</span>. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu "
+"tiên sẽ được sử dụng."
+
+msgid "Post All Page URLs Selectors"
+msgstr "Phần tử HTML của mỗi URL trang tiếp theo"
+
+msgid ""
+"CSS selectors for all page URLs. Sometimes there is no next page URL. "
+"Instead, the\n"
+"                    post page has all of the post pages (or parts) in one "
+"place. If this is the case, you should\n"
+"                    use this. This is used to get \"href\" attribute of "
+"\"a\" tag. E.g. <span class=\"highlight selector\">.post > .parts > a</span>."
+"\n"
+"                    If you give more than one selector, then the first match "
+"will be used."
+msgstr ""
+"Xác định phần tử HTML của mỗi URL trang tiếp theo. Đôi khi không có URL "
+"trang tiếp theo trong bài viết. Thay vào đó, trong bài viết sẽ có tất cả các "
+"trang tiếp theo ở cùng một nơi. Nếu đúng như vậy, bạn nên sử dụng tùy chọn "
+"này. Mặc định sẽ lấy thuộc tính <b>\"href\"</b> của thẻ <b>\"a\"</b>. Ví dụ: "
+"<span class=\"highlight selector\">.post > .parts > a</span>. Nếu bạn khai "
+"báo nhiều bộ lọc, phát hiện đầu tiên sẽ được sử dụng."
+
+msgid "Post Meta"
+msgstr "Meta bài viết"
+
+msgid "Custom Meta Selectors"
+msgstr "Phần tử HTML chứa nội dung muốn gán vào meta bài viết"
+
+msgid ""
+"CSS selectors for custom meta values. You can use this to save anything "
+"from\n"
+"                    target post as post meta of to-be-saved post. You can "
+"write \"html\", \"text\", or an attribute\n"
+"                    of the target element for attribute input."
+msgstr ""
+"Xác định phần tử HTML chứa nội dung mà bạn muốn gán vào meta bài viết. Bạn "
+"có thể lưu bất cứ thứ gì từ bài viết mục tiêu vào meta bài viết sau khi lưu. "
+"Bạn có thể viết <b>\"html\"</b>, <b>\"text\"</b> hoặc bất cứ thuộc tính nào "
+"khác vào trường <b>Thuộc tính</b>."
+
+msgid "Custom Meta"
+msgstr "Meta tùy chỉnh"
+
+msgid ""
+"You can save any value as a post meta. Just write a post meta key and its "
+"value."
+msgstr ""
+"Bạn có thể lưu bất kỳ giá trị nào vào Meta bài viết. Chỉ cần viết Meta key "
+"và Giá trị của nó."
+
+msgid "Find and replace in custom meta"
+msgstr "Tìm và thay thế trong meta bài viết"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>custom "
+"meta\n"
+"                    values</b>, this is the place. <b>The replacements will "
+"be applied after\n"
+"                    find-and-replaces for element HTMLs are applied</b>."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>meta bài viết</b>, đây là nơi. <b>"
+"Việc thay thế sẽ được áp dụng sau khi Tìm và thay thế trong HTML của phần tử "
+"được áp dụng</b>."
+
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+msgid "Custom Taxonomy Value Selectors"
+msgstr "Phần tử HTML chứa nội dung muốn gán vào taxonomy bài viết"
+
+msgid ""
+"CSS selectors for custom taxonomy values. You can use this to save anything "
+"from\n"
+"                    target post as taxonomy value of to-be-saved post. You "
+"can write \"html\", \"text\", or an attribute\n"
+"                    of the target element for attribute input. By default, "
+"the first found values will be used. If you\n"
+"                    want to use all values found by a CSS selector, check "
+"the multiple checkbox. If you want to append\n"
+"                    to any previously-existing values, check the append "
+"checkbox. Otherwise, the given value will\n"
+"                    remove all of the previously-existing values of its "
+"taxonomy."
+msgstr ""
+"Xác định phần tử HTML chứa nội dung muốn gán vào taxonomy bài viết. Bạn có "
+"thể lưu bất cứ thứ gì từ bài viết mục tiêu thành giá trị taxonomy của bài "
+"viết sau khi lưu. Bạn có thể viết <b>\"html\"</b>, <b>\"text\"</b> hoặc bất "
+"cứ thuộc tính nào vào trường <b>Thuộc tính</b>. Mặc định các giá trị tìm "
+"thấy đầu tiên sẽ được sử dụng. Nếu bạn muốn sử dụng tất cả các giá trị tìm "
+"thấy bởi bộ lọc CSS, hãy đánh dấu vào <b>Nhiều</b>. Nếu bạn muốn nối tiếp "
+"vào các giá trị đã tồn tại trước đó, hãy đánh dấu vào <b>Nối tiếp</b>. Nếu "
+"không, các giá trị được tìm thấy sẽ thay thế tất cả giá trị taxonomy trước "
+"đó."
+
+msgid "Custom Taxonomy Value"
+msgstr "Taxonomy tùy chỉnh"
+
+msgid ""
+"You can save any value as a value for a taxonomy. Just write a taxonomy and "
+"its value.\n"
+"                    If you want to append to any previously-existing values, "
+"check the append checkbox. Otherwise,\n"
+"                    the given value will remove all of the previously-"
+"existing values of its taxonomy."
+msgstr ""
+"Bạn có thể lưu bất cứ thứ gì thành giá trị của taxonomy bài viết. Chỉ cần "
+"viết taxonomy và giá trị của chúng. Nếu bạn muốn nối tiếp vào các giá trị đã "
+"tồn tại trước đó, hãy đánh dấu vào <b>Nối tiếp</b>. Nếu không, các giá trị "
+"được tìm thấy sẽ thay thế tất cả giá trị taxonomy trước đó."
+
+msgid "Unnecessary Elements"
+msgstr "Phần tử không cần thiết"
+
+msgid "Unnecessary Element Selectors"
+msgstr "Phần tử không cần thiết"
+
+msgid ""
+"CSS selectors for unwanted elements in the post page. Specified elements "
+"will be\n"
+"                    removed from the HTML of the page. Content extraction "
+"will be done after the page is cleared\n"
+"                    from unnecessary elements."
+msgstr ""
+"Xác định phần tử HTML không cần thiết. Các phần tử đó sẽ được xóa khỏi HTML "
+"của trang bài viết. Nội dung sẽ được xuất ra sau khi các phần tử không cần "
+"thiết được xóa."
+
+msgid "CSS selectors for empty value notification"
+msgstr "Phần tử HTML để thông báo khi không có giá trị"
+
+msgid ""
+"Write CSS selectors and their attributes you want to retrieve. If the "
+"retrieved value\n"
+"                        is empty, you will be notified via email. These CSS "
+"selectors will be tried to be retrieved\n"
+"                        after all replacements are applied."
+msgstr ""
+"Xác định phần tử HTML và thuộc tính của chúng mà bạn muốn theo dõi. Nếu phần "
+"tử đó không có giá trị, bạn sẽ được thông báo qua email. Các phần tử HTML "
+"này sẽ được truy xuất sau khi tất cả các <b>Tìm và thay thế</b> được áp dụng."
+
+msgid "Options"
+msgstr "Tùy chọn"
+
+msgid "Product data"
+msgstr "Dữ liệu sản phẩm"
+
+msgid "Virtual"
+msgstr "Sản phẩm ảo"
+
+msgid "Downloadable"
+msgstr "Có thể tải xuống"
+
+msgid "General"
+msgstr "Chung"
+
+msgid "Manually recrawl (update) a post"
+msgstr "Thu thập lại (cập nhật) thủ công bài viết."
+
+msgid "Write the ID of the post you want to update."
+msgstr "Nhập vào ID bài viết mà bạn muốn thu thập lại (cập nhật)."
+
+msgid "Post ID..."
+msgstr "ID bài viết"
+
+msgid "Recrawl"
+msgstr "Thu thập lại"
+
+msgid "Active sites"
+msgstr "Chiến dịch hoạt động"
+
+msgid "Last"
+msgstr "Cuối"
+
+msgid "Active"
+msgstr "Hoạt động"
+
+msgid "Today"
+msgstr "Hôm nay"
+
+msgid "URL Collection"
+msgstr "Thu thập URL"
+
+msgid "Post Crawl"
+msgstr "Thu thập bài viết"
+
+msgid "Post Recrawl"
+msgstr "Thu thập lại bài viết"
+
+msgid "Post Delete"
+msgstr "Xóa bài viết"
+
+msgid "%1$s ago"
+msgstr "%1$s trước"
+
+msgid "No active sites."
+msgstr "Không có chiến dịch nào hoạt động."
+
+msgid "Short code"
+msgstr "Shortcode"
+
+msgid "Category Page Settings"
+msgstr "Cài đặt chuyên mục"
+
+msgid ""
+"Category mapping and other settings to be used when crawling category pages"
+msgstr ""
+"Thiết lập bản đồ chuyên mục và những tùy chọn được sử dụng khi thu thập các "
+"trang chuyên mục."
+
+msgid "Category List Page URL"
+msgstr "URL trang danh sách chuyên mục"
+
+msgid ""
+"The URL to get category links from. The page should include a container "
+"having category URLs.\n"
+"                    This will be used to automatically insert category URLs "
+"for category map."
+msgstr ""
+"URL trang riêng chứa danh sách chuyên mục của website mục tiêu. Thông thường "
+"các website sẽ hiển thị danh sách chuyên mục ngay tại trang chủ. Nhưng trong "
+"một số trường hợp website mục tiêu lại đặt danh sách chuyên mục trong một "
+"trang riêng. Đây chính là nơi bạn khai báo URL trang riêng chứa danh sách "
+"chuyên mục của website mục tiêu. Phần này sẽ được sử dụng để tự động liệt kê "
+"các URL chuyên mục vào Bản đồ chuyên mục."
+
+msgid "Category List URL Selectors"
+msgstr "Phần tử HTML của mỗi URL chuyên mục"
+
+msgid ""
+"CSS selectors for category links. This is used to get category URLs "
+"automatically for category map.\n"
+"                    Gets \"href\" attributes of \"a\" tags. E.g. <span "
+"class=\"highlight selector\">.top-level-navigation ul > li > a</span>.\n"
+"                    Before using the insert button, make sure you filled the "
+"category list page URL."
+msgstr ""
+"Xác định phần tử HTML của mỗi URL chuyên mục. Phần này được sử dụng để tự "
+"động lấy các URL chuyên mục và đưa chúng vào Bản đồ chuyên mục. Mặc định sẽ "
+"lấy thuộc tính <span class=\"highlight attribute\">href</span> của phần tử "
+"được chọn. Ví dụ: <span class=\"highlight selector\">.top-level-navigation "
+"ul > li > a</span>. Trước khi sử dụng, hãy đảm bảo bạn đã khai báo URL trang "
+"danh sách chuyên mục."
+
+msgid "Find and add category links for mapping"
+msgstr "Tìm và thêm URL chuyên mục vào Bản đồ chuyên mục"
+
+msgid "Category Map"
+msgstr "Bản đồ chuyên mục"
+
+msgid ""
+"Map the categories to target site's URLs. You can write the URLs relative to "
+"the\n"
+"                    main site URL. E.g. <span class=\"highlight url\">"
+"/category/art</span>. Category URLs should\n"
+"                    be added once, no duplicates allowed. <b>Note that</b> "
+"changing category map will clear the\n"
+"                    post URLs waiting to be saved."
+msgstr ""
+"Phân phối các chuyên mục cần thu thập với các chuyên mục trên website của "
+"bạn. Bạn có thể viết các URL kế thừa từ URL trang web mục tiêu. Ví dụ: <span "
+"class=\"highlight url\">/category/art</span>. Các URL chuyên mục chỉ được "
+"phép thêm một lần, không cho phép trùng lặp. <b>Lưu ý:</b> việc thay đổi bản "
+"đồ chuyên mục sẽ xóa các URL đang chờ thu thập."
+
+msgid "Category URL"
+msgstr "URL chuyên mục"
+
+msgid "Test Category URL"
+msgstr "URL chuyên mục thử nghiệm"
+
+msgid ""
+"A full category URL to be used to perform the tests for category page CSS "
+"selectors."
+msgstr ""
+"URL chuyên mục của website mục tiêu được sử dụng để thử nghiệm các bộ lọc "
+"CSS bên dưới."
+
+msgid "Category Post URL Selectors"
+msgstr "Phần tử HTML của mỗi URL bài viết"
+
+msgid ""
+"CSS selectors for the post URLs in category pages. Gets \"href\" attributes "
+"of \"a\" tags.\n"
+"                    E.g. <span class=\"highlight selector\">article.post > "
+"h2 > a</span>. When testing, make sure you\n"
+"                    filled the category test URL. If you give more than one "
+"selector, each selector will be used\n"
+"                    to get URLs and the results will be combined."
+msgstr ""
+"Xác định phần tử HTML của mỗi URL bài viết trong chuyên mục. Mặc định sẽ lấy "
+"thuộc tính <span class=\"highlight attribute\">href</span> của phần tử được "
+"chọn. Ví dụ: <span class=\"highlight selector\">article.post > h2 > a</span>."
+" Khi thử nghiệm, hãy đảm bảo bạn đã điền vào URL chuyên mục thử nghiệm. Nếu "
+"bạn khai báo nhiều bộ lọc, các kết quả sẽ được hợp nhất."
+
+msgid "Collect URLs in reverse order?"
+msgstr "Thu thập URL theo thứ tự ngược lại?"
+
+msgid ""
+"When you check this, the URLs found by URL selectors will be ordered in "
+"reverse before\n"
+"                        they are saved into the database. Therefore, the "
+"posts will be saved in reverse order for\n"
+"                        each category page."
+msgstr ""
+"Khi bạn đánh dấu, URL được tìm thấy sẽ xếp hàng ngược lại trước khi chúng "
+"được lưu vào cơ sở dữ liệu. Do đó, các bài viết sẽ được lưu theo thứ tự "
+"ngược lại cho mỗi chuyên mục."
+
+msgid "Next Page"
+msgstr "Trang tiếp theo"
+
+msgid "Category Next Page URL Selectors"
+msgstr "Phần tử HTML của URL trang tiếp theo"
+
+msgid ""
+"CSS selectors for next page URL in a category page. Gets \"href\" attributes "
+"of \"a\" tags.\n"
+"                    E.g. <span class=\"highlight selector\">.pagination > a."
+"next</span>. When testing, make sure you\n"
+"                    filled the category test URL. If you give more than one "
+"selector, the first\n"
+"                    match will be used."
+msgstr ""
+"Xác định phần tử HTML của URL trang tiếp theo trong chuyên mục. Mặc định sẽ "
+"lấy thuộc tính <span class=\"highlight attribute\">href</span> của phần tử "
+"được chọn. Ví dụ: <span class=\"highlight selector\">.pagination > a."
+"next</span>. Khi thử nghiệm, hãy đảm bảo bạn đã điền vào URL chuyên mục thử "
+"nghiệm. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ được sử dụng."
+
+msgid "Featured Images"
+msgstr "Ảnh đại diện"
+
+msgid "Save featured images?"
+msgstr "Lưu ảnh đại diện?"
+
+msgid ""
+"If there are featured images for each post on category page and you want to\n"
+"                    save the featured images for the posts, check this."
+msgstr ""
+"Nếu có ảnh đại diện cho mỗi bài viết ngay trong trang chuyên mục và bạn muốn "
+"lưu ảnh đại diện cho các bài viết, hãy đánh dấu."
+
+msgid ""
+"CSS selectors for post featured images in a category page. Gets \"src\" "
+"attributes of \"img\" tags.\n"
+"                    E.g. <span class=\"highlight selector\">.post-item > "
+"img</span>. When testing, make sure you\n"
+"                    filled the category test URL. If you give more than one "
+"selector, the first match will be used."
+msgstr ""
+"Xác định phần tử HTML của URL ảnh đại diện mỗi bài viết trong chuyên mục. "
+"Mặc định sẽ lấy thuộc tính <span class=\"highlight attribute\">src</span> "
+"của phần tử được chọn. Ví dụ: <span class=\"highlight selector\">.post-item >"
+" img</span>. Khi thử nghiệm, hãy đảm bảo bạn đã điền vào URL chuyên mục thử "
+"nghiệm. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ được sử dụng."
+
+msgid "Post links come before featured images?"
+msgstr "URL bài viết xuất hiện trước ảnh đại diện?"
+
+msgid ""
+"If the links for the posts in the category page come before the featured "
+"images,\n"
+"                    considering the position of the featured image and link "
+"in the HTML of the page, check this."
+msgstr ""
+"Nếu URL các bài viết trong chuyên mục xuất hiện trước các ảnh đại diện, hãy "
+"đánh dấu. Tùy chọn này được sử dụng khi bạn thấy ảnh đại diện và các URL bài "
+"viết không khớp với nhau."
+
+msgid ""
+"CSS selectors for unwanted elements in the category page. Specified elements "
+"will be\n"
+"                    removed from the HTML of the page. Content extraction "
+"will be done after the page is cleared\n"
+"                    from unnecessary elements."
+msgstr ""
+"Xác định phần tử HTML không cần thiết. Các phần tử đó sẽ được xóa khỏi HTML "
+"của trang chuyên mục. Nội dung sẽ được xuất ra sau khi các phần tử không cần "
+"thiết được xóa."
+
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+msgid "Import/Export Settings"
+msgstr "Nhập vào/Xuất ra mã cài đặt"
+
+msgid ""
+"Import settings from another site or copy the settings to import for another "
+"site"
+msgstr ""
+"Nhập vào mã cài đặt từ chiến dịch khác hoặc sao chép mã cài đặt của chiến "
+"dịch này để nhập vào chiến dịch khác."
+
+msgid "Import Settings"
+msgstr "Nhập mã cài đặt"
+
+msgid ""
+"Paste the settings exported from another site to import. <b>Current "
+"settings\n"
+"                    will be overridden.</b>"
+msgstr ""
+"Nhập vào mã cài đặt xuất ra từ một chiến dịch khác. <b>Những cài đặt hiện "
+"tại sẽ bị ghi đè</b>."
+
+msgid "Paste settings and update. Note: This will override all settings."
+msgstr ""
+"Nhập mã cài đặt và cập nhật. Lưu ý: điều này sẽ ghi đè các cài đặt hiện tại."
+
+msgid "Export Settings"
+msgstr "Xuất mã cài đặt"
+
+msgid ""
+"You can copy the settings here and use the copied code to export settings "
+"to\n"
+"                    another site."
+msgstr "Bạn có thể sao chép mã cài đặt ở đây và nhập vào một chiến dịch khác."
+
+msgid "Template"
+msgstr "Giao diện"
+
+msgid "Go to details"
+msgstr "Đi tới chi tiết"
+
+msgid "Source Code"
+msgstr "Mã nguồn sau khi xử lý"
+
+msgid "Character count"
+msgstr "Tổng số ký tự"
+
+msgid "Toggle source code"
+msgstr "Mã nguồn sau khi xử lý"
+
+msgid "Go to top"
+msgstr "Lên đầu trang"
+
+msgid "Data"
+msgstr "Dữ liệu mảng"
+
+msgid "Toggle data"
+msgstr "Dữ liệu mảng"
+
+msgid "Old password"
+msgstr "Mật khẩu cũ"
+
+msgid "New password"
+msgstr "Mật khẩu mới"
+
+msgid "New password again"
+msgstr "Xác nhận mật khẩu mới"
+
+msgid ""
+"Make sure decimal separators match with the ones you configured for "
+"WooCommerce."
+msgstr ""
+"Hãy đảm bảo dấu phân cách thập phân khớp với dấu phân cách thập phân mà bạn "
+"đã cấu hình trong WooCommerce."
+
+msgid "Short codes"
+msgstr "Shortcode"
+
+msgid "Short codes that can be used in product URL and button text."
+msgstr "Shortcode có thể được sử dụng trong URL sản phẩm và Nội dung nút bấm"
+
+msgid "Set the product URL."
+msgstr "Cài đặt URL sản phẩm."
+
+msgid "Set the button text."
+msgstr "Cài đặt nội dung nút bấm."
+
+msgid "Buy product"
+msgstr "Mua sản phẩm"
+
+msgid "Regular Price Selectors"
+msgstr "Phần tử HTML của giá bán thường"
+
+msgid "CSS selectors for regular price."
+msgstr "Xác định phần tử HTML cho giá bán thường."
+
+msgid "Sale Price Selectors"
+msgstr "Phần tử HTML của giá khuyến mãi"
+
+msgid "CSS selectors for sale price."
+msgstr "Xác định phần tử HTML của giá khuyến mãi."
+
+msgid "Downloadable File URL Selectors"
+msgstr "Phần tử HTML của URL tệp tin"
+
+msgid "CSS selectors for downloadable files."
+msgstr "Xác định phần tử HTML của URL tệp tin có thể tải xuống."
+
+msgid "Leave blank for unlimited re-downloads."
+msgstr "Để trống nếu bạn không muốn giới hạn số lần tải xuống."
+
+msgid ""
+"Enter the number of days before a download link expires, or leave blank."
+msgstr ""
+"Nhập vào số ngày trước khi một liên kết tải xuống hết hạn hoặc để trống."
+
+msgid "Recent Tests"
+msgstr "Thử nghiệm gần đây"
+
+msgid "Test Type"
+msgstr "Loại"
+
+msgid "Test URL"
+msgstr "URL"
+
+msgid "Delete All"
+msgstr "Xóa tất cả"
+
+msgid "No previous tests."
+msgstr "Không có thử nghiệm nào trước đây."
+
+msgid "Single?"
+msgstr "Đơn?"
+
+msgid "Attribute (default: %s)"
+msgstr "Thuộc tính (%s)"
+
+msgid "Shortcode without brackets"
+msgstr "Shortcode (không ngoặc vuông)"
+
+msgid "No URLs."
+msgstr "Không có URL nào."
+
+msgid "Post"
+msgstr "Bài viết"
+
+msgid "Templates"
+msgstr "Giao diện"
+
+msgid "Notes"
+msgstr "Ghi chú"
+
+msgid "Test"
+msgstr "Thử nghiệm"
+
+msgid "Test this URL"
+msgstr "Thử nghiệm URL này"
+
+msgid "Post URL..."
+msgstr "URL bài viết"
+
+msgid "Featured image URL..."
+msgstr "URL ảnh đại diện"
+
+msgid "Toggle info texts"
+msgstr "Ẩn/hiện chú thích"
+
+msgid ""
+"You can write your notes about this site here. It is just for you to keep "
+"notes."
+msgstr ""
+"Bạn có thể viết một vài ghi chú về chiến dịch ở đây. Phần này chỉ để bạn lưu "
+"các ghi chú."
+
+msgid "Write anything..."
+msgstr "Viết các ghi chú của bạn về chiến dịch này…"
+
+msgid ""
+"You can create templates for the current item. You can use the short codes "
+"below. In addition, you can\n"
+"        use custom short codes you defined in the settings. When there are "
+"more than one template, a random one\n"
+"        will be selected for each found item. When testing, find-replace, "
+"general, and calculation options will be\n"
+"        applied first."
+msgstr ""
+"Bạn có thể tạo giao diện cho từng bộ lọc. Bạn có thể sử dụng các shortcode "
+"phía dưới. Ngoài ra, bạn cũng có thể sử dụng các shortcode tùy chỉnh mà bạn "
+"đã cấu hình. Nếu bạn tạo nhiều giao diện, một giao diện ngẫu nhiên sẽ được "
+"sử dụng cho mỗi giá trị được tìm thấy. Khi thử nghiệm, Tìm và thay thế, TAB "
+"Chung và Tính toán sẽ được áp dụng trước."
+
+msgid "Remove item if it is empty?"
+msgstr "Xóa kết quả nếu nó không có giá trị?"
+
+msgid ""
+"When you check this, if the item is found to be empty, it will be removed "
+"from the results.\n"
+"                    In other words, it will be treated as it was not found. "
+"It will not be included in the results.\n"
+"                    The templates will not be applied."
+msgstr ""
+"Khi bạn đánh dấu, nếu kết quả tìm thấy không có giá trị, nó sẽ bị xóa. Nói "
+"cách khác, nó sẽ được xử lý như không tìm thấy. Nó sẽ không được bao gồm "
+"trong kết quả chung. Các giao diện sẽ không được áp dụng."
+
+msgid ""
+"Define your templates here. If there are more than one, a random template "
+"will be\n"
+"                        selected."
+msgstr ""
+"Tạo ra các giao diện của bạn tại đây. Nếu bạn tạo nhiều giao diện, một giao "
+"diện ngẫu nhiên sẽ được chọn."
+
+msgid "Domain..."
+msgstr "Tên miền..."
+
+msgid "Append?"
+msgstr "Nối tiếp?"
+
+msgid "Taxonomy name..."
+msgstr "Taxonomy"
+
+msgid "Taxonomy value..."
+msgstr "Giá trị"
+
+msgid "Meta key"
+msgstr "Meta key"
+
+msgid "Multiple"
+msgstr "Nhiều"
+
+msgid ""
+"You can add calculation options for the current value. If the item is a "
+"number, the formula you enter\n"
+"        will be applied to the number. Write %1$s for the current value. For "
+"example, if the current value is %2$s and\n"
+"        you want to multiply it by %3$s, then you can write %4$s. You can "
+"use parenthesis to group the expressions. For\n"
+"        example, %5$s will result in %6$s. Please make sure your "
+"mathematical expressions work by using the test button\n"
+"        next to each option. Note that options created in the find-replace "
+"and general tabs will be applied first. If you enter more\n"
+"        than one formula, a random one will be used. Operators you can use: "
+"%7$s"
+msgstr ""
+"Bạn có thể thêm tùy chọn tính toán cho các giá trị hiện tại. Nếu bộ lọc lấy "
+"về giá trị là số, công thức bạn nhập sẽ được áp dụng cho số đó. Viết %1$s để "
+"thay cho cho giá trị hiện tại. Ví dụ: nếu giá trị hiện tại là %2$s và bạn "
+"muốn nhân nó với %3$s, bạn có thể viết %4$s. Bạn có thể sử dụng dấu ngoặc "
+"đơn để nhóm các công thức. Ví dụ: %5$s sẽ có kết quả là %6$s. Hãy đảm bảo "
+"các công thức toán học của bạn hoạt động bằng cách sử dụng nút Thử nghiệm "
+"bên cạnh mỗi tùy chọn. <b>Lưu ý:</b> các tùy chọn này sẽ được áp dụng sau "
+"khi tùy chọn <b>Tìm và thay thế</b> và <b>TAB Chung</b> được áp dụng. Nếu "
+"bạn khai báo nhiều công thức, một công thức ngẫu nhiên sẽ được sử dụng. Toán "
+"tử bạn có thể sử dụng: %7$s."
+
+msgid ""
+"In case of treating the item as JSON, do not use X in the formula. Use <b>"
+"[%1$s]</b> short code with a dot key to get the values from JSON."
+msgstr ""
+"Trong trường hợp kết quả được phân tích thành JSON, không sử dụng <b>X</b> "
+"trong công thức. Thay vào đó, hãy sử dụng shortcode <b>[%1$s]</b> với các "
+"dấu chấm để lấy giá trị từ JSON."
+
+msgid "Decimal separator for result"
+msgstr "Dấu phân cách thập phân cho kết quả"
+
+msgid ""
+"Define the decimal separator for the number that will be shown in your site."
+msgstr ""
+"Xác định dấu phân cách thập phân cho số sẽ được hiển thị trong trang web của "
+"bạn."
+
+msgid "Dot"
+msgstr "Dấu chấm"
+
+msgid "Comma"
+msgstr "Dấu phẩy"
+
+msgid "Use thousands separator in the result?"
+msgstr "Sử dụng dấu phân cách hàng nghìn trong kết quả?"
+
+msgid "Check this if you want to use thousands separator in the result."
+msgstr "Đánh dấu nếu bạn muốn sử dụng dấu phân cách hàng nghìn trong kết quả."
+
+msgid "Remove item if it is not numeric?"
+msgstr "Xóa kết quả nếu nó không phải là số?"
+
+msgid ""
+"Check this if you want to remove the item when its value is not numeric."
+msgstr "Đánh dấu nếu bạn muốn xóa kết quả khi giá trị của nó không phải là số."
+
+msgid "Precision"
+msgstr "Số chữ số phần thập phân"
+
+msgid "How many digits at max there can be after the decimal separator."
+msgstr "Giới hạn số lượng chữ số phần thập phân."
+
+msgid "Formulas"
+msgstr "Công thức"
+
+msgid ""
+"Enter the formulas. If you enter more than one, a random one will be used."
+msgstr ""
+"Nhập vào công thức. Nếu bạn khai báo nhiều công thức, một công thức ngẫu "
+"nhiên sẽ được sử dụng."
+
+msgid "Formula"
+msgstr "Công thức"
+
+msgid "Submit"
+msgstr "Gửi đi"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid ""
+"Find and replace in <b>each saved file's name</b>. These options will be "
+"applied after the file is saved\n"
+"    and before any changes are made to the current item."
+msgstr ""
+"Tìm và thay thế trong <b>mỗi tên tệp tin</b>. Tùy chọn này sẽ được áp dụng "
+"sau khi tệp tin được lưu và trước khi bất cứ thay đổi nào được áp dụng cho "
+"bộ lọc hiện tại."
+
+msgid "Click to go back"
+msgstr "Nhấp vào để quay lại"
+
+msgid "Click to go forward"
+msgstr "Nhấp vào để đi tiếp"
+
+msgid "Click to refresh"
+msgstr "Nhấp vào để làm mới"
+
+msgid "URL starting with http..."
+msgstr "URL bắt đầu bằng http..."
+
+msgid "Click to go to the URL"
+msgstr "Nhấp để đi đến URL"
+
+msgid "Click to open the sidebar"
+msgstr "Nhấp để mở thanh bên"
+
+msgid "Clear the highlights"
+msgstr "Xóa phần tử nổi bật"
+
+msgid "Show alternative selectors"
+msgstr "Hiển thị phần tử thay thế"
+
+msgid "Use the selector"
+msgstr "Sử dụng phần tử"
+
+msgid "CSS selector"
+msgstr "Phần tử"
+
+msgid "Test the selector"
+msgstr "Thử nghiệm phần tử"
+
+msgid "Remove the elements from current page"
+msgstr "Xóa phần tử khỏi trang hiện tại"
+
+msgid "Toggle hover select"
+msgstr "Hiệu ứng khi di chuột"
+
+msgid "Target HTML Tag"
+msgstr "Thẻ HTML mục tiêu"
+
+msgid "Test via"
+msgstr "Thử nghiệm qua"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Both"
+msgstr "Cả hai"
+
+msgid ""
+"When not checked, manipulation options defined in the settings will not be "
+"applied."
+msgstr ""
+"Khi không đánh dấu, các thao tác HTML đã cài đặt sẽ không được áp dụng."
+
+msgid "Apply manipulation options"
+msgstr "Áp dụng các thao tác HTML"
+
+msgid "Use immediately when clicked"
+msgstr "Sử dụng phần tử ngay khi nhấp"
+
+msgid "Remove scripts"
+msgstr "Xóa các JavaScript"
+
+msgid "Remove styles"
+msgstr "Xóa các CSS"
+
+msgid "History"
+msgstr "Lịch sử"
+
+msgid "Alternative Selectors"
+msgstr "Phần tử thay thế"
+
+msgid "All Used Selectors"
+msgstr "Phần tử đã sử dụng"
+
+msgid ""
+"If you change the values that you use in the CSS selector,\n"
+"        <b>the test results will be empty.</b>"
+msgstr ""
+"Nếu bạn thay đổi các giá trị mà bạn sử dụng trong bộ lọc CSS, <b>các kết quả "
+"thử nghiệm sẽ trống.</b>"
+
+msgid "Manipulate HTML"
+msgstr "Thao tác HTML"
+
+msgid "Test code for find-and-replaces in HTML"
+msgstr "Mã thử nghiệm cho tìm và thay thế"
+
+msgid ""
+"A piece of code to be used when testing find-and-replace settings below."
+msgstr ""
+"Một đoạn mã sẽ được sử dụng để thử nghiệm các cài đặt tìm và thay thế bên "
+"dưới."
+
+msgid "The code which will be used to test find-and-replace settings"
+msgstr "Mã sẽ được sử dụng để thử nghiệm các cài đặt tìm và thay thế"
+
+msgid "Find and replace in raw HTML"
+msgstr "Tìm và thay thế trong HTML nguyên bản"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>raw "
+"response content</b>,\n"
+"                this is the place. <b>The replacements will be applied after "
+"the content of the response is retrieved</b>.\n"
+"                The response content is the raw text data sent from the "
+"target web site. By using this setting, you can,\n"
+"                for example, <b>fix HTML errors</b> which might cause the "
+"plugin not to be able to parse HTML properly.\n"
+"                <b>Note that</b> the find-and-replace options here will be "
+"applied to raw HTML content before every test\n"
+"                that requires a request to be sent under this tab."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>dữ liệu HTML nguyên bản</b>, đây "
+"là nơi. <b>Việc thay thế sẽ được áp dụng sau khi dữ liệu HTML nguyên bản "
+"được lấy về</b>. Dữ liệu HTML nguyên bản chính là dữ liệu dưới dạng văn bản "
+"thô được lấy về từ trang web mục tiêu. Bằng cách sử dụng tính năng này, bạn "
+"có thể <b>sửa các lỗi HTML</b> có nguy cơ khiến công cụ không thể phân tích "
+"HTML chính xác. <b>Lưu ý:</b> Tìm và thay thế trong HTML nguyên bản sẽ được "
+"áp dụng trước tiên và có hiệu lực với mọi thử nghiệm trong TAB này."
+
+msgid "Find and replace in HTML at first load"
+msgstr "Tìm và thay thế HTML trong lần tải đầu tiên"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>HTML of\n"
+"                the post page at first load</b>, this is the place. <b>The "
+"replacements will be applied after\n"
+"                the HTML is retrieved and replacements defined in general "
+"settings page are applied</b>."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>HTML của trang bài viết trong lần "
+"tải đầu tiên</b>, đây là nơi. <b>Việc thay thế sẽ được áp dụng sau khi HTML "
+"được lấy về và các thay thế trong Cài đặt chung được áp dụng</b>."
+
+msgid "Find and replace in element attributes"
+msgstr "Tìm và thay thế trong thuộc tính của phần tử"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>"
+"attributes of\n"
+"                elements</b>, this is the place. <b>The replacements will be "
+"applied after\n"
+"                the replacements at first load are applied</b>."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>thuộc tính của phần tử</b>, đây là "
+"nơi. <b>Việc thay thế sẽ được áp dụng sau khi Tìm và thay thế HTML trong lần "
+"tải đầu tiên được áp dụng</b>."
+
+msgid "Exchange element attributes"
+msgstr "Trao đổi giá trị trong thuộc tính của phần tử"
+
+msgid ""
+"If you want to exchange <b>the values of two attributes of an element</b>,\n"
+"                this is the place. <b>If value of attribute 2 does not exist,"
+" the values will not be exchanged.</b>\n"
+"                <b>The replacements will be applied after the find-and-"
+"replaces for element attributes are applied.</b>\n"
+"                E.g. you can replace the values of %1$s and %2$s attributes "
+"to save lazy-loading images if the\n"
+"                target %3$s element has these attributes."
+msgstr ""
+"Nếu bạn muốn trao đổi <b>các giá trị trong hai thuộc tính của một phần tử</b>"
+", đây là nơi. <b>Nếu giá trị của thuộc tính thứ hai không tồn tại, các giá "
+"trị sẽ không được trao đổi</b>. Việc trao đổi sẽ được áp dụng sau khi <b>Tìm "
+"và thay thế trong thuộc tính của phần tử</b> được áp dụng. Ví dụ: bạn có thể "
+"trao đổi giá trị của hai thuộc tính %1$s và %2$s để lưu các hình ảnh sử dụng "
+"lazy-load nếu như phần tử %3$s chứa các thuộc tính này."
+
+msgid "Remove element attributes"
+msgstr "Xóa thuộc tính của phần tử"
+
+msgid ""
+"If you want to remove <b>attributes of an element</b>, this is the place. <b>"
+"The\n"
+"                removals will be applied after the attribute exchanges are "
+"applied</b>."
+msgstr ""
+"Nếu bạn muốn xóa <b>các thuộc tính của một phần tử</b>, đây là nơi. Việc xóa "
+"thuộc tính sẽ được áp dụng sau khi <b>Trao đổi giá trị trong thuộc tính của "
+"phần tử</b> được áp dụng."
+
+msgid "Find and replace in element HTML"
+msgstr "Tìm và thay thế trong HTML của phần tử"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>HTML of\n"
+"                elements</b>, this is the place. <b>The replacements will be "
+"applied after\n"
+"                the attribute removals are applied</b>."
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>HTML của phần tử</b>, đây là nơi. "
+"Việc thay thế sẽ được áp dụng sau khi <b>Xóa thuộc tính của phần tử</b> được "
+"áp dụng."
+
+msgid "Recrawled"
+msgstr "Thu thập lại"
+
+msgid "Update Count"
+msgstr "Tổng số"
+
+msgid "Edit"
+msgstr "Sửa"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "later"
+msgstr "sau"
+
+msgid "ago"
+msgstr "trước"
+
+msgid "Purchase Note Selectors"
+msgstr "Phần tử HTML của ghi chú thanh toán"
+
+msgid ""
+"CSS selectors for purchase notes. This gets text of the found element by "
+"default. When\n"
+"            there are multiple selectors, the first match will be used by "
+"default."
+msgstr ""
+"Xác định phần tử HTML của ghi chú thanh toán. Mặc định sẽ lấy văn bản thuần "
+"của phần tử được chọn. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên sẽ "
+"được sử dụng."
+
+msgid "Add all found purchase notes?"
+msgstr "Thêm tất cả ghi chú thanh toán được tìm thấy?"
+
+msgid ""
+"Check this if you want to add all purchase notes found by purchase note "
+"selectors. Otherwise,\n"
+"            when there are multiple selectors, only the first match will be "
+"used."
+msgstr ""
+"Đánh dấu nếu bạn muốn thêm tất cả ghi chú thanh toán được tìm thấy bởi bộ "
+"lọc Phần tử HTML của ghi chú thanh toán. Nếu không, khi bạn khai báo nhiều "
+"bộ lọc, chỉ phát hiện đầu tiên được sử dụng."
+
+msgid "Custom Purchase Note"
+msgstr "Ghi chú thanh toán tùy chỉnh"
+
+msgid ""
+"Enter custom purchase notes for the product. If you enter more than one, a "
+"random\n"
+"            purchase note will be selected when saving a product."
+msgstr ""
+"Nhập vào ghi chú thanh toán tùy chỉnh cho sản phẩm. Nếu bạn khai báo nhiều "
+"ghi chú thanh toán tùy chỉnh, một ghi chú ngẫu nhiên sẽ được chọn khi lưu "
+"sản phẩm."
+
+msgid "Custom purchase note..."
+msgstr "Ghi chú thanh toán tùy chỉnh..."
+
+msgid "Always add custom purchase note?"
+msgstr "Luôn thêm ghi chú thanh toán tùy chỉnh?"
+
+msgid ""
+"Check this if you want to add the custom purchase note always. If you do not "
+"check this,\n"
+"            custom purchase note will be added only if there is no purchase "
+"note found by selectors. If you check this,\n"
+"            the purchase note of the product will be created by using both "
+"the purchase notes found by selectors and the\n"
+"            custom purchase note. The purchase notes found by selectors will "
+"be added after the custom purchase note."
+msgstr ""
+"Đánh dấu nếu bạn luôn muốn thêm ghi chú thanh toán tùy chỉnh. Nếu bạn không "
+"đánh dấu, ghi chú thanh toán tùy chỉnh sẽ chỉ được thêm nếu không có ghi chú "
+"thanh toán nào được tìm thấy bởi bộ lọc CSS. Nếu bạn đánh dấu, ghi chú thanh "
+"toán của sản phẩm sẽ được tạo ra bằng cách sử dụng cả hai ghi chú thanh toán "
+"bởi bộ lọc CSS và ghi chú thanh toán tùy chỉnh. Ghi chú thanh toán được tìm "
+"thấy bởi bộ lọc CSS sẽ được thêm vào sau ghi chú thanh toán tùy chỉnh."
+
+msgid "Check this if you want to enable reviews for the product."
+msgstr "Đánh dấu nếu bạn muốn cho phép đánh giá trên sản phẩm."
+
+msgid "Enter the menu order for the product."
+msgstr "Tùy chỉnh vị trí đơn hàng cho sản phẩm."
+
+msgid "Attribute"
+msgstr "Thuộc tính"
+
+msgid "SKU Selectors"
+msgstr "Phần tử HTML của SKU"
+
+msgid "CSS selectors for SKU."
+msgstr "Xác định phần tử HTML của SKU."
+
+msgid "Select if you want to manage stock or not."
+msgstr "Lựa chọn nếu bạn muốn quản lý kho hàng hay không."
+
+msgid "Stock Quantity Selectors"
+msgstr "Phần tử HTML của số lượng trong kho"
+
+msgid "CSS selectors for stock quantity."
+msgstr "Xác định phần tử HTML của số lượng trong kho."
+
+msgid "Allow backorders?"
+msgstr "Cho phép đặt hàng trước?"
+
+msgid "Select if backorders are allowed or not."
+msgstr "Lựa chọn nếu đặt hàng trước được cho phép hay không."
+
+msgid "Low Stock Threshold"
+msgstr "Ngưỡng sắp hết hàng"
+
+msgid ""
+"When product stock reaches this amount you will be notified by email by "
+"WooCommerce."
+msgstr ""
+"Khi số lượng sản phẩm đạt đến con số này, bạn sẽ được thông báo qua email."
+
+msgid "Select stock status."
+msgstr "Lựa chọn trạng thái kho hàng."
+
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order."
+msgstr ""
+"Đánh dấu điều này chỉ cho phép một trong những mặt hàng này được mua trong "
+"một đơn hàng."
+
+msgid "Attribute Name Selectors"
+msgstr "Phần tử HTML chứa tên của thuộc tính"
+
+msgid "Selectors that find names of the attributes."
+msgstr "Xác định phần tử HTML chứa tên của các thuộc tính."
+
+msgid "Attribute Value Selectors"
+msgstr "Phần tử HTML chứa giá trị của thuộc tính"
+
+msgid ""
+"Selectors that find values of the attributes whose names are found by using "
+"attribute name\n"
+"            selectors."
+msgstr ""
+"Xác định phần tử HTML chứa giá trị của các thuộc tính đã được tìm thấy bằng "
+"bộ lọc Phần tử HTML chứa tên của thuộc tính."
+
+msgid "Attribute Value Separators"
+msgstr "Dấu phân cách giá trị của thuộc tính"
+
+msgid ""
+"Set separators for attribute values found by selectors. For example, if a "
+"attribute value\n"
+"            selector finds 'small, medium, large', when you add ',' as "
+"separator, there will be three values as\n"
+"            'small', 'medium', and 'large'. Otherwise, the attribute value "
+"will be 'small, medium, large'. If you add\n"
+"            more than one separator, all will be applied."
+msgstr ""
+"Cài đặt dấu phân cách cho các giá trị của thuộc tính được tìm thấy. Ví dụ: "
+"nếu một giá trị được tìm thấy là 'small, medium, large', khi bạn điền ',' là "
+"dấu phân cách, bạn sẽ có ba giá trị là 'small', 'medium' và 'large'. Nếu "
+"không, giá trị của thuộc tính sẽ là 'small, medium, large'. Nếu bạn khai báo "
+"nhiều dấu phân cách, tất cả chúng sẽ được áp dụng."
+
+msgid "Custom Attributes"
+msgstr "Thuộc tính tùy chỉnh"
+
+msgid ""
+"You can define your custom attributes here. When writing attribute value, "
+"you can enter more\n"
+"            than one value by separating them with commas. Custom attributes "
+"will be added to each product."
+msgstr ""
+"Bạn có thể xác định các thuộc tính tùy chỉnh ở đây. Khi viết giá trị của "
+"thuộc tính, bạn có thể nhập nhiều giá trị với phân cách bằng dấu phẩy. Thuộc "
+"tính tùy chỉnh sẽ được thêm vào mỗi sản phẩm."
+
+msgid "Attribute name..."
+msgstr "Tên thuộc tính"
+
+msgid "Comma-separated attribute values..."
+msgstr "Giá trị (phân cách bằng dấu phẩy)"
+
+msgid "See unmodified results"
+msgstr "Xem kết quả gốc"
+
+msgid "Used memory"
+msgstr "Bộ nhớ đã sử dụng"
+
+msgid "Elapsed time"
+msgstr "Thời gian trôi qua"
+
+msgid "Gallery Item"
+msgstr "Ảnh trong bộ sưu tập"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Caption"
+msgstr "Chú thích"
+
+msgid "Alternate text"
+msgstr "Văn bản thay thế"
+
+msgid "Copy file URLs"
+msgstr "URL tệp tin sao chép"
+
+msgid ""
+"Find and replace in each item. These options will be applied before any "
+"changes are made to the current item."
+msgstr ""
+"Tìm và thay thế trong mỗi kết quả. Các tùy chọn này sẽ được áp dụng trước "
+"khi bất cứ thay đổi nào được áp dụng cho kết quả hiện tại."
+
+msgid "Empty CSS selectors are found at following URL"
+msgstr "Bộ lọc CSS không có giá trị được tìm thấy tại URL"
+
+msgid "CSS selectors with empty values"
+msgstr "Bộ lọc CSS không có giá trị"
+
+msgid "Site name"
+msgstr "Chiến dịch"
+
+msgid "Site settings"
+msgstr "Cài đặt chiến dịch"
+
+msgid "Admin dashboard"
+msgstr "Bảng điều khiển"
+
+msgid "Hide"
+msgstr "Ẩn"
+
+msgid "Site Tester"
+msgstr "Thử nghiệm"
+
+msgid "Full URL or URL without domain"
+msgstr "URL đầy đủ hoặc URL không cần tên miền"
+
+msgid "Visual selector"
+msgstr "Soi phần tử"
+
+msgid "Find-Replace"
+msgstr "Tìm và thay thế"
+
+msgid "Calculations"
+msgstr "Tính toán"
+
+msgid "File Operations"
+msgstr "Thao tác tệp tin"
+
+msgid "Current test data"
+msgstr "Dữ liệu thử nghiệm hiện tại"
+
+msgid "Manual Crawling"
+msgstr "Thu thập thủ công"
+
+msgid "Manual Recrawling"
+msgstr "Thu thập lại thủ công"
+
+msgid "URLs"
+msgstr "URL"
+
+msgid ""
+"Make sure you entered full URLs. In other words, they should start with "
+"\"http\" or \"https\"."
+msgstr ""
+"Hãy đảm bảo rằng bạn đã nhập URL đầy đủ. Nói cách khác, nó phải bắt đầu bằng "
+"\"http\" hoặc \"https\"."
+
+msgid "Manually crawl posts by entering their URLs"
+msgstr "Thu thập thủ công các bài viết bằng cách nhập URL của chúng."
+
+msgid "Select the site for the post you want to save."
+msgstr "Lựa chọn chiến dịch mà bạn muốn sử dụng để lưu các bài viết."
+
+msgid "Select the category in which you want the post saved."
+msgstr "Lựa chọn chuyên mục mà bạn muốn các bài viết được lưu vào."
+
+msgid "Post URLs"
+msgstr "URL bài viết"
+
+msgid ""
+"Enter post URLs. You can add multiple post URLs by writing each of them\n"
+"                                        in a new line."
+msgstr ""
+"Nhập vào các URL bài viết. Bạn có thể thêm nhiều URL bài viết bằng cách viết "
+"mỗi URL trên một dòng mới."
+
+msgid "New line separated post URLs..."
+msgstr "Mỗi URL bài viết trên một dòng mới..."
+
+msgid "Post and Featured Image URLs"
+msgstr "URL bài viết và ảnh đại diện"
+
+msgid "Enter post URLs and, if exist, their featured image URLs."
+msgstr "Nhập vào các URL bài viết và URL ảnh đại diện của chúng nếu tồn tại."
+
+msgid "Retrieve post URLs from these category URLs"
+msgstr "Truy xuất URL bài viết từ các chuyên mục"
+
+msgid "Enter category URLs from which the post URLs should be retrieved."
+msgstr ""
+"Nhập vào URL chuyên mục mà bạn muốn truy xuất các URL bài viết trong đó."
+
+msgid "Category URL..."
+msgstr "URL chuyên mục"
+
+msgid "Pause after crawling this number of posts"
+msgstr "Số lượng bài viết để tạm dừng thu thập"
+
+msgid ""
+"How many posts at max you want to be crawled. The crawling will be paused\n"
+"                                    when the number of URLs that have been "
+"crawled reaches this number. This option is\n"
+"                                    valid only when crawling now. Entering 0 "
+"or leaving this empty means unlimited posts."
+msgstr ""
+"Tối đa bao nhiêu bài viết mà bạn muốn thu thập. Thu thập sẽ được tạm dừng "
+"khi số lượng URL được thu thập đạt đến con số này. Tùy chọn này chỉ hợp lệ "
+"khi bạn thu thập dữ liệu ngay bây giờ. Nhập vào 0 hoặc để trống sẽ không "
+"giới hạn số lượng bài viết được thu thập."
+
+msgid "Number of posts to be crawled before pausing..."
+msgstr "Số lượng bài viết được thu thập trước khi tạm dừng"
+
+msgid "Maximum parallel crawling count"
+msgstr "Số lần thu thập dữ liệu trong cùng một thời điểm"
+
+msgid ""
+"How many posts can be crawled at the same time? Increasing this number\n"
+"                                will put additional load onto your server. "
+"Default: %1$s"
+msgstr ""
+"Bao nhiêu bài viết có thể được thu thập trong cùng một thời điểm? Tăng chỉ "
+"số này sẽ ảnh hướng tới máy chủ của bạn. Mặc định: %1$s"
+
+msgid "Max parallel crawling count..."
+msgstr "Số lần thu thập dữ liệu trong cùng một thời điểm"
+
+msgid "Clear entered URLs after I click submit button"
+msgstr "Xóa URL đã nhập sau khi nhấp vào các nút"
+
+msgid ""
+"When you check this, the URLs you have entered into the inputs will be "
+"cleared after you\n"
+"                                    click one of the submit buttons."
+msgstr ""
+"Nếu bạn đánh dấu, các URL bạn đã nhập bên trên sẽ được xóa bỏ sau khi bạn "
+"nhấp vào một trong các nút \"Thu thập\" hoặc \"Thêm vào cơ sở dữ liệu\"."
+
+msgid "Crawl now"
+msgstr "Thu thập ngay"
+
+msgid ""
+"The URLs you entered will be crawled one by one, as soon as you click this. "
+"Your browser needs to stay open until all URLs are finished being crawled."
+msgstr ""
+"Các URL bạn đã nhập sẽ được thu thập từng cái một, ngay khi bạn nhấp vào đây."
+" Trình duyệt của bạn cần phải mở cho đến khi tất cả các URL đã hoàn thành "
+"thu thập."
+
+msgid "Add to the database"
+msgstr "Thêm vào cơ sở dữ liệu"
+
+msgid ""
+"The URLs you entered will be added to the database. They will be crawled "
+"using your scheduling settings."
+msgstr ""
+"Các URL bạn đã nhập sẽ được thêm vào cơ sở dữ liệu. Chúng sẽ được thu thập "
+"dữ liệu bằng cách sử dụng cài đặt thu thập của bạn."
+
+msgid "What's happening"
+msgstr "Chuyện gì đang xảy ra"
+
+msgid "CRON Events"
+msgstr "Tiến trình"
+
+msgid "Now: %1$s"
+msgstr "Bây giờ: %1$s"
+
+msgid "Next"
+msgstr "Tiếp theo"
+
+msgid "%s ago"
+msgstr "%s trước"
+
+msgid "URLs in Queue"
+msgstr "URL đang chờ"
+
+msgid "Saved Posts"
+msgstr "Bài viết đã lưu"
+
+msgid "Updated Posts"
+msgstr "Bài viết đã thu thập lại"
+
+msgid "Deleted Posts"
+msgstr "Bài viết đã xóa"
+
+msgid "URLs being crawled right now"
+msgstr "URL đang được thu thập"
+
+msgid "Created"
+msgstr "Đã tạo"
+
+msgid "Posts being saved right now"
+msgstr "Bài viết đang được lưu ngay bây giờ"
+
+msgid "Dismiss this notice."
+msgstr "Ẩn thông báo này."
+
+msgid "No featured image"
+msgstr "Không có ảnh đại diện"
+
+msgid "Gallery Images"
+msgstr "Bộ sưu tập hình ảnh"
+
+msgid "No gallery images"
+msgstr "Không có bộ sưu tập hình ảnh"
+
+msgid "Weight Selectors"
+msgstr "Phần tử HTML của trọng lượng"
+
+msgid "CSS selectors for weight."
+msgstr "Xác định phần tử HTML của trọng lượng."
+
+msgid "Length Selectors"
+msgstr "Phần tử HTML của chiều dài"
+
+msgid "CSS selectors for length."
+msgstr "Xác định phần tử HTML của chiều dài."
+
+msgid "Width Selectors"
+msgstr "Phần tử HTML của chiều rộng"
+
+msgid "CSS selectors for width."
+msgstr "Xác định phần tử HTML của chiều rộng."
+
+msgid "Height Selectors"
+msgstr "Phần tử HTML của chiều cao"
+
+msgid "CSS selectors for height."
+msgstr "Xác định phần tử HTML của chiều cao."
+
+msgid "Select the shipping class."
+msgstr "Lựa chọn lớp giao hàng."
+
+msgid "Settings updated."
+msgstr "Đã lưu các cài đặt."
+
+msgid "Multiple?"
+msgstr "Nhiều?"
+
+msgid "Post meta key"
+msgstr "Meta key"
+
+msgid "Meta value"
+msgstr "Giá trị"
+
+msgid ""
+"You can take notes about the options you configured, or anything. This tab "
+"is just for taking notes."
+msgstr ""
+"Bạn có thể ghi chú về các tùy chọn mà bạn đã cấu hình hoặc bất cứ điều gì. "
+"Tab này chỉ để ghi chú."
+
+msgid "Notes..."
+msgstr "Ghi chú..."
+
+msgid "Load languages"
+msgstr "Tải ngôn ngữ"
+
+msgid ""
+"General options. Before applying the options here, the options defined in "
+"the find-replace tab will be applied."
+msgstr ""
+"Tùy chọn chung. Các tùy chọn ở đây sẽ được áp dụng sau khi tùy chọn <b>Tìm "
+"và thay</b> thế được áp dụng."
+
+msgid "Treat as JSON?"
+msgstr "Phân tích như JSON?"
+
+msgid ""
+"If you check this, each item will be tried to be parsed to JSON. You can "
+"then\n"
+"                        use the values from the JSON using <b>[%1$s]</b> "
+"short code. When you check this, the item will be\n"
+"                        removed if it is not a valid JSON."
+msgstr ""
+"Nếu bạn đánh dấu, mỗi kết quả sẽ được phân tích thành JSON. Sau đó bạn có "
+"thể lấy giá trị từ JSON bằng cách sử dụng shortcode <b>[%1$s]</b>. Khi bạn "
+"đánh dấu, kết quả sẽ bị xóa nếu đó không phải là một JSON hợp lệ."
+
+msgid "Taxonomy..."
+msgstr "Taxonomy"
+
+msgid "Name/description..."
+msgstr "Tên/mô tả..."
+
+msgid "Clear URLs"
+msgstr "Xóa URL"
+
+msgid "Select the site whose URLs you want to be deleted from the database."
+msgstr "Lựa chọn chiến dịch chứa các URL mà bạn muốn xóa khỏi cơ sở dữ liệu."
+
+msgid "URL Type"
+msgstr "Loại URL"
+
+msgid ""
+"Select URL types to be cleared for the specified site. If you clear the "
+"URLs\n"
+"                                waiting in the queue, those URLs will not be "
+"saved, unless they are collected again. If you\n"
+"                                clear already-saved URLs, those URLs may end "
+"up in the queue again, and they may be saved\n"
+"                                as posts again. So, you may want to delete "
+"the posts as well, unless you want duplicate content."
+msgstr ""
+"Chọn loại URL sẽ bị xóa cho chiến dịch được chỉ định. Nếu bạn xóa các URL "
+"đang chờ trong hàng đợi, các URL đó sẽ không được lưu, trừ khi chúng được "
+"thu thập lại. Nếu bạn xóa các URL đã được lưu, các URL đó có thể lại xuất "
+"hiện trong hàng đợi và chúng có thể được lưu lại thành bài viết. Vì vậy, bạn "
+"cũng có thể muốn xóa các bài viết, trừ khi bạn muốn bài viết trùng lặp."
+
+msgid "I'm sure"
+msgstr "Tôi chắc chắn"
+
+msgid "Check this to indicate that you are sure about this."
+msgstr "Đánh dấu để xác nhận bạn đã chắc chắn về hành động này."
+
+msgid "Delete URLs"
+msgstr "Xóa URL"
+
+msgid "Unlock all URLs"
+msgstr "Mở khóa tất cả URL"
+
+msgid ""
+"The plugin locks the URLs which it is processing. This is to avoid "
+"processing\n"
+"                        already-being-processed URLs. But sometimes things "
+"go wrong either with your server or the target server\n"
+"                        and some URLs stay locked. You can see these URLs "
+"shown as \"currently being crawled/recrawled\" in\n"
+"                        dashboard. If you see some URLs are stuck there and "
+"you do not want to see them, you can use this tool\n"
+"                        to unlock all URLs."
+msgstr ""
+"Plugin khóa các URL mà nó đang xử lý. Điều này để tránh xử lý các URL đã "
+"được xử lý. Nhưng đôi khi có điều gì đó xảy ra với máy chủ của bạn hoặc máy "
+"chủ của trang mục tiêu và khiến một số URL bị khóa. Bạn có thể thấy những "
+"URL này được hiển thị là \"Đang thu thập/thu thập lại ngay bây giờ\" trong "
+"bảng điều khiển. Nếu bạn thấy một số URL bị kẹt ở đó và bạn không muốn nhìn "
+"thấy chúng, bạn có thể sử dụng công cụ này để mở khóa tất cả URL."
+
+msgid "Unlock All URLs"
+msgstr "Mở khóa tất cả URL"
+
+msgid "Auto refresh every %s seconds"
+msgstr "Tự động làm mới sau %s giây"
+
+msgid "At least %s seconds"
+msgstr "Tối thiểu %s giây"
+
+msgid "Next refresh in %s"
+msgstr "Làm mới sau %s giây"
+
+msgid "Last recrawled posts"
+msgstr "Bài viết được thu thập lại gần đây"
+
+msgid "URLs of the last deleted posts"
+msgstr "URL của bài viết được xóa gần đây"
+
+msgid "Last crawled posts"
+msgstr "Bài viết được thu thập gần đây"
+
+msgid "Last URLs added to the queue"
+msgstr "URL được thêm vào hàng đợi gần đây"
+
+msgid "Attribute 1"
+msgstr "Thuộc tính 1"
+
+msgid "Attribute 2"
+msgstr "Thuộc tính 2"
+
+msgid "No posts."
+msgstr "Không có bài viết nào."
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Load General Settings"
+msgstr "Tải cài đặt chung"
+
+msgid "Clear General Settings"
+msgstr "Xóa cài đặt chung"
+
+msgid ""
+"WordPress does not allow %2$s elements for security reasons. If you want to "
+"show %3$s in\n"
+"                the post template, you can check this. When you check this, "
+"the %2$s elements in the short code data\n"
+"                will be converted to %1$s short code that shows the %3$s in "
+"the front end. <b>Use this with\n"
+"                caution since unknown %3$s can cause security "
+"vulnerabilities.</b> The short code will output the\n"
+"                HTML element <b>only for the domains defined in the general "
+"settings</b>."
+msgstr ""
+"WordPress không cho phép phần tử %2$s vì lý do bảo mật. Vậy nên, nếu bạn "
+"muốn hiển thị các %3$s trong Giao diện chính của bài viết, hãy đánh dấu. Khi "
+"bạn đánh dấu, phần tử %2$s sẽ được chuyển đổi sang shortcode %1$s và hiển "
+"thị các %3$s trên trang web. <b>Hãy cẩn trọng với tùy chọn này vì %3$s có "
+"thể gây ra lỗ hổng bảo mật</b>. Shortcode sẽ chỉ xuất ra mã HTML với <b>các "
+"tên miền được xác định trong Cài đặt chung</b>."
+
+msgid "Template Settings"
+msgstr "Cài đặt giao diện"
+
+msgid "Set templates for the post, find and replace things..."
+msgstr ""
+"Cài đặt giao diện cho bài viết, tìm và thay thế mọi thứ trước khi xuất bản..."
+
+msgid "Main Post Template"
+msgstr "Giao diện chính của bài viết"
+
+msgid ""
+"Main template used for the posts. The buttons above the editor holds short "
+"codes which\n"
+"                            are used to place certain elements into the post "
+"page. You can hover over the buttons\n"
+"                            to see what they are used to show in post page, "
+"and <b>click them to copy the code</b>. After\n"
+"                            copying, just place the short codes into "
+"anywhere you want in the editor. <b>You must\n"
+"                            fill the template.<b>"
+msgstr ""
+"Giao diện chính được sử dụng cho các bài viết. Các nút phía trên trình soạn "
+"thảo chứa shortcode được sử dụng để đặt các giá trị nhất định vào bài viết. "
+"Bạn có thể di chuột qua các nút để xem chúng có ý nghĩa gì và <b>nhấp vào "
+"chúng để sao chép shortcode</b>. Sau khi sao chép, chỉ cần đặt shortcode vào "
+"bất cứ nơi nào bạn muốn trong trình soạn thảo. <b>Bạn phải điền vào giao "
+"diện<b>."
+
+msgid "Post Title Template"
+msgstr "Giao diện cho tiêu đề của bài viết"
+
+msgid ""
+"Template for post title. You can also use custom short codes. If you leave "
+"this empty,\n"
+"                        original post title found by CSS selectors will be "
+"used."
+msgstr ""
+"Giao diện cho tiêu đề của bài viết. Bạn cũng có thể sử dụng các shortcode "
+"tùy chỉnh. Nếu bạn để trống, tiêu đề bài viết gốc được tìm thấy bởi các bộ "
+"lọc CSS sẽ được sử dụng."
+
+msgid "Post Excerpt Template"
+msgstr "Giao diện cho mô tả ngắn của bài viết"
+
+msgid ""
+"Template for post excerpt. You can also use custom short codes. If you leave "
+"this empty,\n"
+"                        original post excerpt found by CSS selectors will be "
+"used."
+msgstr ""
+"Giao diện cho mô tả ngắn của bài viết. Bạn cũng có thể sử dụng các shortcode "
+"tùy chỉnh. Nếu bạn để trống, mô tả ngắn bài viết gốc được tìm thấy bởi các "
+"bộ lọc CSS sẽ được sử dụng."
+
+msgid "List Item Template"
+msgstr "Giao diện cho mỗi mục của danh sách"
+
+msgid ""
+"This template is used for the list. If you set the post list type and wrote "
+"some selectors\n"
+"                            for the list items, then the list items will be "
+"crawled. Here, you can set a template\n"
+"                            to be used for <b>each</b> list item. You can "
+"include the entire list in main post\n"
+"                            template. <b>You must fill the template if you "
+"expect a list from the target page.</b>"
+msgstr ""
+"Giao diện này được sử dụng cho tính năng Danh sách. Nếu bạn sử dụng tính "
+"năng này và tạo một số bộ lọc CSS cho các mục trong danh sách, sau đó các "
+"mục của danh sách sẽ được thu thập dữ liệu. Tại đây, bạn có thể cài đặt giao "
+"diện cho <b>mỗi</b> mục của danh sách. Bạn có thể đưa toàn bộ danh sách vào "
+"Giao diện chính của bài viết bằng shortcode <span class=\"highlight "
+"selector\">[kdn-main-list]</span>. <b>Bạn phải điền vào đây nếu bạn muốn có "
+"một danh sách từ trang mục tiêu</b>."
+
+msgid "Gallery Item Template"
+msgstr "Giao diện cho mỗi URL hình ảnh của bộ sưu tập"
+
+msgid ""
+"This template is used for the gallery. If you activated saving images as "
+"gallery\n"
+"                            and wrote some selectors for the image URLs, "
+"then the gallery items will be crawled.\n"
+"                            Here, you can set a template to be used for <b>"
+"each</b> gallery image. You can\n"
+"                            include the entire gallery in main post template."
+" <b>You must fill the template if\n"
+"                            you expect a gallery from the target page.</b>"
+msgstr ""
+"Giao diện này được sử dụng cho tính năng Bộ sưu tập ảnh. Nếu bạn đã kích "
+"hoạt Lưu hình ảnh thành bộ sưu tập và tạo một số bộ lọc CSS cho các URL hình "
+"ảnh, sau đó các hình ảnh trong bộ sưu tập sẽ được thu thập. Tại đây, bạn có "
+"thể cài đặt giao diện cho <b>mỗi</b> URL hình ảnh của bộ sưu tập. Bạn có thể "
+"đưa bộ sưu tập ảnh vào trong Giao diện chính của bài viết bằng shortcode "
+"<span class=\"highlight selector\">[kdn-main-gallery]</span>. <b>Bạn phải "
+"điền vào đây nếu bạn muốn có một bộ sưu tập ảnh từ trang mục tiêu</b>."
+
+msgid "Quick Fixes"
+msgstr "Sửa lỗi nhanh"
+
+msgid "Remove links from short codes?"
+msgstr "Xóa liên kết trong các shortcode?"
+
+msgid ""
+"If you want to remove links from all of the short code data, check this.\n"
+"                Checking this box is almost the same as adding <b>%1$s</b> "
+"regex for find and <b>%2$s</b> for\n"
+"                replace option for each find and replace option in this tab. "
+"This option will not touch custom\n"
+"                links inside the templates."
+msgstr ""
+"Nếu bạn muốn xóa liên kết khỏi tất cả shortcode, hãy đánh dấu. Tùy chọn này "
+"giống như việc viết biểu thức chính quy với Tìm kiếm là <b>%1$s</b> và Thay "
+"thế là <b>%2$s</b> để thay thế cho mỗi shortcode. Tùy chọn này sẽ không ảnh "
+"hưởng tới các liên kết khác bên trong giao diện."
+
+msgid "Convert iframe elements to short code"
+msgstr "Chuyển đổi iframe sang shortcode"
+
+msgid "iframe"
+msgstr "iframe"
+
+msgid "iframes"
+msgstr "iframes"
+
+msgid "Convert script elements to short code"
+msgstr "Chuyển đổi script sang shortcode"
+
+msgid "script"
+msgstr "script"
+
+msgid "scripts"
+msgstr "scripts"
+
+msgid "Template Unnecessary Element Selectors"
+msgstr "Phần tử không cần thiết trong giao diện"
+
+msgid ""
+"CSS selectors for unwanted elements in the template. Specified elements will "
+"be\n"
+"                    removed from the HTML of the template. The removal will "
+"be done after the shortcodes are replaced.\n"
+"                    Find-and-replaces will be done after the template is "
+"cleared from unnecessary elements. <b>This\n"
+"                    will use test post URL on Post tab to conduct the tests."
+"</b>"
+msgstr ""
+"Xác định phần tử HTML không cần thiết trong giao diện. Các phần tử đó sẽ "
+"được xóa khỏi HTML của giao diện. Việc xóa bỏ sẽ được thực hiện sau khi tất "
+"cả shortcode được thay thế. Tìm và thay thế sẽ được áp dụng sau khi Phần tử "
+"không cần thiết trong giao diện được áp dụng. <b>Tùy chọn này sẽ lấy URL bài "
+"viết thử nghiệm trong TAB Bài viết (tương ứng) để thử nghiệm</b>."
+
+msgid "Find and Replace Test Code"
+msgstr "Mã thử nghiệm cho tìm và thay thế"
+
+msgid "Find and replace in post's content"
+msgstr "Tìm và thay thế trong nội dung của bài viết"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>HTML of "
+"post's content</b>,\n"
+"                    this is the place. The replacement will be done after "
+"the final post template is ready. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>HTML của nội dung bài viết</b>, "
+"đây là nơi. Việc thay thế sẽ được thực hiện sau khi giao diện bài viết cuối "
+"cùng đã sẵn sàng. "
+
+msgid "Find and replace in custom short code contents"
+msgstr "Tìm và thay thế trong nội dung của các shortcode tùy chỉnh"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>each "
+"custom short\n"
+"                    code's content</b>, this is the place. The replacement "
+"will be done after the final post template\n"
+"                    is ready. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>nội dung của mỗi shortcode</b>, "
+"đây là nơi. Việc thay thế sẽ được thực hiện sau khi giao diện bài viết cuối "
+"cùng đã sẵn sàng. "
+
+msgid "Find and replace in post's title"
+msgstr "Tìm và thay thế trong tiêu đề của bài viết"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>post's "
+"title</b>,\n"
+"                    this is the place. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>tiêu đề của bài viết</b>, đây là "
+"nơi. "
+
+msgid "Find and replace in post's excerpt"
+msgstr "Tìm và thay thế trong mô tả ngắn của bài viết"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>post's "
+"excerpt</b>,\n"
+"                    this is the place. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong mô tả ngắn của bài viết, đây là nơi. "
+
+msgid "Find and replace in post's each tag"
+msgstr "Tìm và thay thế trong mỗi thẻ của bài viết"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>post's "
+"each tag</b>,\n"
+"                    this is the place. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>mỗi thẻ của bài viết</b>, đây là "
+"nơi. "
+
+msgid "Find and replace in meta keywords"
+msgstr "Tìm và thay thế trong meta keywords"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>post's "
+"meta keywords</b>,\n"
+"                    this is the place. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong meta keywords của bài viết, đây là "
+"nơi. "
+
+msgid "Find and replace in meta description"
+msgstr "Tìm và thay thế trong meta description"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>post's "
+"meta description</b>,\n"
+"                    this is the place. "
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>meta description của bài viết</b>, "
+"đây là nơi. "
+
+msgid "URLs for Manual Crawling"
+msgstr "URL thu thập thủ công"
+
+msgid "Pause crawling"
+msgstr "Tạm dừng thu thập"
+
+msgid "Continue crawling"
+msgstr "Tiếp tục thu thập"
+
+msgid "Do not close your browser while URLs are being crawled."
+msgstr "Không đóng trình duyệt trong khi các URL đang được thu thập."
+
+msgid "Show all results"
+msgstr "Xem tất cả kết quả"
+
+msgid "Hide all results"
+msgstr "Ẩn tất cả kết quả"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Image"
+msgstr "Hình ảnh"
+
+msgid "Post URL"
+msgstr "URL bài viết"
+
+msgid "Remove all"
+msgstr "Xóa tất cả"
+
+msgid "Retry/recrawl"
+msgstr "Thử lại/thu thập lại"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "No URLs waiting to be saved."
+msgstr "Không có URL nào đang chờ để thu thập."
+
+msgid "Import or export options box settings."
+msgstr "Nhập vào và xuất ra các cài đặt tùy chọn."
+
+msgid ""
+"Paste the settings exported from another options box to import. <b>Current "
+"settings\n"
+"                    will be overridden.</b>"
+msgstr ""
+"Nhập vào mã cài đặt được xuất ra từ các hộp tùy chọn khác. <b>Những cài đặt "
+"tùy chọn hiện tại sẽ bị ghi đè.</b>"
+
+msgid ""
+"Paste settings and click the import button. Note: This will override all "
+"settings."
+msgstr ""
+"Nhập vào mã cài đặt và nhấp vào nút Nhập vào. Lưu ý: điều này sẽ ghi đè tất "
+"cả cài đặt hiện tại."
+
+msgid "Import"
+msgstr "Nhập vào"
+
+msgid ""
+"You can copy the settings here and use the copied code to export settings "
+"to\n"
+"                    another options box."
+msgstr ""
+"Bạn có thể sao chép mã cài đặt ở đây và nhập vào các hộp tùy chọn khác."
+
+msgid ""
+"Define domains from which %2$s source can be retrieved. %1$s short code will "
+"only show %3$s whose\n"
+"                source URL is from one of these domains."
+msgstr ""
+"Xác định tên miền mà nguồn %2$s có thể được truy xuất. Shortcode %1$s sẽ chỉ "
+"hiển thị các %3$s có URL nguồn từ một trong những tên miền này."
+
+msgid "Post Settings"
+msgstr "Cài đặt bài viết"
+
+msgid "Set post settings"
+msgstr "Những cài đặt chung dành cho bài viết."
+
+msgid "Allow Comments"
+msgstr "Cho phép bình luận"
+
+msgid ""
+"If you want to allow comments for automatically inserted posts,\n"
+"                    check this."
+msgstr ""
+"Nếu bạn muốn cho phép bình luận ở các bài viết được tự động lưu, hãy đánh "
+"dấu."
+
+msgid "Post Status"
+msgstr "Trạng thái bài viết"
+
+msgid "Set the status of automatically inserted posts."
+msgstr "Cài đặt trạng thái cho các bài viết được lưu tự động."
+
+msgid "Post Type"
+msgstr "Loại bài viết"
+
+msgid "Set the type of automatically inserted posts."
+msgstr "Cài đặt loại cho các bài viết."
+
+msgid "Post Category Taxonomies"
+msgstr "Taxonomy chuyên mục của bài viết"
+
+msgid ""
+"Set custom post category taxonomies registered into your WordPress "
+"installation so that\n"
+"                you can set a custom post category in the site settings. For "
+"taxonomy field, write the name of the\n"
+"                taxonomy. The description you write in the description field "
+"will be shown when selecting a category."
+msgstr ""
+"Đặt taxonomy tùy chỉnh cho chuyên mục của bài viết. Các taxonomy này phải "
+"đang hoạt động trên website của bạn để bạn có thể cài đặt chuyên mục tùy "
+"chỉnh cho bài viết trong chiến dịch. Tại trường taxonomy, hãy viết tên của "
+"taxonomy. Mô tả mà bạn viết tại trường mô tả sẽ được hiển thị bên cạnh tên "
+"taxonomy khi bạn chọn một chuyên mục."
+
+msgid "Post Author"
+msgstr "Tác giả bài viết"
+
+msgid "Set the author of automatically inserted posts."
+msgstr "Cài đặt tác giả cho các bài viết được tự động lưu."
+
+msgid "Maximum number of tags"
+msgstr "Số thẻ tối đa cho bài viết"
+
+msgid ""
+"How many tags at maximum can be added to a post? Set this <b>0</b> if you do "
+"not\n"
+"                    want to set a limit and get all available tags. The "
+"default value is 0."
+msgstr ""
+"Tối đa bao nhiêu thẻ có thể được thêm vào một bài viết? Đặt là <b>0</b> nếu "
+"bạn không muốn giới hạn và lấy tất cả thẻ hợp lệ. Mặc định là 0."
+
+msgid "Change Password"
+msgstr "Đổi mật khẩu"
+
+msgid "If you want to change post password, check this."
+msgstr "Nếu bạn muốn thay đổi mật khẩu của bài viết, hãy đánh dấu."
+
+msgid "Post Password"
+msgstr "Mật khẩu bài viết"
+
+msgid ""
+"Set the password for automatically inserted posts. The value you\n"
+"                    enter here will be stored as raw text in the database, "
+"without encryption.\n"
+"                    If anyone accesses your database, he/she will be able to "
+"see your password.\n"
+"                    <br /><br />\n"
+"                    If you want to delete the password, just leave the new "
+"password fields empty.\n"
+"                    When you change the password, new password will be "
+"effective for new posts,\n"
+"                    and passwords for old posts will not be changed.\n"
+"                    <br /><br />\n"
+"                    <b>Leave old password field empty if you did not set any "
+"password before.</b>"
+msgstr ""
+"Cài đặt mật khẩu cho các bài viết được lưu tự động. Giá trị bạn nhập vào ở "
+"đây sẽ được lưu dưới dạng văn bản thô trong cơ sở dữ liệu, không được mã hóa."
+" Nếu một ai đó có thể truy cập vào cơ sở dữ liệu của bạn, họ có thể xem các "
+"mật khẩu của bạn.<br /><br />Nếu bạn muốn xóa mật khẩu, hãy để trống trường "
+"Mật khẩu mới. Khi bạn đổi mật khẩu, mật khẩu mới sẽ có hiệu lực cho các bài "
+"viết mới và mật khẩu của các bài viết cũ sẽ không bị thay đổi.<br /><br /><b>"
+"Để trống trường Mật khẩu cũ nếu bạn không cài đặt bất cứ mật khẩu nào trước "
+"đó</b>."
+
+msgid "Short Codes"
+msgstr "Shortcode"
+
+msgid "Allowed domains for iframe short code"
+msgstr "Tên miền được cho phép với shortcode iframe"
+
+msgid "Allowed domains for script short code"
+msgstr "Tên miền được cho phép với shortcode script"
+
+msgid ""
+"The folder paths will be considered as they are relative to uploads "
+"directory of WordPress. E.g. if you write\n"
+"        %1$s, it is considered as %2$s. You cannot define a folder outside "
+"of uploads directory of WordPress."
+msgstr ""
+"Các đường dẫn thư mục này sẽ được hiểu là thư mục con trong thư mục uploads "
+"mặc định của WordPress. Ví dụ: nếu bạn viết %1$s, nó sẽ được hiểu là %2$s. "
+"Bạn không thể chỉ định một thư mục nằm ngoài thư mục uploads của WordPress."
+
+msgid "Folder path relative to uploads directory of WordPress..."
+msgstr "Đường dẫn thư mục con trong thư mục uploads mặc định của WordPress..."
+
+msgid ""
+"Move and copy the files. Before applying the options in this tab, find-"
+"replace options will be applied."
+msgstr ""
+"Di chuyển và sao chép các tệp tin. Trước khi các tùy chọn trong TAB này được "
+"áp dụng, Tìm và thay thế sẽ được áp dụng trước."
+
+msgid "Move files to folder"
+msgstr "Di chuyển tệp tin đến thư mục"
+
+msgid ""
+"Define the folders in which the saved files should be stored. If you set "
+"more than\n"
+"            one path, a random one will be selected."
+msgstr ""
+"Xác định thư mục, nơi các tệp tin sẽ được lưu. Nếu bạn khai báo nhiều thư "
+"mục, một thư mục ngẫu nhiên sẽ được chọn."
+
+msgid "Copy files to folder"
+msgstr "Sao chép tệp tin đến thư mục"
+
+msgid ""
+"Define the folders to which the saved files should be copied. If you set "
+"more than\n"
+"            one path, the files will be copied to all."
+msgstr ""
+"Xác định thư mục, nơi các tệp tin sẽ được sao chép đến. Nếu bạn khai báo "
+"nhiều thư mục, một thư mục ngẫu nhiên sẽ được chọn."
+
+msgid "Taxonomy name"
+msgstr "Taxonomy"
+
+msgid "Please fix the errors."
+msgstr "Hãy sửa các lỗi."
+
+msgid "Advanced settings for crawler"
+msgstr "Cài đặt nâng cao cho trình thu thập."
+
+msgid "Always use UTF8 encoding?"
+msgstr "Luôn sử dụng mã hóa UTF8?"
+
+msgid "If you want to crawl all pages in UTF-8 encoding, check this."
+msgstr ""
+"Nếu bạn muốn thu thập dữ liệu tất cả các trang với mã hóa UTF-8, hãy đánh "
+"dấu."
+
+msgid "Convert encoding to UTF8 when it is not UTF8"
+msgstr "Mã hóa thành UTF8 khi nó không phải UTF8"
+
+msgid ""
+"If you want to convert the encoding of the HTML retrieved from target sites "
+"to UTF8 when\n"
+"            it has a different encoding, check this."
+msgstr ""
+"Nếu bạn muốn chuyển đổi mã hóa của HTML được truy xuất từ các trang mục tiêu "
+"sang UTF8 khi nó có mã hóa khác, hãy đánh dấu."
+
+msgid "HTTP User Agent"
+msgstr "HTTP User Agent"
+
+msgid ""
+"The user agent to be used when crawling, i.e.\n"
+"                <span class=\"highlight variable\">HTTP_USER_AGENT</span>. "
+"If you leave this empty, the default value\n"
+"                will be used. You can find user agent strings\n"
+"                <a target=\"_blank\" href=\"http://www.useragentstring."
+"com/pages/useragentstring.php\">here</a>."
+msgstr ""
+"User agent sẽ được sử dụng khi thu thập, nghĩa là <span class=\"highlight "
+"variable\">HTTP_USER_AGENT</span>. Nếu bạn để trống, giá trị mặc định sẽ "
+"được sử dụng. Bạn có thể tìm thấy các chuỗi user agent <a target=\"_blank\" "
+"href=\"http://www.useragentstring.com/pages/useragentstring.php\">tại đây</a>"
+"."
+
+msgid "HTTP Accept"
+msgstr "HTTP Accept"
+
+msgid ""
+"HTTP accept value to be used when crawling, i.e.\n"
+"                    <span class=\"highlight variable\">HTTP_ACCEPT</span>. "
+"If you leave this empty, the default value\n"
+"                    will be used."
+msgstr ""
+"Giá trị của HTTP accept sẽ được sử dụng khi thu thập, nghĩa là <span "
+"class=\"highlight variable\">HTTP_ACCEPT</span>. Nếu bạn để trống, giá trị "
+"mặc định sẽ được sử dụng."
+
+msgid "Allow cookies?"
+msgstr "Cho phép cookies?"
+
+msgid "If you want to allow cookies when crawling, check this."
+msgstr "Nếu bạn muốn cho phép cookies khi thu thập, hãy đánh dấu."
+
+msgid "Connection timeout (in seconds)"
+msgstr "Thời gian chờ kết nối (tính bằng giây)"
+
+msgid ""
+"Maximum number of seconds in which target server should response. Write 0 to "
+"disable.\n"
+"                        Default: 0"
+msgstr ""
+"Cài đặt số giây tối đa có thể chờ để nhận phản hồi từ trang mục tiêu. Điền 0 "
+"để vô hiệu hóa. Mặc định: 0."
+
+msgid "Use proxy?"
+msgstr "Sử dụng proxy?"
+
+msgid "If you want to use a proxy when crawling the target site, check this."
+msgstr "Nếu bạn muốn sử dụng proxy khi thu thập trang mục tiêu, hãy đánh dấu."
+
+msgid "URL for proxy testing"
+msgstr "URL cho thử nghiệm proxy"
+
+msgid "A URL to be used to perform the proxy test."
+msgstr "Một URL được sử dụng để thử nghiệm các proxy."
+
+msgid "Proxies"
+msgstr "Proxies"
+
+msgid ""
+"You can write your proxies here. Write every proxy in a new line. If you "
+"want to\n"
+"                        use a proxy specifically with a protocol, write the "
+"proxy with its protocol. E.g.\n"
+"                        <span class=\"highlight proxy\">https://192.168.16.1:"
+"10</span>, or\n"
+"                        <span class=\"highlight proxy\">http://192.168.16.1:"
+"10</span>. You can also provide proxies\n"
+"                        that contain a scheme, username and password. E.g.\n"
+"                        <span class=\"highlight proxy\">http://username:"
+"password@192.168.16.1:10</span>. If you do not\n"
+"                        specify the protocol, TCP will be used. SOCKS is not "
+"supported."
+msgstr ""
+"Bạn có thể viết các proxy ở đây. Viết mỗi proxy trên một dòng mới. Nếu bạn "
+"muốn sử dụng một proxy đặc biệt với một giao thức, viết các proxy với giao "
+"thức của nó. Ví dụ: <span class=\"highlight proxy\">https://192.168.16.1:"
+"10</span> hoặc <span class=\"highlight proxy\">http://192.168.16.1:10</span>."
+" Bạn cũng có thể khai báo các proxy có chứa một cấu trúc như tên người dùng "
+"và mật khẩu. Ví dụ: <span class=\"highlight proxy\">http://username:"
+"password@192.168.16.1:10</span>. Nếu bạn không chỉ định các giao thức, TCP "
+"sẽ được sử dụng, SOCKS không được hỗ trợ."
+
+msgid "New line-separated proxies..."
+msgstr "Mỗi proxy trên một dòng..."
+
+msgid "Proxy try limit"
+msgstr "Giới hạn thử proxy"
+
+msgid ""
+"Maximum number of proxies that can be tried for one request. Write 0 for no "
+"limitation.\n"
+"                        Default: 0"
+msgstr ""
+"Số lượng proxy tối đa có thể được thử cho một lần chạy. Điền 0 để không hạn "
+"chế. Mặc định: 0."
+
+msgid "Randomize proxies"
+msgstr "Ngẫu nhiên hóa proxies"
+
+msgid ""
+"When you check this, the proxies you entered will be randomized. This means, "
+"the order\n"
+"                    of the proxies will be changed every time before a new "
+"request is made. If you do not check this,\n"
+"                    the proxies will be tried in the order you entered them."
+msgstr ""
+"Khi đánh dấu, các proxy bạn nhập vào sẽ được sắp xếp ngẫu nhiên. Điều này có "
+"nghĩa là thứ tự của các proxy sẽ được thay đổi mỗi lần trước khi một truy "
+"vấn URL mới được tạo ra. Nếu bạn không đánh dấu, các proxy sẽ được sử dụng "
+"theo thứ tự bạn nhập chúng."
+
+msgid "Main Settings"
+msgstr "Cài đặt chung"
+
+msgid ""
+"Set main page URL, scheduling options, duplicate post checking, cookies..."
+msgstr ""
+"Khai báo URL chính của trang mục tiêu, tùy chọn trạng thái chiến dịch, kiểm "
+"tra trùng lặp và cookies."
+
+msgid "Site URL"
+msgstr "URL trang mục tiêu"
+
+msgid ""
+"Main URL of the site. E.g. <span class=\"highlight url\">https:"
+"//kdnautoleech.com</span>.\n"
+"                    You must fill this field."
+msgstr ""
+"URL chính của trang mục tiêu. Ví dụ: <span class=\"highlight url\">https:"
+"//kdnautoleech.com</span>. Bạn phải điền vào trường này."
+
+msgid "Active for scheduling?"
+msgstr "Thu thập?"
+
+msgid ""
+"If you want to activate this site for crawling, check this. If you do not "
+"check this,\n"
+"                    the site will not be crawled, no posts will be saved."
+msgstr ""
+"Nếu bạn muốn kích hoạt thu thập cho chiến dịch này, hãy đánh dấu. Nếu bạn "
+"không đánh dấu, chiến dịch sẽ không được thu thập và không có bài viết nào "
+"được lưu."
+
+msgid "Active for recrawling?"
+msgstr "Thu thập lại?"
+
+msgid ""
+"If you want to activate this site for post recrawling, check this. If you do "
+"not check this,\n"
+"                    the posts will not be recrawled."
+msgstr ""
+"Nếu bạn muốn kích hoạt thu thập lại cho chiến dịch này, hãy đánh dấu. Nếu "
+"bạn không đánh dấu, các bài viết sẽ không được thu thập lại."
+
+msgid "Active for post deleting?"
+msgstr "Xóa bài viết?"
+
+msgid ""
+"If you want to activate this site for post deleting, check this. If you do "
+"not check\n"
+"                    this, the posts will not be deleted."
+msgstr ""
+"Nếu bạn muốn kích hoạt xóa bài viết cho chiến dịch này, hãy đánh dấu. Nếu "
+"bạn không đánh dấu, các bài viết sẽ không được xóa."
+
+msgid "Active for post translation?"
+msgstr "Dịch bài viết?"
+
+msgid ""
+"If you want to activate this site for post translation, check this. If you "
+"do not check\n"
+"                    this, the posts will not be translated."
+msgstr ""
+"Nếu bạn muốn kích hoạt dịch bài viết cho chiến dịch này, hãy đánh dấu. Nếu "
+"bạn không đánh dấu, các bài viết sẽ không được dịch."
+
+msgid "Check duplicate posts via"
+msgstr "Kiểm tra trùng lặp bài viết"
+
+msgid "Check duplicate child posts via"
+msgstr "Kiểm tra trùng lặp bài viết con"
+
+msgid ""
+"Set how to decide whether a post is duplicate or not. Duplicate checking "
+"will be\n"
+"                    performed in this order: URL, title, content. If one of "
+"them is found, the post is considered as\n"
+"                    duplicate."
+msgstr ""
+"Quy định xem một bài viết có trùng lặp hay không. Kiểm tra trùng lặp sẽ được "
+"thực hiện theo thứ tự này: URL, tiêu đề, nội dung. Nếu phát hiện một trong "
+"các quy định đã đánh dấu, bài viết sẽ được coi là trùng lặp và không được "
+"lưu."
+
+msgid "Use custom general settings?"
+msgstr "Sử dụng cài đặt riêng?"
+
+msgid ""
+"If you want to specify different settings for this site (not use general "
+"settings),\n"
+"                    check this. When you check this, settings tabs will "
+"appear."
+msgstr ""
+"Nếu bạn muốn sử dụng Cài đặt riêng cho chiến dịch này (không sử dụng Cài đặt "
+"chung), hãy đánh dấu. Khi bạn đánh dấu, tab Cài đặt riêng sẽ xuất hiện."
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid ""
+"You can provide cookies that will be attached to every request. For example, "
+"you can\n"
+"                    provide a session cookie to crawl a site by a logged-in "
+"user."
+msgstr ""
+"Bạn có thể cung cấp các cookie cho chiến dịch này. Ví dụ: bạn có thể sử dụng "
+"cookie để thu thập từ những trang web cần đăng nhập."
+
+msgid "Cookie name"
+msgstr "Tên"
+
+msgid "Cookie content"
+msgstr "Giá trị"
+
+msgid "Settings Page"
+msgstr "Cài đặt mở rộng"
+
+msgid "Use cache for test URLs"
+msgstr "Sử dụng bộ nhớ đệm khi thử nghiệm"
+
+msgid ""
+"Check this if you want the plugin to cache the responses retrieved from the "
+"test URLs. By this\n"
+"            way, you can test faster and send less number of requests to the "
+"target site. Caching will only be done for\n"
+"            the tests done here in site settings."
+msgstr ""
+"Đánh dấu nếu bạn muốn lưu các dữ liệu khi thử nghiệm vào bộ nhớ đệm. Bằng "
+"cách này bạn có thể thử nghiệm nhanh hơn và không cần truy vấn nhiều lần tới "
+"trang mục tiêu. Bộ nhớ đệm sẽ chỉ được sử dụng khi thử nghiệm trong cấu hình "
+"chiến dịch."
+
+msgid "Fix tabs when page is scrolled down"
+msgstr "Cố định các TAB khi cuộn trang"
+
+msgid ""
+"Check this if you want to fix the tabs at the top of the page when the page "
+"is scrolled down."
+msgstr ""
+"Đánh dấu nếu bạn muốn cố định các TAB cấu hình chiến dịch khi cuộn trang."
+
+msgid "Fix content navigation when page is scrolled down"
+msgstr "Cố định điều hướng khi cuộn trang"
+
+msgid ""
+"Check this if you want to fix the content navigation at the top of the page "
+"when the page is\n"
+"            scrolled down."
+msgstr "Đánh dấu nếu bạn muốn cố định phần điều hướng khi cuộn trang."
+
+msgid "Comma-separated attributes"
+msgstr "Thuộc tính (phân cách bằng dấu phẩy)"
+
+msgid "Set meta keywords and description keys"
+msgstr "Cài đặt meta keywords và description keys"
+
+msgid "Meta Keywords Key"
+msgstr "Meta keywords key"
+
+msgid ""
+"Set the key under which the meta keywords are saved. This key depends\n"
+"                    on your SEO plugin. If you do not set a key, meta "
+"keywords will not be saved. If you use\n"
+"                    Yoast SEO, this key is <span class=\"highlight "
+"variable\">_yoast_wpseo_metakeys</span>"
+msgstr ""
+"Cài đặt key theo đó các meta keywords sẽ được lưu. Key này phụ thuộc vào "
+"plugin SEO của bạn. Nếu bạn không đặt key, meta keywords sẽ không được lưu. "
+"Nếu bạn dùng Yoast SEO, key này sẽ là <span class=\"highlight variable\">"
+"_yoast_wpseo_metakeys</span>"
+
+msgid "Meta Description Key"
+msgstr "Meta description key"
+
+msgid ""
+"Set the key under which the meta description is saved. This key depends\n"
+"                    on your SEO plugin. If you do not set a key, meta "
+"description will not be saved. If you use\n"
+"                    Yoast SEO, this key is <span class=\"highlight "
+"variable\">_yoast_wpseo_metadesc</span>"
+msgstr ""
+"Cài đặt key theo đó meta description sẽ được lưu. Key này phụ thuộc vào "
+"plugin SEO của bạn. Nếu bạn không đặt key, meta description sẽ không được "
+"lưu. Nếu bạn dùng Yoast SEO, key này sẽ là <span class=\"highlight "
+"variable\">_yoast_wpseo_metadesc</span>."
+
+msgid "Find and replace in all post pages"
+msgstr "Tìm và thay thế trong tất cả trang bài viết"
+
+msgid ""
+"If you want some things to be replaced with some other things in <b>HTML of\n"
+"                    the post page</b>, this is the place. The replacements "
+"will be done after the HTML of target page\n"
+"                    is loaded, and <i>before the replacements (for HTML of "
+"the page at first load) of the site\n"
+"                    being crawled is applied</i>. So, these are the\n"
+"                    first replacements that will be done before everything "
+"else. <b>These replacements will be\n"
+"                    applied to all of the active sites.</b>"
+msgstr ""
+"Nếu bạn muốn thay thế một số thứ trong <b>HTML của trang bài viết</b>, đây "
+"là nơi. Việc thay thế sẽ được thực hiện sau khi HTML của trang mục tiêu được "
+"tải và trước khi thay thế (trong lần tải đầu tiên) của chiến dịch được áp "
+"dụng. Vậy nên, đây là những những thay thế đầu tiên sẽ được thực hiện trước "
+"mọi thứ khác. <b>Những thay thế này sẽ áp dụng cho tất cả các chiến dịch "
+"đang hoạt động</b>."
+
+# ----------------------------------------------------
+# EXTENSIONS
+# ----------------------------------------------------
+msgid "Activate"
+msgstr "Kích hoạt"
+
+msgid "Activating, please wait..."
+msgstr "Đang kích hoạt, vui lòng chờ..."
+
+msgid "Please enter KEY to use full feature:"
+msgstr "Vui lòng nhập KEY để sử dụng đầy đủ tính năng:"
+
+msgid "Example"
+msgstr "Ví dụ"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "LAST:"
+msgstr "CUỐI:"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Undefined"
+msgstr "Không xác định"
+
+msgid "Manage"
+msgstr "Quản lý"
+
+msgid "Last URL:"
+msgstr "URL cuối:"
+
+msgid "Saved:"
+msgstr "Đã lưu:"
+
+msgid "Post:"
+msgstr "Bài viết:"
+
+msgid "Last post:"
+msgstr "Bài viết cuối:"
+
+msgid "Category:"
+msgstr "Chuyên mục:"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid " items"
+msgstr " mục"
+
+msgid "Current page"
+msgstr "Trang hiện tại"
+
+msgid "of"
+msgstr "của"
+
+msgid "Next page"
+msgstr "Trang tiếp theo"
+
+msgid "Last page"
+msgstr "Trang cuối"
+
+msgid "First page"
+msgstr "Trang đầu tiên"
+
+msgid "Previous page"
+msgstr "Trang trước"
+
+msgid "Columns"
+msgstr "Cột"
+
+msgid "Number of items per page:"
+msgstr "Số đối tượng trên một trang:"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgid "Screen Options"
+msgstr "Tùy chọn hiển thị"
+
+msgid "Search by URL or ID"
+msgstr "Tìm theo URL hoặc ID"
+
+msgid "Search"
+msgstr "Tìm"
+
+msgid "Search:"
+msgstr "Tìm:"
+
+msgid "Bulk Actions"
+msgstr "Tác vụ"
+
+msgid "Restore"
+msgstr "Khôi phục"
+
+msgid "Delete temporarily"
+msgstr "Xóa tạm"
+
+msgid "Delete permanently"
+msgstr "Xóa vĩnh viễn"
+
+msgid "Filter by create date"
+msgstr "Lọc theo ngày khởi tạo"
+
+msgid "All dates"
+msgstr "Tất cả các ngày"
+
+msgid "Filter"
+msgstr "Lọc"
+
+msgid "Show more details"
+msgstr "Hiển thị chi tiết"
+
+msgid "Saved but without ID of post"
+msgstr "Đã lưu nhưng không có ID bài viết"
+
+msgid "Select bulk action"
+msgstr "Lựa chọn thao tác hàng loạt"
+
+msgid "Direct files"
+msgstr "Tệp trực tiếp"
+
+msgid "Direct file"
+msgstr "Tệp trực tiếp"
+
+msgid "Child post"
+msgstr "Bài viết con"
+
+msgid "Active for child post?"
+msgstr "Kích hoạt bài viết con?"
+
+msgid "Default Featured Image ID by keywords in post title"
+msgstr "ID ảnh đại diện mặc định theo từ khóa trong tiêu đề bài viết"
+
+msgid "Keywords (Separate by vertical lines)"
+msgstr "Từ khóa (phân cách bằng dấu sổ dọc)"
+
+msgid "Media IDs (Separate by commas)"
+msgstr "ID (phân cách bằng dấu phẩy)"
+
+msgid ""
+"Set the featured image by Media ID if matched a keyword in post title. "
+"Separate the keywords by vertical lines. If you want to randomize images, "
+"separate the Media IDs by commas. Note that you must upload images to <b>"
+"Media</b> without any uppercase characters in the file name. If you give "
+"more than one case, the first match will be used."
+msgstr ""
+"Cài đặt ảnh đại diện bằng ID của tệp tin đa phương tiện nếu khớp với một từ "
+"khóa trong tiêu đề bài viết. Phân cách các từ khóa bằng dấu sổ dọc. Nếu bạn "
+"muốn ngẫu nhiên hóa các hình ảnh, phân cách các ID tệp tin đa phương tiện "
+"bằng dấu phẩy. <b>Lưu ý:</b> bạn phải tải các hình ảnh lên <b>Thư viện</b> "
+"và không chứa ký tự in hoa trong tên của tệp tin. Nếu bạn khai báo nhiều "
+"trường hợp, phát hiện đầu tiên sẽ được sử dụng."
+
+msgid "Default Featured Image ID"
+msgstr "ID ảnh đại diện mặc định"
+
+msgid ""
+"Set the featured image by Media ID. If you want to randomize images, "
+"separate the Media IDs by commas. Note that you must upload images to <b>"
+"Media</b> without any uppercase characters in the file name."
+msgstr ""
+"Cài đặt ảnh đại diện bằng ID của tệp tin đa phương tiện. Nếu bạn muốn ngẫu "
+"nhiên hóa các hình ảnh, phân cách các ID tệp tin đa phương tiện bằng dấu "
+"phẩy. <b>Lưu ý:</b> bạn phải tải các hình ảnh lên <b>Thư viện</b> và không "
+"chứa ký tự in hoa trong tên của tệp tin."
+
+msgid "Save direct files?"
+msgstr "Lưu tệp trực tiếp?"
+
+msgid "If you want to save the direct files from post page, check this."
+msgstr "Nếu bạn muốn lưu các tệp trực tiếp từ trang bài viết, hãy đánh dấu."
+
+msgid "Direct File URL Selectors"
+msgstr "Phần tử HTML của URL tệp trực tiếp"
+
+msgid ""
+"CSS selectors for direct file URLs in the post page. By default will use the "
+"\"src\" attribute of specified element. You can write \"href\", \"text\" or "
+"an attribute of the target element for attribute input. If you give more "
+"than one selector, each match will be used when saving direct files."
+msgstr ""
+"Xác định phần tử HTML của các URL tệp trực tiếp trong trang bài viết. Mặc "
+"định sẽ lấy thuộc tính <b>\"src\"</b> của phẩn tử được chọn. Bạn có thể viết "
+"<b>\"href\"</b>, <b>\"text\"</b> hoặc bất cứ thuộc tính nào khác vào trường "
+"<b>Thuộc tính</b>. Nếu bạn khai báo nhiều bộ lọc, mỗi phát hiện sẽ được sử "
+"dụng để lưu tệp trực tiếp."
+
+msgid ""
+"If you want to save all pages from second page of the target post as child "
+"posts, check this. The all child posts will have <b>post_parent</b> is the "
+"ID of parent post. The parent post is the first page of target post."
+msgstr ""
+"Nếu bạn muốn lưu tất cả các trang tiếp theo từ trang thứ hai của bài viết "
+"mục tiêu thành bài viết con, hãy đánh dấu. Tất cả bài viết con sẽ có <b>"
+"post_parent</b> là ID của bài viết cha. Bài viết cha chính là trang đầu tiên "
+"của bài viết mục tiêu."
+
+msgid "Set post type for posts."
+msgstr "Cài đặt loại cho các bài viết con."
+
+msgid "Child post templates"
+msgstr "Giao diện bài viết con"
+
+msgid "Post templates"
+msgstr "Giao diện bài viết"
+
+msgid "Comma-separated IDs"
+msgstr "ID (phân cách bằng dấu phẩy)"
+
+msgid "Direct File Item Template"
+msgstr "Giao diện cho mỗi URL tệp trực tiếp"
+
+msgid ""
+"This template is used for the direct files. If you activated saving direct "
+"files and wrote some selectors for the direct file URLs, then the direct "
+"file items will be crawled. Here, you can set a template to be used for <b>"
+"each</b> direct file. You can include the entire direct files in main post "
+"template. <b>You must fill the template if you expect a direct file from the "
+"target page.</b>"
+msgstr ""
+"Giao diện này được sử dụng cho tính năng Tệp trực tiếp. Nếu bạn đã kích hoạt "
+"Lưu tệp trực tiếp và tạo một số bộ lọc CSS cho các URL tệp trực tiếp, sau đó "
+"các tệp trực tiếp sẽ được thu thập. Tại đây, bạn có thể cài đặt giao diện "
+"cho <b>mỗi</b> URL tệp trực tiếp. Bạn có thể đưa toàn bộ tệp trực tiếp vào "
+"trong Giao diện chính của bài viết bằng shortcode <span class=\"highlight "
+"selector\">[kdn-main-direct-file]</span>. <b>Bạn phải điền vào đây nếu bạn "
+"muốn có các tệp trực tiếp từ trang mục tiêu</b>."
+
+msgid "Callback"
+msgstr "Callback"
+
+msgid "(as callback)"
+msgstr "(Callback)"
+
+msgid "Recrawling from the last page?"
+msgstr "Thu thập lại từ trang cuối?"
+
+msgid ""
+"If you want to activate recrawling from the last page for each post, check "
+"this."
+msgstr ""
+"Nếu bạn muốn kích hoạt thu thập lại từ trang cuối cho mỗi bài viết, hãy đánh "
+"dấu."
+
+msgid "Active for post ajax?"
+msgstr "Kích hoạt ajax bài viết?"
+
+msgid "Check this if you want to crawl data from ajax URLs in post page."
+msgstr ""
+"Đánh dấu nếu bạn muốn thu thập nội dung từ các Ajax URL trong trang bài viết."
+
+msgid "Ajax URL Selectors"
+msgstr "Phần tử HTML chứa Ajax URL"
+
+msgid "Test Ajax URL"
+msgstr "Ajax URL thử nghiệm"
+
+msgid ""
+"CSS selectors for ajax URLs. By default, this gets \"href\" of the specified "
+"elements. You can also use any attribute of the elements. If you give more "
+"than one selector, the first match of each selector will be used."
+msgstr ""
+"Xác định phần tử HTML của Ajax URL. Mặc định sẽ lấy thuộc tính <b>"
+"\"href\"</b> của phần tử được chọn. Bạn cũng có thể sử dụng bất cứ thuộc "
+"tính nào khác của phần tử. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên "
+"của mỗi bộ lọc sẽ được sử dụng."
+
+msgid ""
+"A full ajax URL to be used to perform the tests for ajax page CSS selectors."
+msgstr ""
+"Ajax URL đầy đủ được sử dụng để thử nghiệm các bộ lọc CSS cho trang ajax."
+
+msgid ""
+"CSS selectors for unwanted elements in the ajax page. Specified elements "
+"will be removed from the HTML of the page. Content extraction will be done "
+"after the page is cleared from unnecessary elements."
+msgstr ""
+"Xác định phần tử HTML không cần thiết. Các phần tử đó sẽ được xóa khỏi HTML "
+"của trang ajax. Nội dung sẽ được xuất ra sau khi các phần tử không cần thiết "
+"được xóa."
+
+msgid "Custom Ajax URL"
+msgstr "Ajax URL tùy chỉnh"
+
+msgid ""
+"Write the full custom Ajax URLs. These are will be crawled after the Ajax "
+"URLs found by selectors are crawled."
+msgstr ""
+"Viết các Ajax URL tùy chỉnh đầy đủ. Chúng sẽ được sử dụng để thu thập dữ "
+"liệu sau khi các Ajax URL tìm thấy bởi các bộ lọc được thu thập."
+
+msgid "Post Format"
+msgstr "Định dạng bài viết"
+
+msgid "Set post format for the posts."
+msgstr "Cài đặt định dạng cho các bài viết."
+
+msgid "Set the first image in post content as featured image?"
+msgstr "Đặt ảnh đầu tiên trong nội dung bài viết làm ảnh đại diện?"
+
+msgid ""
+"If you want to set the first image in post content as featured image, check "
+"this."
+msgstr ""
+"Nếu bạn muốn đặt ảnh đầu tiên trong nội dung bài viết làm ảnh đại diện, hãy "
+"đánh dấu."
+
+msgid "Stop crawling"
+msgstr "Ngừng thu thập"
+
+msgid "Stop crawling do not save post?"
+msgstr "Ngừng thu thập không lưu bài viết?"
+
+msgid "Check this if you don't want to save the post when stop crawling."
+msgstr "Đánh dấu nếu bạn không muốn lưu bài viết khi ngừng thu thập."
+
+msgid "Stop crawling for first page (only first run)"
+msgstr "Ngừng thu thập cho trang đầu tiên (chỉ lần chạy đầu tiên)"
+
+msgid ""
+"If you activated <b>Recrawling from the last page</b>, this feature will be "
+"applied but only in first run. The <b>Matches</b> data will be merged with "
+"<b>Stop crawling in all run</b>. Note that, if the Last URL and First URL of "
+"the post are same, this feature will be not applied."
+msgstr ""
+"Nếu bạn đã kích hoạt <b>Thu thập lại từ trang cuối</b>, tính năng này sẽ "
+"được áp dụng nhưng chỉ trong lần chạy đầu tiên. Các dữ liệu <b>Khớp</b> sẽ "
+"được hợp nhất với <b>Ngừng thu thập trong tất cả lần chạy</b>. Lưu ý rằng, "
+"nếu URL cuối và URL đầu tiên của bài viết là giống nhau, tính năng này sẽ "
+"không được áp dụng."
+
+msgid "Stop crawling in all run"
+msgstr "Ngừng thu thập trong tất cả lần chạy"
+
+msgid ""
+"CSS selectors for stop crawling in all run. If the post is paginated, the <b>"
+"Matches</b> data will be combined together through each page and save to "
+"database."
+msgstr ""
+"Xác định phần tử HTML cho ngừng thu thập trong tất cả lần chạy. Nếu bài viết "
+"được phân trang, các dữ liệu <b>Khớp</b> sẽ được kết hợp với nhau qua từng "
+"trang và lưu vào cơ sở dữ liệu."
+
+msgid "Merge the stop crawling?"
+msgstr "Kết hợp ngừng thu thập?"
+
+msgid ""
+"Merge the rules of stop crawling in all run and in each run. That means only "
+"when two features all have <b>Matches</b> data then the post URL will be "
+"removed."
+msgstr ""
+"Kết hợp các quy tắc của ngừng thu thập trong tất cả lần chạy và trong mỗi "
+"lần chạy. Điều đó có nghĩa rằng chỉ khi hai tính năng đều có dữ liệu <b>"
+"Khớp</b> thì URL bài viết mới được xóa."
+
+msgid "Stop crawling in each run"
+msgstr "Ngừng thu thập trong mỗi lần chạy"
+
+msgid ""
+"CSS selectors for stop crawling in each run. If the post is paginated, the "
+"<b>Matches</b> data will be changed through each page."
+msgstr ""
+"Xác định phần tử HTML cho ngừng thu thập trong mỗi lần chạy. Nếu bài viết "
+"được phân trang, các dữ liệu <b>Khớp</b> sẽ được thay đổi qua từng trang."
+
+msgid "Stop crawling when go to the last page?"
+msgstr "Ngừng thu thập khi tới trang cuối?"
+
+msgid ""
+"Check this if you want to stop crawling when go to the last page. If stop "
+"crawling in all run or in each run has <b>Matches</b> data and the crawler "
+"go to the last page then the post URL will be removed. This feature will be "
+"applied after all <b>Stop crawling rules</b> are applied."
+msgstr ""
+"Đánh dấu nếu bạn muốn ngừng thu thập khi tới trang cuối. Nếu ngừng thu thập "
+"trong tất cả lần chạy hoặc trong mỗi lần chạy có dữ liệu <b>Khớp</b> và "
+"trình thu thập đi đến trang cuối cùng thì URL bài viết sẽ được xóa. Tính "
+"năng này sẽ được áp dụng sau khi tất cả quy tắc <b>Ngừng thu thập</b> được "
+"áp dụng."
+
+msgid "Matches"
+msgstr "Khớp"
+
+msgid "Custom HEADERs"
+msgstr "HEADERs tùy chỉnh"
+
+msgid ""
+"Customize the HEADERs which are transmitted in each URL query request by "
+"writing plain text for HEADER and Value."
+msgstr ""
+"Tùy chỉnh HEADERs được truyền đi trong mỗi lần truy vấn URL bằng cách viết "
+"văn bản thuần của HEADER và Giá trị."
+
+msgid "Custom HEADERs Selectors"
+msgstr "Phần tử HTML của HEADERs tùy chỉnh"
+
+msgid ""
+"CSS selectors for custom HEADERs. By default, this gets \"text\" of the "
+"specified elements. You can also use any attribute of the elements. If you "
+"give more than one selector, the first match of each selector will be used."
+msgstr ""
+"Xác định phần tử HTML cho HEADERs tùy chỉnh. Mặc định sẽ lấy văn bản thuần "
+"\"text\" của phần tử được chọn. Bạn cũng có thể sử dụng bất cứ thuộc tính "
+"nào khác của phần tử. Nếu bạn khai báo nhiều bộ lọc, phát hiện đầu tiên của "
+"mỗi bộ lọc sẽ được sử dụng."
+
+msgid "Custom HEADERs?"
+msgstr "HEADERs tùy chỉnh?"
+
+msgid ""
+"If you want to customize the HEADERs which are transmitted in each URL query "
+"request, check this."
+msgstr ""
+"Nếu bạn muốn tùy chỉnh HEADERs được truyền đi trong mỗi lần truy vấn URL, "
+"hãy đánh dấu."
+
+msgid "Recrawling:"
+msgstr "Đang thu thập lại:"
+
+msgid "Run count:"
+msgstr "Số lần chạy:"
+
+msgid "Total:"
+msgstr "Tổng số:"
+
+msgid "Search results for \"%1$s\""
+msgstr "Kết quả tìm kiếm cho \"%1$s\""
+
+msgid ""
+"<strong>A great tool to help you auto crawl content from any website in any "
+"field. Requires PHP version 7.2 or higher!</strong>"
+msgstr ""
+"<strong>Một công cụ tuyệt vời giúp bạn tự động thu thập nội dung từ bất cứ "
+"trang web nào trong bất kỳ lĩnh vực nào. Yêu cầu phiên bản PHP 7.2 trở lên!"
+"</strong>"
+
+msgid "Documentation"
+msgstr "Tài liệu"
+
+msgid "Activated"
+msgstr "Đã kích hoạt"
+
+msgid "Not activated"
+msgstr "Chưa kích hoạt"
+
+msgid "KDN Team"
+msgstr "KDN Team"
+
+msgid "kdnautoleech.com"
+msgstr "kdnautoleech.com"
+
+msgid "https://kdnautoleech.com"
+msgstr "https://kdnautoleech.com"
+
+msgid "https://facebook.com/kdnautoleech"
+msgstr "https://facebook.com/kdnautoleech"
+
+msgid "Updated!"
+msgstr "Đã cập nhật!"
+
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Xin lỗi, bạn không được phép truy cập vào trang này."
+
+msgid "JSON Parse?"
+msgstr "Phân tích JSON?"
+
+msgid "JSON Parse"
+msgstr "Phân tích JSON"
+
+msgid "Add categories from parent post?"
+msgstr "Thêm chuyên mục từ bài viết cha?"
+
+msgid ""
+"Check this if you want to add categories from parent post. Note that "
+"categories will be appended to the categories found by CSS selectors."
+msgstr ""
+"Đánh dấu nếu bạn muốn thêm các chuyên mục từ bài viết cha. Lưu ý rằng những "
+"chuyên mục này sẽ được nối tiếp vào các chuyên mục được tìm thấy bởi bộ lọc "
+"CSS."
+
+msgid "Add taxonomies from parent post?"
+msgstr "Thêm taxonomy từ bài viết cha?"
+
+msgid ""
+"Check this if you want to add taxonomies from parent post. Note that "
+"taxonomies will be appended to the taxonomies found by CSS selectors and "
+"custom taxonomies."
+msgstr ""
+"Đánh dấu nếu bạn muốn thêm các taxonomy từ bài viết cha. Lưu ý rằng những "
+"taxonomy này sẽ được nối tiếp vào các taxonomy được tìm thấy bởi bộ lọc CSS "
+"và taxonomy tùy chỉnh."
+
+msgid "Add post meta from parent post?"
+msgstr "Thêm meta từ bài viết cha?"
+
+msgid ""
+"Check this if you want to add post meta from parent post. Note that post "
+"meta will be appended to the post meta found by CSS selectors and custom "
+"post meta."
+msgstr ""
+"Đánh dấu nếu bạn muốn thêm các meta từ bài viết cha. Lưu ý rằng những meta "
+"này sẽ được nối tiếp vào các meta tìm thấy bởi bộ lọc CSS và meta tùy chỉnh."
+
+msgid "Product URL Selectors"
+msgstr "Phần tử HTML của URL sản phẩm"
+
+msgid "CSS selectors for product URL."
+msgstr "Xác định phần tử HTML của URL sản phẩm."
+
+msgid "Site:"
+msgstr "Chiến dịch:"
+
+msgid "Bypass delete"
+msgstr "Không tự động xóa"
+
+msgid "Bypass delete:"
+msgstr "Không tự động xóa:"
+
+msgid "Do not bypass delete"
+msgstr "Cho phép tự động xóa"
+
+msgid "Method"
+msgstr "Phương thức"
+
+msgid "Started parameter"
+msgstr "Tham số bắt đầu"
+
+msgid ""
+"You can customize the method to request the target URL by writing rules to "
+"the <b>Matches</b> field and the method into the <b>Method</b> field. If the "
+"target URL that match (or negate match) these rules, the correspond request "
+"method will be applied. If you want to parse parameters of target URL as "
+"array, write the started parameter into to <b>Started parameter</b> field. "
+"If you give more than one rule, the first match will be used."
+msgstr ""
+"Bạn có thể tùy chỉnh phương thức truy vấn tới URL mục tiêu bằng cách viết "
+"các quy tắc vào trường <b>Khớp</b> và phương thức vào trường <b>Phương "
+"thức</b>. Nếu URL mục tiêu khớp (hoặc phủ định khớp) với một trong các quy "
+"tắc này, phương thức tương ứng sẽ được áp dụng. Nếu bạn muốn phân tích các "
+"tham số của URL mục tiêu dưới dạng mảng, hãy viết tham số bắt đầu vào trường "
+"<b>Tham số bắt đầu</b>. Nếu bạn khai báo nhiều quy tắc, phát hiện đầu tiên "
+"sẽ được sử dụng."
+
+msgid "Request method"
+msgstr "Phương thức truy vấn"
+
+msgid "JS Cron Interval"
+msgstr "Khoảng thời gian cho JS Cron"
+
+msgid ""
+"Set interval for JS Cron (in seconds). Set 0 if you do not want to use JS "
+"Cron."
+msgstr ""
+"Cài đặt khoảng thời gian cho JS Cron (tính bằng giây). Đặt là 0 nếu bạn "
+"không muốn sử dụng JS Cron."
+
+msgid ""
+"Thank you for using <a href=\"https://kdnautoleech.com\" target=\"_blank\">"
+"KDN Auto Leech</a>"
+msgstr ""
+"Cảm ơn bạn đã sử dụng <a href=\"https://kdnautoleech.com\" target=\"_blank\">"
+"KDN Auto Leech</a>"
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "API Key retrieved from Yandex Translator."
+msgstr "API Key được lấy từ Yandex Translator."
+
+msgid "Test Yandex Translator Options"
+msgstr "Thử nghiệm Yandex Translator"
+
+msgid "Yandex Translator Options"
+msgstr "Yandex Translator"
+
+msgid ""
+"You can write any text to test Yandex Translator options you configured."
+msgstr ""
+"Bạn có thể viết bất cứ văn bản nào để thử nghiệm các tùy chọn Yandex "
+"Translator mà bạn đã cấu hình."
+
+msgid "Can not translate. String: %1$s"
+msgstr "Không thể dịch được. Chuỗi: %1$s"
+
+msgid "Translate?"
+msgstr "Dịch?"
+
+msgid "If you check this, each item will be tried to be translate."
+msgstr "Nếu bạn đánh dấu, mỗi kết quả sẽ được cố gắng dịch."
+
+msgid "None"
+msgstr "Không"
+
+msgid "Downloading plugin package..."
+msgstr "Đang tải về gói mở rộng..."
+
+msgid "Plugin package was downloaded."
+msgstr "Gói mở rộng đã được tải về."
+
+msgid "Cannot download the plugin package."
+msgstr "Không thể tải về gói mở rộng."
+
+msgid "An error occurred when updating plugin. Please try again!"
+msgstr "Đã xảy ra lỗi khi cập nhật gói mở rộng. Vui lòng thử lại!"
+
+msgid "An error was occurred!"
+msgstr "Đã có lỗi xảy ra!"
+
+msgid "Extracting plugin package..."
+msgstr "Đang giải nén gói mở rộng..."
+
+msgid "Plugin package was extracted."
+msgstr "Gói mở rộng đã được giải nén."
+
+msgid "Plugin updated successfully!"
+msgstr "Cập nhật gói mở rộng thành công!"
+
+msgid "Cannot extract the plugin package."
+msgstr "Không thể giải nén gói mở rộng."
+
+msgid ""
+"If this page not redirect automatically, please <b><a href=\"%s\">click "
+"here</a></b>!"
+msgstr ""
+"Nếu trang này không tự động chuyển hướng, vui lòng <b><a href=\"%s\">nhấp "
+"vào đây</a></b>!"
+
+msgid "Deleting..."
+msgstr "Đang xóa..."
+
+msgid "Custom short code:"
+msgstr "Shortcode tùy chỉnh:"
+
+msgid "Parse cookies"
+msgstr "Phân tích cookies"
+
+msgid "Parse cookies from string as: name1=value1; name2=value2;..."
+msgstr "Phân tích cookies từ chuỗi như: name1=value1; name2=value2;..."
+
+msgid ""
+"When you check this, the API Keys you entered will be randomized. This means,"
+" the order of the API Keys will be changed every time before a new request "
+"is made. If you do not check this, the API Keys will be tried in the order "
+"you entered them."
+msgstr ""
+"Khi đánh dấu, các API Key bạn nhập vào sẽ được sắp xếp ngẫu nhiên. Điều này "
+"có nghĩa là thứ tự của các API Key sẽ được thay đổi mỗi lần trước khi một "
+"truy vấn URL mới được tạo ra. Nếu bạn không đánh dấu, các API Key sẽ được sử "
+"dụng theo thứ tự bạn nhập chúng."
+
+msgid "Randomize API Keys?"
+msgstr "Ngẫu nhiên hóa API Keys?"
+
+msgid "Parse headers"
+msgstr "Phân tích headers"
+
+msgid ""
+"Parse headers from string as:\n"
+"Header1: Value1\n"
+"Header2: Value2\n"
+"..."
+msgstr ""
+"Phân tích headers từ chuỗi như:\n"
+"Header1: Value1\n"
+"Header2: Value2\n"
+"..."
+
+msgid "All sites"
+msgstr "Tất cả chiến dịch"
+
+msgid "Negate?"
+msgstr "Phủ định?"

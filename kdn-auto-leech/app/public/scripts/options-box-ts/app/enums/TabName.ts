@@ -1,0 +1,11 @@
+export enum TabName {
+    CALCULATIONS,
+    FIND_REPLACE,
+    GENERAL,
+    IMPORT_EXPORT,
+    NOTES,
+    TEMPLATES,
+    FILE_FIND_REPLACE,
+    FILE_OPERATIONS,
+    FILE_TEMPLATES,
+}
